@@ -23,6 +23,7 @@
   </teiHeader>
   <text>
     <body>
+    <div type="edition">
     <!-- [ body of text ... ]  -->
       <div n="1" type="part">
       </div>
@@ -231,6 +232,7 @@
         </div> <!-- end C.4 -->
       </div> <!-- end of part 2 -->
       <div n="3" type="part">
+      </div>
       </div>
     </body>
   </text>
