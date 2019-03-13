@@ -9,9 +9,6 @@
 <text>
   <body>
     <div type="edition" xml:id="edition-text" xml:space="preserve">
-      <div type="textpart" n="1" xml:id="part1">
-        <head>Title of First Part</head>
-      </div>
     </div>
   </body>
 </text>
