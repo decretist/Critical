@@ -45,7 +45,7 @@
           return content;
         }
       }});
-      var data = c.getHTML5('Paul.xml', null, function(el){
+      var data = c.getHTML5('Baseline.xml', null, function(el){
         if (el.hasAttribute("id")) {
          if (["tei-listwit", "tei-witness", "tei-bibl", "tei-handnote", "tei-person", "tei-item"].includes(el.localName)) {
             var val = $(el).children("tei-abbr[type=siglum]").html();
