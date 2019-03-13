@@ -1,0 +1,19 @@
+    <front>
+      <div type="introduction">
+        <listWit>
+          <witness xml:id="Aa"><abbr type="siglum">Aa</abbr> =
+            Admont, Stiftsbibliothek 23 and 43.</witness>
+          <witness xml:id="Bc"><abbr type="siglum">Bc</abbr> =
+            Barcelona, Archivo de la Corona de Aragon, Ripoll 78.</witness>
+          <witness xml:id="Fd"><abbr type="siglum">Fd</abbr> =
+            Firenze, Biblioteca Nazionale Conv. soppr. A I.402.</witness>
+          <witness xml:id="P"><abbr type="siglum">P</abbr> =
+            Paris, Bibliothèque nationale de France nouv. acq. lat. 1761</witness>
+          <witness xml:id="Sg"><abbr type="siglum">Sg</abbr> =
+            St. Gallen, Stiftsbibliothek 673.</witness>
+        </listWit>
+        <listBibl>
+          <bibl xml:id="Fr"><abbr type="siglum">Fr.</abbr>: Friedberg 1879.</bibl>
+        </listBibl>
+      </div>
+    </front>
