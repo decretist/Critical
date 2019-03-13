@@ -7,17 +7,6 @@
 <teiHeader>
 </teiHeader>
 <text>
-  <front xml:id="front">
-    <div type="section" xml:id="preface">
-      <head>Preface</head>
-      <p>General introductory remarks about the edition.</p>
-    <div type="section" xml:id="preface-section-1">
-    </div>
-    </div>
-    <div type="section" xml:id="bibliography">
-    <head>Bibliography</head>
-    </div>
-  </front>
   <body>
     <div type="edition" xml:id="edition-text" xml:space="preserve">
       <div type="textpart" n="1" xml:id="part1">
