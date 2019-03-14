@@ -7,16 +7,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Title of Work</title>
-        <author>Name of Author</author>
-        <editor>Name of Editor</editor>
+        <title>Concordia discordantium canonum</title>
+        <author>Gratian, active 12th century</author>
+        <editor>Paul Evans</editor>
       </titleStmt>
-      <editionStmt>
-        <edition>First Edition</edition>
-      </editionStmt>
       <publicationStmt>
-        <publisher>Medieval Academy of America</publisher>
-        <distributor>Digital Latin Library</distributor>
         <date>2019</date>
         <availability>
           <license target="https://creativecommons.org/licenses/by/4.0/">
@@ -24,10 +19,6 @@
           </license>
         </availability>
       </publicationStmt>
-      <seriesStmt>
-        <title level="s">Library of Digital Latin Texts</title>
-        <biblScope unit="vol">1</biblScope>
-      </seriesStmt>
       <sourceDesc>
         <p>Born digital.</p>
       </sourceDesc>
@@ -35,8 +26,7 @@
   </teiHeader>
   <text>
     <front xml:id="front">
-<!-- PLE -->
-      <div type="introduction">
+      <div type="section" xml:id="conspectus">
         <listWit>
           <witness xml:id="Aa"><abbr type="siglum">Aa</abbr> =
             Admont, Stiftsbibliothek 23 and 43.</witness>
@@ -53,21 +43,10 @@
           <bibl xml:id="Fr"><abbr type="siglum">Fr.</abbr>: Friedberg 1879.</bibl>
         </listBibl>
       </div>
-<!-- PLE -->
-      <div type="section" xml:id="preface">
-        <head>Preface</head>
-        <p>General introductory remarks about the edition.</p>
-        <div type="section" xml:id="preface-section-1">
-        </div>
-      </div>
-      <div type="section" xml:id="bibliography">
-        <head>Bibliography</head>
-      </div>
     </front>
     <body>
       <div type="edition" xml:id="edition-text" xml:space="preserve">
         <div type="textpart" n="1" xml:id="part1">
-<!-- PLE -->
           <head>(C.4 d.init)</head>
           <ab>[Quidam] in excomunicatione constitutus episcopum
           accusare disponit, adolescentem infra xiiiium etatis sue
@@ -87,7 +66,6 @@
           communione sit remouendus. Sexto, si in episcoporum indicio
           accusatoris persona culpabilis inuenta fuerit, an ad
           assertionem proprie cause, de cetero sit admittenda.</ab>
-<!-- PLE -->
         </div>
       </div>
     </body>
