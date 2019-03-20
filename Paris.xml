@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
   <!-- [ TEI Header information ]  -->
@@ -6,7 +7,6 @@
         <title>Concordia discordantium canonum</title>
         <author>Gratian, active 12th century</author>
         <editor>Paul Evans</editor>
-        <editor>Emily Bolender</editor>
       </titleStmt>
       <publicationStmt>
         <date>2019</date>
@@ -237,6 +237,7 @@
       <div n="3" type="part">
       </div>
     </body>
+    <back>
+    </back>
   </text>
 </TEI>
-
