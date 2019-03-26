@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Cardo');
+tei-div[type=inscription] {
+  font-family: 'Cardo', serif;
+  font-style: italic;
+}
+tei-div[type=rubric] {
+  color: red;
+  font-family: 'Cardo', serif;
+  font-style: italic;
+}
+tei-div[type=canon] {
+  font-family: 'Cardo', serif;
+}
+tei-div[type=saying] {
+  font-family: 'Cardo', serif;
+  font-style: italic;
+}
