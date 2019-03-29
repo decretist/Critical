@@ -47,7 +47,7 @@
     <!-- [ body of text ... ]  -->
       <div type="edition" xml:id="edition-text" xml:space="preserve">
         <div type="case" n="4" xml:id="C.4">
-          <div type="saying" style="color: red; font-style: italic" xml:id="C.4 d.init.">
+          <div type="textpart" style="color: red; font-style: italic" xml:id="C.4 d.init.">
             <head>(C.4 d.init)</head>
             <ab>[Quidam] in excomunicatione constitutus episcopum accusare
             disponit, adolescentem infra xiiiium etatis sue annum ad assertionem
