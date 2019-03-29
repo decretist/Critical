@@ -46,7 +46,6 @@
       <div type="edition" xml:id="edition-text" xml:space="preserve">
         <div> <!-- start C.4 -->
           <div type="textpart" style="font-style:italic"> <!-- start C.4 d.init. -->
-          </div> <!-- end C.4 d.init. -->
             <head>(C.4 d.init)</head>
             <ab>[Quidam] in excomunicatione constitutus episcopum accusare
             disponit, adolescentem infra xiiiium etatis sue annum ad assertionem
@@ -65,6 +64,7 @@
             remouendus. Sexto, si in episcoporum indicio accusatoris persona
             culpabilis inuenta fuerit, an ad assertionem proprie cause, de
             cetero sit admittenda.</ab>
+          </div> <!-- end C.4 d.init. -->
           <div> <!-- start C.4 q.1 -->
             <div type="textpart" style="font-style:italic"> <!-- start C.4 q.1 d.a.c.1 -->
             </div> <!-- end C.4 q.1 d.a.c.1 -->
