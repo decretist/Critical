@@ -1,0 +1,23 @@
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Paris</settlement>
+            <repository>Bibliothèque nationale de France</repository>
+            <idno type="BnF">nouvelles acquisitions latines 1761</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <!-- [ Library of Congress Authorities ] -->
+              <author>Gratian, active 12th century</author>
+              <title>Decretum Gratiani</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <p>fos 1r-158v: A text of the first recension of the Decretum,
+              ending incompletely in C. 12, q. 2, c. 39: "episcopus absque ulla"
+              (line 10 in Friedberg's edition).</p>
+            </objectDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
