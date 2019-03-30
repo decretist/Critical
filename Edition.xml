@@ -12,12 +12,15 @@
         <editor>Paul Evans</editor>
       </titleStmt>
       <publicationStmt>
-        <date>2019</date>
+        <publisher>Stephan Kuttner Institute</publisher>
+        <date>2020</date>
+        <!--
         <availability>
           <license target="https://creativecommons.org/licenses/by/4.0/">
             Distributed under a Creative Commons Attribution 4.0 International License.
           </license>
         </availability>
+          -->
       </publicationStmt>
       <sourceDesc><p>Born digital.</p></sourceDesc>
     </fileDesc>
