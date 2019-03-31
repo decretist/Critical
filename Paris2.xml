@@ -50,8 +50,9 @@
     <front xml:id="front">
       <div type="section" xml:id="conspectus">
         <listWit>
-          <witness xml:id="P"><abbr type="siglum">P</abbr> =
-            Paris, Bibliothèque nationale de France nouv. acq. lat. 1761</witness>
+          <witness xml:id="P"><abbr type="siglum">P</abbr>
+            = Paris, Bibliothèque nationale de France nouvelles acquisitions latines 1761
+          </witness>
         </listWit>
       </div>
     </front>
