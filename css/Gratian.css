@@ -3,27 +3,21 @@ tei-div {
   font-family: 'Cardo', serif;
 }
 tei-div[type=canon_inscription] {
-  font-family: 'Cardo', serif;
   font-style: italic;
 }
 tei-div[type=canon_rubric] {
   color: red;
-  font-family: 'Cardo', serif;
   font-style: italic;
 }
 tei-div[type=canon_text] {
-  font-family: 'Cardo', serif;
 }
 tei-div[type=dictum_ante] {
-  font-family: 'Cardo', serif;
   font-style: italic;
 }
 tei-div[type=dictum_init] {
-  font-family: 'Cardo', serif;
   font-style: italic;
 }
 tei-div[type=dictum_post] {
-  font-family: 'Cardo', serif;
   font-style: italic;
 }
 
