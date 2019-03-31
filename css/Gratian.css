@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Cardo');
+@import url('https://fonts.googleapis.com/css?family=Arvo');
 tei-div {
   font-family: 'Cardo', serif;
+}
+tei-TEI tei-head {
+  display: block;
+  font-family: Arvo, sans-serif;
+  font-weight: normal;
 }
 tei-div[type=canon_inscription] {
   font-style: italic;
