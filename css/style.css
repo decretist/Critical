@@ -4,3 +4,8 @@ tei-titleStmt > tei-author {
   font-family: Inconsolata, Courier;
   margin-bottom: 1em;
 }
+tei-titleStmt > tei-editor {
+  display: block;
+  font-family: Inconsolata, Courier;
+  margin-bottom: 1em;
+}
