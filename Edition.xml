@@ -50,7 +50,8 @@
         <div type="section"> <!-- start C.4 -->
           <div type="textpart" style="font-style:italic"> <!-- start C.4 d.init. -->
             <head>(C.4 d.init)</head>
-            <ab>Quidam in excommunicatione constitutus episcopum accusare
+            <ab><app><lem wit="#Aa #Bc">Quidam</lem><rdg wit="#P"/></app>
+            in excommunicatione constitutus episcopum accusare
             disponit; adolescentem infra xiiiium etatis sue annum ad assertionem
             sue cause adducit. Prohibitus ab accusatione adolescentem
             accusatorem et se testem facit. Adolescens personam accusatoris et
