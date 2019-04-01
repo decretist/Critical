@@ -7,6 +7,7 @@ tei-TEI tei-head {
 }
 tei-div {
   font-family: Cardo, serif;
+  font-size: 125%;
 }
 tei-titleStmt > tei-author {
   display: block;
