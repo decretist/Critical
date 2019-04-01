@@ -5,6 +5,13 @@ tei-TEI tei-head {
   font-family: Cardo, sans-serif;
   font-weight: normal;
 }
+tei-titleStmt > tei-title {
+  display: block;
+  font-family: Cardo, sans-serif;
+  font-weight: normal;
+  font-weight: bold !important;
+  font-size: 150%;
+}
 tei-titleStmt > tei-author {
   display: block;
   font-family: Cardo, Courier;
