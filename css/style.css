@@ -3,7 +3,8 @@
 tei-TEI tei-head {
   display: block;
   font-family: Cardo, serif;
-  font-weight: normal;
+  font-size: 200%;
+  font-weight: bold;
 }
 tei-div {
   font-family: Cardo, serif;
@@ -11,11 +12,13 @@ tei-div {
 tei-titleStmt > tei-author {
   display: block;
   font-family: Cardo, serif;
+  font-size: 150%;
   margin-bottom: 1em;
 }
 tei-titleStmt > tei-editor {
   display: block;
   font-family: Cardo, serif;
+  font-size: 125%;
   margin-bottom: 1em;
 }
 tei-titleStmt > tei-title {
