@@ -1,0 +1,5 @@
+tei-TEI tei-head {
+tei-div
+tei-titleStmt > tei-author {
+tei-titleStmt > tei-editor {
+tei-titleStmt > tei-title {

@@ -2,23 +2,26 @@
 @import url('https://fonts.googleapis.com/css?family=Cardo');
 tei-TEI tei-head {
   display: block;
-  font-family: Cardo, sans-serif;
+  font-family: Cardo, serif;
   font-weight: normal;
 }
-tei-titleStmt > tei-title {
-  display: block;
-  font-family: Cardo, sans-serif;
-  font-weight: normal;
-  font-weight: bold !important;
-  font-size: 150%;
+tei-div {
+  font-family: Cardo, serif;
 }
 tei-titleStmt > tei-author {
   display: block;
-  font-family: Cardo, Courier;
+  font-family: Cardo, serif;
   margin-bottom: 1em;
 }
 tei-titleStmt > tei-editor {
   display: block;
-  font-family: Cardo, Courier;
+  font-family: Cardo, serif;
   margin-bottom: 1em;
+}
+tei-titleStmt > tei-title {
+  display: block;
+  font-family: Cardo, serif;
+  font-weight: normal;
+  font-weight: bold !important;
+  font-size: 150%;
 }
