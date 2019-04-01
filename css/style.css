@@ -1,11 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Arvo');
+@import url('https://fonts.googleapis.com/css?family=Cardo');
+tei-TEI tei-head {
+  display: block;
+  font-family: Cardo, sans-serif;
+  font-weight: normal;
+}
 tei-titleStmt > tei-author {
   display: block;
-  font-family: Inconsolata, Courier;
+  font-family: Cardo, Courier;
   margin-bottom: 1em;
 }
 tei-titleStmt > tei-editor {
   display: block;
-  font-family: Inconsolata, Courier;
+  font-family: Cardo, Courier;
   margin-bottom: 1em;
 }
