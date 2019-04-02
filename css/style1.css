@@ -2,13 +2,13 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 /* 581-612 */
 /* Need head with TEI parent to distinguish from HTML head */
-tei-div {
-  font-family: 'Open Sans', sans-serif;
-}
 tei-TEI tei-head {
   display: block;
   font-family: Arvo, sans-serif;
   font-weight: normal;
+}
+tei-div.textpart {
+  font-family: 'Open Sans', sans-serif;
 }
 tei-div > tei-head {
   font-size: 130%;
