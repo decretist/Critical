@@ -3,15 +3,11 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 tei-TEI tei-head {
   display: block;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Arvo, sans-serif;
   font-weight: normal;
 }
 tei-div {
-  font-family: Cardo, serif;
-  font-size: 150%;
-}
-tei-div:after {
-  font-size: 100%;
+  font-family: 'Open Sans', serif;
 }
 tei-div > tei-head {
   font-size: 130%;
