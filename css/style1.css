@@ -6,7 +6,7 @@ tei-TEI tei-head {
   font-family: Arvo, sans-serif;
   font-weight: normal;
 }
-tei-div.textpart {
+tei-div {
   /* font-family: 'Open Sans', sans-serif; */
   font-family: Cardo, serif;
 }
