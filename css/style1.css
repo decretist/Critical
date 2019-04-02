@@ -8,6 +8,7 @@ tei-TEI tei-head {
 }
 tei-div {
   font-family: Cardo, serif;
+  font-size: 120%;
 }
 tei-div > tei-head {
   font-size: 130%;
