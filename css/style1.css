@@ -14,6 +14,7 @@ tei-body > tei-head {
 tei-div.textpart {
   color:green;
   display: none;
+  font-family: serif;
 }
 tei-div > tei-head {
   font-size: 170%;
