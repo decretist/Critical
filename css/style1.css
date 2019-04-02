@@ -10,6 +10,9 @@ tei-div {
   font-family: Cardo, serif;
   font-size: 150%;
 }
+tei-div:after {
+  font-size: 100%;
+}
 tei-div > tei-head {
   font-size: 130%;
   text-indent: -0.5em;
