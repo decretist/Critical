@@ -1,15 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Arvo');
+@import url('https://fonts.googleapis.com/css?family=Cardo');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
-/* 581-612 */
-/* Need head with TEI parent to distinguish from HTML head */
 tei-TEI tei-head {
   display: block;
   font-family: Arvo, sans-serif;
   font-weight: normal;
 }
 tei-div.textpart {
-  color: green;
-  font-family: 'Open Sans', sans-serif;
+  /* font-family: 'Open Sans', sans-serif; */
+  font-family: Cardo, serif;
 }
 tei-div > tei-head {
   font-size: 130%;
