@@ -8,6 +8,7 @@ tei-TEI tei-head {
   font-weight: normal;
 }
 tei-div.textpart {
+  color: green;
   font-family: 'Open Sans', sans-serif;
 }
 tei-div > tei-head {
