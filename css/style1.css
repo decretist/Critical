@@ -6,27 +6,23 @@ tei-TEI tei-head {
   font-family: Arvo, sans-serif;
   font-weight: normal;
 }
-tei-body > tei-head {
-  color: pink;
-  font-size: 180%;
-  text-indent: -0.5em;
-}
 tei-div > tei-head {
-  font-size: 170%;
+  color: green;
+  font-size: 150%;
   text-indent: -0.5em;
 }
 tei-div > tei-div > tei-head {
-  font-size: 155%;
+  color: blue;
+  font-size: 125%;
 }
 tei-div > tei-div > tei-div > tei-head {
-  font-size: 140%;
+  color: yellow;
+  font-size: 125%;
 }
-tei-div > tei-div > tei-div > tei-div > tei-head, list > tei-head {
-  font-size: 130%;
+tei-div > tei-div > tei-div > tei-div > tei-head {
+  color: purple;
+  font-size: 125%;
 }
 tei-div > tei-div > tei-div > tei-div > tei-div > tei-head {
-  font-size: 120%;
-}
-tei-div > tei-div > tei-div > tei-div > tei-div > tei-div tei-head {
-  font-size: 110%;
+  font-size: 125%;
 }
