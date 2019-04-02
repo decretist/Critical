@@ -7,20 +7,16 @@ tei-TEI tei-head {
   font-weight: normal;
 }
 tei-div > tei-head {
-  color: green;
   font-size: 150%;
   text-indent: -0.5em;
 }
 tei-div > tei-div > tei-head {
-  color: blue;
   font-size: 125%;
 }
 tei-div > tei-div > tei-div > tei-head {
-  color: yellow;
   font-size: 125%;
 }
 tei-div > tei-div > tei-div > tei-div > tei-head {
-  color: purple;
   font-size: 125%;
 }
 tei-div > tei-div > tei-div > tei-div > tei-div > tei-head {
