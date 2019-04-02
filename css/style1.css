@@ -1,0 +1,34 @@
+/* 581-612 */
+/* Need head with TEI parent to distinguish from HTML head */
+tei-TEI tei-head {
+  color: pink;
+  display: block;
+  font-family: Arvo, sans-serif;
+  font-weight: normal;
+}
+tei-body > tei-head {
+  font-size: 180%;
+  text-indent: -0.5em;
+}
+tei-div.textpart {
+  display: none;
+}
+tei-div > tei-head {
+  font-size: 170%;
+  text-indent: -0.5em;
+}
+tei-div > tei-div > tei-head {
+  font-size: 155%;
+}
+tei-div > tei-div > tei-div > tei-head {
+  font-size: 140%;
+}
+tei-div > tei-div > tei-div > tei-div > tei-head, list > tei-head {
+  font-size: 130%;
+}
+tei-div > tei-div > tei-div > tei-div > tei-div > tei-head {
+  font-size: 120%;
+}
+tei-div > tei-div > tei-div > tei-div > tei-div > tei-div tei-head {
+  font-size: 110%;
+}
