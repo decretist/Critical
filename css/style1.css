@@ -5,7 +5,7 @@ tei-titleStmt > tei-author {
   font-family: 'Open Sans', serif;
   margin-bottom: 1em;
 }
-tei-titleStmt > tei-author {
+tei-titleStmt > tei-editor {
   display: block;
   font-family: 'Open Sans', serif;
   margin-bottom: 1em;
