@@ -1,4 +1,0 @@
-tei-titleStmt > tei-author {
-  display: block;
-  margin-bottom: 1em;
-}

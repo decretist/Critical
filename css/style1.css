@@ -31,3 +31,11 @@ tei-div > tei-div > tei-div > tei-head {
 tei-div > tei-div > tei-div > tei-div > tei-head {
   font-size: 115%;
 }
+tei-titleStmt > tei-title {
+  display: block;
+  font-family: Arvo, sans-serif;
+  font-weight: normal;
+  font-weight: bold !important;
+  font-size: 175%;
+  margin-bottom: 1em;
+}
