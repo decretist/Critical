@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Arvo');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+tei-titleStmt > tei-author {
+  display: block;
+  font-family: 'Open Sans', serif;
+  margin-bottom: 1em;
+}
+tei-titleStmt > tei-author {
+  display: block;
+  font-family: 'Open Sans', serif;
+  margin-bottom: 1em;
+}
 tei-TEI tei-head {
   display: block;
   font-family: Arvo, sans-serif;
