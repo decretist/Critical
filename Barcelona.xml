@@ -25,9 +25,9 @@
       <sourceDesc>
         <msDesc>
           <msIdentifier>
-            <settlement></settlement>
-            <repository></repository>
-            <idno></idno>
+            <settlement>Barcelona</settlement>
+            <repository>Arxiu de la Corona d'Aragó</repository>
+            <idno>Santa Maria de Ripoll 78</idno>
           </msIdentifier>
           <msContents>
             <msItem>
@@ -37,7 +37,19 @@
           </msContents>
           <physDesc>
             <objectDesc>
-              <p></p>
+              <p>fos. 1r-15v: The anonymous introduction to the Decretum, "In
+              prima parte agitur," complete, but omitting the de
+              consecratione.</p>
+              <p>fo. 16r-v: Blank.</p>
+              <p>fos. 17r-178v: The first recension of the Decretum, ending
+              defectively with the end of C. 12. The manuscript once continued
+              with C. 13 (and, probably, the rest of the Decretum, as is evident
+              from the catchword at the bottom of fo. 178v:
+              "&lt;D&gt;iocesi///". A later hand added, in the margins and on
+              additional leaves, second-recension texts missing in the original
+              text of the manuscript.</p>
+              <p>fos. 179r-180v: Fragment of a glossed Bible, Numbers 2: 27-3:
+              18.</p>
             </objectDesc>
           </physDesc>
         </msDesc>
@@ -48,7 +60,8 @@
     <front xml:id="front">
       <div type="section" xml:id="conspectus">
         <listWit>
-          <witness xml:id="X"><abbr type="siglum">X</abbr> = 
+          <witness xml:id="Bc"><abbr type="siglum">Bc</abbr>
+            = Barcelona, Arxiu de la Corona d'Aragó, Santa Maria de Ripoll 78
           </witness>
         </listWit>
       </div>
