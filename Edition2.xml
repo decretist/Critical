@@ -6,7 +6,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt>Critical Edition Test<title></title></titleStmt>
+      <titleStmt>Critical Edition Test Framework<title></title></titleStmt>
       <publicationStmt><ab></ab></publicationStmt>
       <sourceDesc><ab></ab></sourceDesc>
     </fileDesc>
@@ -26,7 +26,7 @@
     <body>
       <div type="edition" xml:id="edition-text" xml:space="preserve"> <!-- start edition -->
         <div type="section"> <!-- start section -->
-          <div type="textpart" style="font-style:italic"> <!-- start textpart -->
+          <div type="textpart"> <!-- start textpart -->
             <ab><app><lem>Quidam</lem><rdg wit="#P"/></app>
             in excommunicatione constitutus episcopum accusare
             disponit; adolescentem infra xiiiium etatis sue annum ad assertionem
