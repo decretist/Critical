@@ -47,142 +47,144 @@
     </front>
     <body>
       <div type="edition" xml:id="edition-text" xml:space="preserve">
-        <div type="section"> <!-- start C.4 -->
-          <head>(Causa 4)</head>
-          <div type="textpart" style="font-style:italic"> <!-- start C.4 d.init. -->
-            <head>(C.4 d.init)</head>
-            <ab></ab>
-          </div> <!-- end C.4 d.init. -->
-          <div type="section"> <!-- start C.4 q.1 -->
-            <head>(Questio 1)</head>
-            <div type="textpart" style="font-style:italic"> <!-- start C.4 q.1 d.a.c.1 -->
-              <head>(C.4 q.1 d.a.c.1)</head>
+        <div type="section">
+          <div type="section"> <!-- start C.4 -->
+            <head>(Causa 4)</head>
+            <div type="textpart" style="font-style:italic"> <!-- start C.4 d.init. -->
+              <head>(C.4 d.init)</head>
               <ab></ab>
-            </div> <!-- end C.4 q.1 d.a.c.1 -->
-            <div type="section"> <!-- start C.4 q.1 c.1 -->
-              <head>(C.4 q.1 c.1)</head>
-              <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.1 c.1 (rubric) -->
+            </div> <!-- end C.4 d.init. -->
+            <div type="section"> <!-- start C.4 q.1 -->
+              <head>(Questio 1)</head>
+              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.1 d.a.c.1 -->
+                <head>(C.4 q.1 d.a.c.1)</head>
                 <ab></ab>
-              </div> <!-- end C.4 q.1 c.1 (rubric) -->
-              <div type="textpart"> <!-- start C.4 q.1 c.1 (text) -->
+              </div> <!-- end C.4 q.1 d.a.c.1 -->
+              <div type="section"> <!-- start C.4 q.1 c.1 -->
+                <head>(C.4 q.1 c.1)</head>
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.1 c.1 (rubric) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.1 c.1 (rubric) -->
+                <div type="textpart"> <!-- start C.4 q.1 c.1 (text) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.1 c.1 (text) -->
+              </div> <!-- end C.4 q.1 c.1 -->
+            </div> <!-- end C.4 q.1 -->
+            <div type="section"> <!-- start C.4 q.2-3 -->
+              <head>(Questio 2 et 3)</head>
+              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.2-3 d.a.c.1 -->
+                <head>(C.4 q.2-3 d.a.c.1)</head>
                 <ab></ab>
-              </div> <!-- end C.4 q.1 c.1 (text) -->
-            </div> <!-- end C.4 q.1 c.1 -->
-          </div> <!-- end C.4 q.1 -->
-          <div type="section"> <!-- start C.4 q.2-3 -->
-            <head>(Questio 2 et 3)</head>
-            <div type="textpart" style="font-style:italic"> <!-- start C.4 q.2-3 d.a.c.1 -->
-              <head>(C.4 q.2-3 d.a.c.1)</head>
-              <ab></ab>
-            </div> <!-- end C.4 q.2-3 d.a.c.1 -->
-            <div type="section"> <!-- start C.4 q.2-3 c.1 -->
-              <head>(C.4 q.2-3 c.1)</head>
-              <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.2-3 c.1 (rubric) -->
+              </div> <!-- end C.4 q.2-3 d.a.c.1 -->
+              <div type="section"> <!-- start C.4 q.2-3 c.1 -->
+                <head>(C.4 q.2-3 c.1)</head>
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.2-3 c.1 (rubric) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.2-3 c.1 (rubric) -->
+                <div type="textpart"> <!-- start C.4 q.2-3 c.1 (text) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.2-3 c.1 (text) -->
+                <div type="textpart" style="font-style:italic"> <!-- start C.4 q.2-3 d.p.c.3 -->
+                  <head>(C.4 q.2-3 d.p.c.3)</head>
+                  <ab></ab>
+                </div> <!-- end C.4 q.2-3 d.p.c.3 -->
+              </div> <!-- end C.4 q.2-3 c.1 -->
+            </div> <!-- end C.4 q.2-3 -->
+            <div type="section"> <!-- start C.4 q.4 -->
+              <head>(Questio 4)</head>
+              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.4 d.a.c.1 -->
+                <head>(C.4 q.4 d.a.c.1)</head>
                 <ab></ab>
-              </div> <!-- end C.4 q.2-3 c.1 (rubric) -->
-              <div type="textpart"> <!-- start C.4 q.2-3 c.1 (text) -->
+              </div> <!-- end C.4 q.4 d.a.c.1 -->
+              <div type="section"> <!-- start C.4 q.4 c.1 -->
+                <head>(C.4 q.4 c.1)</head>
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.4 c.1 (rubric) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.4 c.1 (rubric) -->
+                <div type="textpart"> <!-- start C.4 q.4 c.1 (text) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.4 c.1 (text) -->
+              </div> <!-- end C.4 q.4 c.1 -->
+              <div type="section"> <!-- start C.4 q.4 c.2 -->
+                <head>(C.4 q.4 c.2)</head>
+                <div type="textpart" style="font-style:italic"> <!-- start C.4 q.4 c.2 (inscription) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.4 c.2 (inscription) -->
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.4 c.2 (rubric) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.4 c.2 (rubric) -->
+                <div type="textpart"> <!-- start C.4 q.4 c.2 (text) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.4 c.2 (text) -->
+              </div> <!-- end C.4 q.4 c.2 -->
+            </div> <!-- end C.4 q.4 -->
+            <div type="section"> <!-- start C.4 q.5 -->
+              <head>(Questio 5)</head>
+              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.5 d.a.c.1 -->
+                <head>(C.4 q.5 d.a.c.1)</head>
                 <ab></ab>
-              </div> <!-- end C.4 q.2-3 c.1 (text) -->
-              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.2-3 d.p.c.3 -->
-                <head>(C.4 q.2-3 d.p.c.3)</head>
+              </div> <!-- end C.4 q.5 d.a.c.1 -->
+              <div type="section"> <!-- start C.4 q.5 c.1 -->
+                <head>(C.4 q.5 c.1)</head>
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.5 c.1 (rubric) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.5 c.1 (rubric) -->
+                <div type="textpart"> <!-- start C.4 q.5 c.1 (text) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.5 c.1 (text) -->
+              </div> <!-- end C.4 q.5 c.1 -->
+            </div> <!-- end C.4 q.5 -->
+            <div type="section"> <!-- start C.4 q.6 -->
+              <head>(Questio 6)</head>
+              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.6 d.a.c.1 -->
+                <head>(C.4 q.6 d.a.c.1)</head>
                 <ab></ab>
-              </div> <!-- end C.4 q.2-3 d.p.c.3 -->
-            </div> <!-- end C.4 q.2-3 c.1 -->
-          </div> <!-- end C.4 q.2-3 -->
-          <div type="section"> <!-- start C.4 q.4 -->
-            <head>(Questio 4)</head>
-            <div type="textpart" style="font-style:italic"> <!-- start C.4 q.4 d.a.c.1 -->
-              <head>(C.4 q.4 d.a.c.1)</head>
-              <ab></ab>
-            </div> <!-- end C.4 q.4 d.a.c.1 -->
-            <div type="section"> <!-- start C.4 q.4 c.1 -->
-              <head>(C.4 q.4 c.1)</head>
-              <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.4 c.1 (rubric) -->
-                <ab></ab>
-              </div> <!-- end C.4 q.4 c.1 (rubric) -->
-              <div type="textpart"> <!-- start C.4 q.4 c.1 (text) -->
-                <ab></ab>
-              </div> <!-- end C.4 q.4 c.1 (text) -->
-            </div> <!-- end C.4 q.4 c.1 -->
-            <div type="section"> <!-- start C.4 q.4 c.2 -->
-              <head>(C.4 q.4 c.2)</head>
-              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.4 c.2 (inscription) -->
-                <ab></ab>
-              </div> <!-- end C.4 q.4 c.2 (inscription) -->
-              <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.4 c.2 (rubric) -->
-                <ab></ab>
-              </div> <!-- end C.4 q.4 c.2 (rubric) -->
-              <div type="textpart"> <!-- start C.4 q.4 c.2 (text) -->
-                <ab></ab>
-              </div> <!-- end C.4 q.4 c.2 (text) -->
-            </div> <!-- end C.4 q.4 c.2 -->
-          </div> <!-- end C.4 q.4 -->
-          <div type="section"> <!-- start C.4 q.5 -->
-            <head>(Questio 5)</head>
-            <div type="textpart" style="font-style:italic"> <!-- start C.4 q.5 d.a.c.1 -->
-              <head>(C.4 q.5 d.a.c.1)</head>
-              <ab></ab>
-            </div> <!-- end C.4 q.5 d.a.c.1 -->
-            <div type="section"> <!-- start C.4 q.5 c.1 -->
-              <head>(C.4 q.5 c.1)</head>
-              <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.5 c.1 (rubric) -->
-                <ab></ab>
-              </div> <!-- end C.4 q.5 c.1 (rubric) -->
-              <div type="textpart"> <!-- start C.4 q.5 c.1 (text) -->
-                <ab></ab>
-              </div> <!-- end C.4 q.5 c.1 (text) -->
-            </div> <!-- end C.4 q.5 c.1 -->
-          </div> <!-- end C.4 q.5 -->
-          <div type="section"> <!-- start C.4 q.6 -->
-            <head>(Questio 6)</head>
-            <div type="textpart" style="font-style:italic"> <!-- start C.4 q.6 d.a.c.1 -->
-              <head>(C.4 q.6 d.a.c.1)</head>
-              <ab></ab>
-            </div> <!-- end C.4 q.6 d.a.c.1 -->
-            <div type="section"> <!-- start C.4 q.6 c.1 -->
-              <head>(C.4 q.6 c.1)</head>
-              <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.6 c.1 (rubric) -->
-                <ab></ab>
-              </div> <!-- end C.4 q.6 c.1 (rubric) -->
-              <div type="textpart"> <!-- start C.4 q.6 c.1 (text) -->
-                <ab></ab>
-              </div> <!-- end C.4 q.6 c.1 (text) -->
-            </div> <!-- end C.4 q.6 c.1 -->
-            <div type="section"> <!-- start C.4 q.6 c.2 -->
-              <head>(C.4 q.6 c.2)</head>
-              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.6 c.2 (inscription) -->
-                <ab></ab>
-              </div> <!-- end C.4 q.6 c.2 (inscription) -->
-              <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.6 c.2 (rubric) -->
-                <ab></ab>
-              </div> <!-- end C.4 q.6 c.2 (rubric) -->
-              <div type="textpart"> <!-- start C.4 q.6 c.2 (text) -->
-                <ab></ab>
-              </div> <!-- end C.4 q.6 c.2 (text) -->
-            </div> <!-- end C.4 q.6 c.2 -->
-            <div type="section"> <!-- start C.4 q.6 c.3 -->
-              <head>(C.4 q.6 c.3)</head>
-              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.6 c.3 (inscription) -->
-                <ab></ab>
-              </div> <!-- end C.4 q.6 c.3 (inscription) -->
-              <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.6 c.3 (rubric) -->
-                <ab></ab>
-              </div> <!-- end C.4 q.6 c.3 (rubric) -->
-              <div type="textpart"> <!-- start C.4 q.6 c.3 (text) -->
-                <ab></ab>
-              </div> <!-- end C.4 q.6 c.3 (text) -->
-            </div> <!-- end C.4 q.6 c.3 -->
-            <div type="section"> <!-- start C.4 q.6 c.4 -->
-              <head>(C.4 q.6 c.4)</head>
-              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.6 c.4 (inscription) -->
-                <ab></ab>
-              </div> <!-- end C.4 q.6 c.4 (inscription) -->
-              <div type="textpart"> <!-- start C.4 q.6 c.4 (text) -->
-                <ab></ab>
-              </div> <!-- end C.4 q.6 c.4 (text) -->
-            </div> <!-- end C.4 q.6 c.4 -->
-          </div> <!-- end C.4 q.6 -->
-        </div> <!-- end C.4 -->
+              </div> <!-- end C.4 q.6 d.a.c.1 -->
+              <div type="section"> <!-- start C.4 q.6 c.1 -->
+                <head>(C.4 q.6 c.1)</head>
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.6 c.1 (rubric) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.6 c.1 (rubric) -->
+                <div type="textpart"> <!-- start C.4 q.6 c.1 (text) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.6 c.1 (text) -->
+              </div> <!-- end C.4 q.6 c.1 -->
+              <div type="section"> <!-- start C.4 q.6 c.2 -->
+                <head>(C.4 q.6 c.2)</head>
+                <div type="textpart" style="font-style:italic"> <!-- start C.4 q.6 c.2 (inscription) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.6 c.2 (inscription) -->
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.6 c.2 (rubric) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.6 c.2 (rubric) -->
+                <div type="textpart"> <!-- start C.4 q.6 c.2 (text) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.6 c.2 (text) -->
+              </div> <!-- end C.4 q.6 c.2 -->
+              <div type="section"> <!-- start C.4 q.6 c.3 -->
+                <head>(C.4 q.6 c.3)</head>
+                <div type="textpart" style="font-style:italic"> <!-- start C.4 q.6 c.3 (inscription) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.6 c.3 (inscription) -->
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.6 c.3 (rubric) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.6 c.3 (rubric) -->
+                <div type="textpart"> <!-- start C.4 q.6 c.3 (text) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.6 c.3 (text) -->
+              </div> <!-- end C.4 q.6 c.3 -->
+              <div type="section"> <!-- start C.4 q.6 c.4 -->
+                <head>(C.4 q.6 c.4)</head>
+                <div type="textpart" style="font-style:italic"> <!-- start C.4 q.6 c.4 (inscription) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.6 c.4 (inscription) -->
+                <div type="textpart"> <!-- start C.4 q.6 c.4 (text) -->
+                  <ab></ab>
+                </div> <!-- end C.4 q.6 c.4 (text) -->
+              </div> <!-- end C.4 q.6 c.4 -->
+            </div> <!-- end C.4 q.6 -->
+          </div> <!-- end C.4 -->
+        </div>
       </div>
     </body>
     <back>
