@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digitallatin.github.io/guidelines/critical-editions.rng"
+            type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digitallatin.github.io/guidelines/critical-editions.rng"
+            type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Decretum Gratiani</title>
+        <author>Gratian, active 12th century</author>
+        <editor>Paul Evans</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Stephan Kuttner Institute</publisher>
+        <date>2020</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Distributed under a Creative Commons Attribution 4.0 International License.
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Admont</settlement>
+            <repository>Stiftsbibliothek</repository>
+            <idno>23</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <locus>fos. 1v-8r</locus>
+              <p>The beginning of the anonymous introduction to the
+              Decretum, "In prima parte agitur".</p>
+            </msItem>
+            <msItem>
+              <locus>fo. 8 r-v</locus>
+              <p>The beginning of the anonymous introduction to the
+              Decretum, "Hoc opus inscribitur".</p>
+            </msItem>
+            <msItem>
+              <locus>fos. 9r-199v</locus>
+              <p>Part 1 and Causae 1 to 14 in part 2 of the first
+              recension of the Decretum.</p>
+            </msItem>
+            <msItem>
+              <locus>fos. 200r-296v</locus>
+              <p>Supplement containing the canons and dicta which
+              were added in the second recension and are missing
+              on fos. 9r-119v: "Exceptiones quorumdam capitulorum
+              in corpore libri omissorum ..."</p>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <p>296 fos.</p>
+            </objectDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front></front>
+    <body>
+      <div type="edition" xml:id="edition-text" xml:space="preserve">
+        <div type="section">
+          <div type="section"> <!-- start C.4 -->
+            <head>(C.4)</head>
+            <div type="textpart" style="font-style:italic"> <!-- start C.4 d.init. -->
+              <head>(C.4 d.init)</head>
+              <ab></ab>
+            </div> <!-- end C.4 d.init. -->
+            <div type="section"> <!-- start C.4 q.1 -->
+              <head>(C.4 q.1)</head>
+              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.1 d.a.c.1 -->
+                <head>(C.4 q.1 d.a.c.1)</head>
+                <ab></ab>
+              </div> <!-- end C.4 q.1 d.a.c.1 -->
+              <div type="section"> <!-- start C.4 q.1 c.1 -->
+                <head>(C.4 q.1 c.1)</head>
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
+                  <ab></ab>
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
+                  <ab></ab>
+                </div> <!-- end canon -->
+              </div> <!-- end C.4 q.1 c.1 -->
+            </div> <!-- end C.4 q.1 -->
+            <div type="section"> <!-- start C.4 q.2-3 -->
+              <head>(C.4 q.2-3)</head>
+              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.2-3 d.a.c.1 -->
+                <head>(C.4 q.2-3 d.a.c.1)</head>
+                <ab></ab>
+              </div> <!-- end C.4 q.2-3 d.a.c.1 -->
+              <div type="section"> <!-- start C.4 q.2-3 c.1 -->
+                <head>(C.4 q.2-3 c.1)</head>
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
+                  <ab></ab>
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
+                  <ab></ab>
+                </div> <!-- end canon -->
+                <div type="textpart" style="font-style:italic"> <!-- start C.4 q.2-3 d.p.c.3 -->
+                  <head>(C.4 q.2-3 d.p.c.3)</head>
+                  <ab></ab>
+                </div> <!-- end C.4 q.2-3 d.p.c.3 -->
+              </div> <!-- end C.4 q.2-3 c.1 -->
+            </div> <!-- end C.4 q.2-3 -->
+            <div type="section"> <!-- start C.4 q.4 -->
+              <head>(C.4 q.4)</head>
+              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.4 d.a.c.1 -->
+                <head>(C.4 q.4 d.a.c.1)</head>
+                <ab></ab>
+              </div> <!-- end C.4 q.4 d.a.c.1 -->
+              <div type="section"> <!-- start C.4 q.4 c.1 -->
+                <head>(C.4 q.4 c.1)</head>
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
+                  <ab></ab>
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
+                  <ab></ab>
+                </div> <!-- end canon -->
+              </div> <!-- end C.4 q.4 c.1 -->
+              <div type="section"> <!-- start C.4 q.4 c.2 -->
+                <head>(C.4 q.4 c.2)</head>
+                <div type="textpart" style="font-style:italic"> <!-- start inscription -->
+                  <ab></ab>
+                </div> <!-- end inscription -->
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
+                  <ab></ab>
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
+                  <ab></ab>
+                </div> <!-- end canon -->
+              </div> <!-- end C.4 q.4 c.2 -->
+            </div> <!-- end C.4 q.4 -->
+            <div type="section"> <!-- start C.4 q.5 -->
+              <head>(C.4 q.5)</head>
+              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.5 d.a.c.1 -->
+                <head>(C.4 q.5 d.a.c.1)</head>
+                <ab></ab>
+              </div> <!-- end C.4 q.5 d.a.c.1 -->
+              <div type="section"> <!-- start C.4 q.5 c.1 -->
+                <head>(C.4 q.5 c.1)</head>
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
+                  <ab></ab>
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
+                  <ab></ab>
+                </div> <!-- end canon -->
+              </div> <!-- end C.4 q.5 c.1 -->
+            </div> <!-- end C.4 q.5 -->
+            <div type="section"> <!-- start C.4 q.6 -->
+              <head>(C.4 q.6)</head>
+              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.6 d.a.c.1 -->
+                <head>(C.4 q.6 d.a.c.1)</head>
+                <ab></ab>
+              </div> <!-- end C.4 q.6 d.a.c.1 -->
+              <div type="section"> <!-- start C.4 q.6 c.1 -->
+                <head>(C.4 q.6 c.1)</head>
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
+                  <ab></ab>
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
+                  <ab></ab>
+                </div> <!-- end canon -->
+              </div> <!-- end C.4 q.6 c.1 -->
+              <div type="section"> <!-- start C.4 q.6 c.2 -->
+                <head>(C.4 q.6 c.2)</head>
+                <div type="textpart" style="font-style:italic"> <!-- start inscription -->
+                  <ab></ab>
+                </div> <!-- end inscription -->
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
+                  <ab></ab>
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
+                  <ab></ab>
+                </div> <!-- end canon -->
+              </div> <!-- end C.4 q.6 c.2 -->
+              <div type="section"> <!-- start C.4 q.6 c.3 -->
+                <head>(C.4 q.6 c.3)</head>
+                <div type="textpart" style="font-style:italic"> <!-- start inscription -->
+                  <ab></ab>
+                </div> <!-- end inscription -->
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
+                  <ab></ab>
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
+                  <ab></ab>
+                </div> <!-- end canon -->
+              </div> <!-- end C.4 q.6 c.3 -->
+              <div type="section"> <!-- start C.4 q.6 c.4 -->
+                <head>(C.4 q.6 c.4)</head>
+                <div type="textpart" style="font-style:italic"> <!-- start inscription -->
+                  <ab></ab>
+                </div> <!-- end inscription -->
+                <div type="textpart"> <!-- start canon -->
+                  <ab></ab>
+                </div> <!-- end canon -->
+              </div> <!-- end C.4 q.6 c.4 -->
+            </div> <!-- end C.4 q.6 -->
+          </div> <!-- end C.4 -->
+        </div>
+      </div>
+    </body>
+    <back></back>
+  </text>
+</TEI>
