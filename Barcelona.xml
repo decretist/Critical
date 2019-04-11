@@ -14,13 +14,11 @@
       <publicationStmt>
         <publisher>Stephan Kuttner Institute</publisher>
         <date>2020</date>
-        <!--
         <availability>
-          <license target="https://creativecommons.org/licenses/by/4.0/">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
             Distributed under a Creative Commons Attribution 4.0 International License.
-          </license>
+          </licence>
         </availability>
-          -->
       </publicationStmt>
       <sourceDesc>
         <msDesc>
