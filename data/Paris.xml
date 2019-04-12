@@ -31,9 +31,9 @@
           <msContents>
             <msItem>
               <locus>fos. 1r-158v</locus>
-	      <p>A text of the first recension of the Decretum,
-	      ending incompletely in C. 12, q. 2, c. 39: "episcopus
-	      absque ulla" (line 10 in Friedberg's edition).</p>
+              <p>A text of the first recension of the Decretum,
+              ending incompletely in C. 12, q. 2, c. 39: "episcopus
+              absque ulla" (line 10 in Friedberg's edition).</p>
             </msItem>
           </msContents>
           <physDesc>
@@ -51,7 +51,7 @@
       <div type="edition" xml:id="edition-text" xml:space="preserve">
         <div type="section">
           <div type="section"> <!-- start C.4 -->
-            <head>(Causa 4)</head>
+            <head>(C.4)</head>
             <div type="textpart" style="font-style:italic"> <!-- start C.4 d.init. -->
               <head>(C.4 d.init)</head>
               <ab><supplied reason="omitted">Quidam</supplied> in excomunicatione constitutus episcopum accusare
@@ -232,7 +232,6 @@
         </div>
       </div>
     </body>
-    <back>
-    </back>
+    <back></back>
   </text>
 </TEI>
