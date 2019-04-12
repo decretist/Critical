@@ -48,185 +48,189 @@
   <text>
     <front></front>
     <body>
-      <div type="section"> <!-- start C.4 -->
-        <head>(Causa 4)</head>
-        <div type="textpart" style="font-style:italic"> <!-- start C.4 d.init. -->
-          <head>(C.4 d.init)</head>
-          <ab><supplied reason="omitted">Quidam</supplied> in excomunicatione constitutus episcopum accusare
-          disponit, adolescentem infra xiiiium etatis sue annum ad assertionem
-          sue cause adducit. Prohibitus ab accusatione adolescentem accusatorem,
-          et se testem facit. Adolescens personam accusatoris et testis gerere
-          cupit, di statuta ad iudicium electorum iudicium episcopus minime
-          concurrit a <expan>co<ex>mmun</ex>io<ex>n</ex>e</expan> suspendere, tandem renouato iudicio,
-          accusator culpabilis in accusatione inuenitur, demum ad assertionem
-          proprie cause procedit. Hic primum queritur an in excommunicatione
-          constitutus alium accusare ualeat. Secundo autem infra [infra]
-          xiiiium. annum in criminari causa testari, quis possit. Tercio, utrum
-          accusatione prohibitus personam testificantis possit assumere. Quarto,
-          aut [?] die constituta non occurrens a communione sit remouendus.
-          Sexto, si in episcoporum indicio accusatoris persona culpabilis
-          inuenta fuerit, an ad assertionem proprie cause, de cetero sit
-          admittenda.</ab>
-        </div> <!-- end C.4 d.init. -->
-        <div type="section"> <!-- start C.4 q.1 -->
-          <head>(C.4 q.1)</head>
-          <div type="textpart" style="font-style:italic"> <!-- start C.4 q.1 d.a.c.1 -->
-            <head>(C.4 q.1 d.a.c.1)</head>
-            <ab>De prima questione sic statutum legitur, in concilio
-            cartaginensi viio [i.e., septimo] cui interfuit faustinus romane
-            ecclesie legatus.</ab>
-          </div> <!-- end C.4 q.1 d.a.c.1 -->
-          <div type="section"> <!-- start C.4 q.1 c.1 -->
-            <head>(C.4 q.1 c.1)</head>
-            <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
-              <ab>Ad accusandum non admittatur qui in excommunicationem
-              perseuerat.</ab>
-            </div> <!-- end rubric -->
-            <div type="textpart"> <!-- start canon -->
-              <ab>Diffinimus eum rite ad accusationem non admitti, qui
-              posteaquam excommunicatus fuit, in ispa adhuc excommunicatione
-              constitutus siue sit clericus, accusare uoluerit. Omnes etiam
-              infamie maculis aspersi, id est istriones, aut turpitudinibus
-              subiecte persone. Heretici etiam, siue pagani, siue iudei, ab
-              accusatione prohibentur.</ab>
-            </div> <!-- end canon -->
-          </div> <!-- end C.4 q.1 c.1 -->
-        </div> <!-- end C.4 q.1 -->
-        <div type="section"> <!-- start C.4 q.2-3 -->
-          <head>(C.4 q.2-3)</head>
-          <div type="textpart" style="font-style:italic"> <!-- start C.4 q.2-3 d.a.c.1 -->
-            <head>(C.4 q.2-3 d.a.c.1)</head>
-            <ab>Secunda autem et tercia questio eodem concilio uno eodemque
-            capitulo terminatur. Illud uero est huiusmodi.</ab>
-          </div> <!-- end C.4 q.2-3 d.a.c.1 -->
-          <div type="section"> <!-- start C.4 q.2-3 c.1 -->
-            <head>(C.4 q.2-3 c.1)</head>
-            <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
-              <ab>Qui ab accusatione repelluntur aut ad annum xiiii. nondum
-              peruenerunt testes esse non possunt.</ab>
-            </div> <!-- end rubric -->
-            <div type="textpart"> <!-- start canon -->
-              <ab>Testes autem ad testimonium admittendo censemus qui nec ad
-              accusationem admitti iussi sunt, uel etiam quos ipse accusator de
-              domo sua produxerit. Ad testimonium autem intra annos xiiii etatis
-              sue constituti non admittantur.</ab>
-            </div> <!-- end canon -->
-            <div type="textpart" style="font-style:italic"> <!-- start C.4 q.2-3 d.p.c.3 -->
-              <head>(C.4 q.2-3 d.p.c.3)</head>
-              <ab>Sed obicitur illud beati bricii, qui uoce pueri xxx dies ab
-              hortu habentis innocens probatus est. Sed miracula diuina sunt
-              admiranda non in exemplum humane acc[ti?]onis trahenda.</ab>
-            </div> <!-- end C.4 q.2-3 d.p.c.3 -->
-          </div> <!-- end C.4 q.2-3 c.1 -->
-        </div> <!-- end C.4 q.2-3 -->
-        <div type="section"> <!-- start C.4 q.4 -->
-          <head>(C.4 q.4)</head>
-          <div type="textpart" style="font-style:italic"> <!-- start C.4 q.4 d.a.c.1 -->
-            <head>(C.4 q.4 d.a.c.1)</head>
-            <ab>De quarta uero questione fabianus papa constituit dicens:</ab>
-          </div> <!-- end C.4 q.4 d.a.c.1 -->
-          <div type="section"> <!-- start C.4 q.4 c.1 -->
-            <head>(C.4 q.4 c.1)</head>
-            <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
-              <ab>Accusator testis uel iudex aliquis simul esse non potest.</ab>
-            </div> <!-- end rubric -->
-            <div type="textpart"> <!-- start canon -->
-              <ab>Nullus umquam presumat accusator simul esse, et iudex, uel
-              testis, quam in omni iudicio iiiior [i.e., quatuor] personas
-              semper necesse est esse, in iudices, electos, et accusatores, ac
-              defensores, atque testes.</ab>
-            </div> <!-- end canon -->
-          </div> <!-- end C.4 q.4 c.1 -->
-          <div type="section"> <!-- start C.4 q.4 c.2 -->
-            <head>(C.4 q.4 c.2)</head>
-            <div type="textpart" style="font-style:italic"> <!-- start inscription -->
-              <ab>Item damasus papa.</ab>
-            </div> <!-- end inscription -->
-            <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
-              <ab>Quilibet in causa duas personas gerere non ualet.</ab>
-            </div> <!-- end rubric -->
-            <div type="textpart"> <!-- start canon -->
-              <ab>Nullus introducatur personaliter ad [ca?]usam sed accusatores,
-              et accusati equa audiantur, ratione, iuxta, quod ordo exigit.
-              Accusatores uero, et iudices non idem sint, sed per se iudices,
-              per se testes, per se accusati unusquisque in suo ordine.
-              Inscriptio semper fiat ut talionem calumpniator recipiat. Quia
-              ante inscriptionem nemo debet indicari [iudicari?] uel dampnari,
-              cum et seculi [?] leges hec eadem retieneant [?].</ab>
-            </div> <!-- end canon -->
-          </div> <!-- end C.4 q.4 c.2 -->
-        </div> <!-- end C.4 q.4 -->
-        <div type="section"> <!-- start C.4 q.5 -->
-          <head>(C.4 q.5)</head>
-          <div type="textpart" style="font-style:italic"> <!-- start C.4 q.5 d.a.c.1 -->
-            <head>(C.4 q.5 d.a.c.1)</head>
-            <ab>De v uero questione in concilio cartaginensi tercio sic
-            inuenenitur [?] diffinitum.</ab>
-          </div> <!-- end C.4 q.5 d.a.c.1 -->
-          <div type="section"> <!-- start C.4 q.5 c.1 -->
-            <head>(C.4 q.5 c.1)</head>
-            <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
-              <ab>Non est a co[mmuni]one suspendendus qui die statua ad causam
-              peruenire non potuit.</ab>
-            </div> <!-- end rubric -->
-            <div type="textpart"> <!-- start canon -->
-              <ab>Quisquis episcoporum accusatur ad primates prouince ipsius
-              causam deferat accusator. Nec a communione suspendatur, cui crimen
-              intenditur, nisi ad causam suam dicendam, electorum iudicium, die
-              statua litteris euocatus minime occurrerit. Hoc est infra [infra?]
-              spatium mensis. ex ea die qua eum litteras accepisse constiterit.
-              Quod si aliquas ueras necessitatis causas propriau[er?]it quibus
-              occurrere non potuisse manifestum sit cause sue dicende, intra
-              alterem mensem integram habeat facultatem. Verum tamdiu post
-              mensem secundum non communicet, donec purgetur. Si autem ad
-              uniuersale concilium [anniuersalium?] occurrere uoluit, ut uel ibi
-              causa eius terminetur, ipse in se dampnationis sentatiam dixisse
-              iudecitur. Tempore sane quo non communicat, nec in sua ecclesia
-              uel parocchia communicet. Accusator autem eius si numquam diebus
-              cause dicende defuerit subtrahens se, restituto in communione
-              episcopo, remoueater a communione accusator, ita tamen, ut nec
-              ipsi adimatur facultas cause peragende, si se ad diem non uoluisse
-              sed non potuisse occurrere probauerit.</ab>
-            </div> <!-- end canon -->
-          </div> <!-- end C.4 q.5 c.1 -->
-        </div> <!-- end C.4 q.5 -->
-        <div type="section"> <!-- start C.4 q.6 -->
-          <head>(C.4 q.6)</head>
-          <div type="textpart" style="font-style:italic"> <!-- start C.4 q.6 d.a.c.1 -->
-            <head>(C.4 q.6 d.a.c.1)</head>
-            <ab>Sexta uero questio eodem capitulo terminatur, in quo
-            sequitur.</ab>
-          </div> <!-- end C.4 q.6 d.a.c.1 -->
-          <div type="section"> <!-- start C.4 q.6 c.1 -->
-            <head>(C.4 q.6 c.1)</head>
-            <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
-              <ab>Qui in accusatione episcopi culpabilis inuenitur ad arguendum
-              de cetero non admittatur nisi propriam causam solummodo asserere
-              uoluerit.</ab>
-            </div> <!-- end rubric -->
-            <div type="textpart"> <!-- start canon -->
-              <ab>Illud uero placuit, ut cum agere ceperit in episcoporum iudico
-              si fuerit accusatoris dampnabilis, de cetero ad arguendum non
-              admittatur, nisi proprias causas, non tamen ecclesiasticas, uel
-              criminales asserere uoluerit.</ab>
-            </div> <!-- end canon -->
-          </div> <!-- end C.4 q.6 c.1 -->
-          <div type="section"> <!-- start C.4 q.6 c.2 -->
-            <head>(C.4 q.6 c.2)</head>
-            <div type="textpart" style="font-style:italic"> <!-- start inscription -->
-              <ab>Item ex concilio cartaginesi viio [i.e., septimo].</ab>
-            </div> <!-- end inscription -->
-            <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
-              <ab>Non negant audencia in propria causa cui acc[usati?]o
-              interdicitur.</ab>
-            </div> <!-- end rubric -->
-            <div type="textpart"> <!-- start canon -->
-              <ab>Omnibus quibus accusatio denegatur in causis propriis
-              accusandi licentia non est neganda.</ab>
-            </div> <!-- end canon -->
-          </div> <!-- end C.4 q.6 c.2 -->
-        </div> <!-- end C.4 q.6 -->
-      </div> <!-- end C.4 -->
+      <div type="edition" xml:id="edition-text" xml:space="preserve">
+        <div type="section">
+          <div type="section"> <!-- start C.4 -->
+            <head>(Causa 4)</head>
+            <div type="textpart" style="font-style:italic"> <!-- start C.4 d.init. -->
+              <head>(C.4 d.init)</head>
+              <ab><supplied reason="omitted">Quidam</supplied> in excomunicatione constitutus episcopum accusare
+              disponit, adolescentem infra xiiiium etatis sue annum ad assertionem
+              sue cause adducit. Prohibitus ab accusatione adolescentem accusatorem,
+              et se testem facit. Adolescens personam accusatoris et testis gerere
+              cupit, di statuta ad iudicium electorum iudicium episcopus minime
+              concurrit a <expan>co<ex>mmun</ex>io<ex>n</ex>e</expan> suspendere, tandem renouato iudicio,
+              accusator culpabilis in accusatione inuenitur, demum ad assertionem
+              proprie cause procedit. Hic primum queritur an in excommunicatione
+              constitutus alium accusare ualeat. Secundo autem infra [infra]
+              xiiiium. annum in criminari causa testari, quis possit. Tercio, utrum
+              accusatione prohibitus personam testificantis possit assumere. Quarto,
+              aut [?] die constituta non occurrens a communione sit remouendus.
+              Sexto, si in episcoporum indicio accusatoris persona culpabilis
+              inuenta fuerit, an ad assertionem proprie cause, de cetero sit
+              admittenda.</ab>
+            </div> <!-- end C.4 d.init. -->
+            <div type="section"> <!-- start C.4 q.1 -->
+              <head>(C.4 q.1)</head>
+              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.1 d.a.c.1 -->
+                <head>(C.4 q.1 d.a.c.1)</head>
+                <ab>De prima questione sic statutum legitur, in concilio
+                cartaginensi viio [i.e., septimo] cui interfuit faustinus romane
+                ecclesie legatus.</ab>
+              </div> <!-- end C.4 q.1 d.a.c.1 -->
+              <div type="section"> <!-- start C.4 q.1 c.1 -->
+                <head>(C.4 q.1 c.1)</head>
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
+                  <ab>Ad accusandum non admittatur qui in excommunicationem
+                  perseuerat.</ab>
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
+                  <ab>Diffinimus eum rite ad accusationem non admitti, qui
+                  posteaquam excommunicatus fuit, in ispa adhuc excommunicatione
+                  constitutus siue sit clericus, accusare uoluerit. Omnes etiam
+                  infamie maculis aspersi, id est istriones, aut turpitudinibus
+                  subiecte persone. Heretici etiam, siue pagani, siue iudei, ab
+                  accusatione prohibentur.</ab>
+                </div> <!-- end canon -->
+              </div> <!-- end C.4 q.1 c.1 -->
+            </div> <!-- end C.4 q.1 -->
+            <div type="section"> <!-- start C.4 q.2-3 -->
+              <head>(C.4 q.2-3)</head>
+              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.2-3 d.a.c.1 -->
+                <head>(C.4 q.2-3 d.a.c.1)</head>
+                <ab>Secunda autem et tercia questio eodem concilio uno eodemque
+                capitulo terminatur. Illud uero est huiusmodi.</ab>
+              </div> <!-- end C.4 q.2-3 d.a.c.1 -->
+              <div type="section"> <!-- start C.4 q.2-3 c.1 -->
+                <head>(C.4 q.2-3 c.1)</head>
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
+                  <ab>Qui ab accusatione repelluntur aut ad annum xiiii. nondum
+                  peruenerunt testes esse non possunt.</ab>
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
+                  <ab>Testes autem ad testimonium admittendo censemus qui nec ad
+                  accusationem admitti iussi sunt, uel etiam quos ipse accusator de
+                  domo sua produxerit. Ad testimonium autem intra annos xiiii etatis
+                  sue constituti non admittantur.</ab>
+                </div> <!-- end canon -->
+                <div type="textpart" style="font-style:italic"> <!-- start C.4 q.2-3 d.p.c.3 -->
+                  <head>(C.4 q.2-3 d.p.c.3)</head>
+                  <ab>Sed obicitur illud beati bricii, qui uoce pueri xxx dies ab
+                  hortu habentis innocens probatus est. Sed miracula diuina sunt
+                  admiranda non in exemplum humane acc[ti?]onis trahenda.</ab>
+                </div> <!-- end C.4 q.2-3 d.p.c.3 -->
+              </div> <!-- end C.4 q.2-3 c.1 -->
+            </div> <!-- end C.4 q.2-3 -->
+            <div type="section"> <!-- start C.4 q.4 -->
+              <head>(C.4 q.4)</head>
+              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.4 d.a.c.1 -->
+                <head>(C.4 q.4 d.a.c.1)</head>
+                <ab>De quarta uero questione fabianus papa constituit dicens:</ab>
+              </div> <!-- end C.4 q.4 d.a.c.1 -->
+              <div type="section"> <!-- start C.4 q.4 c.1 -->
+                <head>(C.4 q.4 c.1)</head>
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
+                  <ab>Accusator testis uel iudex aliquis simul esse non potest.</ab>
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
+                  <ab>Nullus umquam presumat accusator simul esse, et iudex, uel
+                  testis, quam in omni iudicio iiiior [i.e., quatuor] personas
+                  semper necesse est esse, in iudices, electos, et accusatores, ac
+                  defensores, atque testes.</ab>
+                </div> <!-- end canon -->
+              </div> <!-- end C.4 q.4 c.1 -->
+              <div type="section"> <!-- start C.4 q.4 c.2 -->
+                <head>(C.4 q.4 c.2)</head>
+                <div type="textpart" style="font-style:italic"> <!-- start inscription -->
+                  <ab>Item damasus papa.</ab>
+                </div> <!-- end inscription -->
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
+                  <ab>Quilibet in causa duas personas gerere non ualet.</ab>
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
+                  <ab>Nullus introducatur personaliter ad [ca?]usam sed accusatores,
+                  et accusati equa audiantur, ratione, iuxta, quod ordo exigit.
+                  Accusatores uero, et iudices non idem sint, sed per se iudices,
+                  per se testes, per se accusati unusquisque in suo ordine.
+                  Inscriptio semper fiat ut talionem calumpniator recipiat. Quia
+                  ante inscriptionem nemo debet indicari [iudicari?] uel dampnari,
+                  cum et seculi [?] leges hec eadem retieneant [?].</ab>
+                </div> <!-- end canon -->
+              </div> <!-- end C.4 q.4 c.2 -->
+            </div> <!-- end C.4 q.4 -->
+            <div type="section"> <!-- start C.4 q.5 -->
+              <head>(C.4 q.5)</head>
+              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.5 d.a.c.1 -->
+                <head>(C.4 q.5 d.a.c.1)</head>
+                <ab>De v uero questione in concilio cartaginensi tercio sic
+                inuenenitur [?] diffinitum.</ab>
+              </div> <!-- end C.4 q.5 d.a.c.1 -->
+              <div type="section"> <!-- start C.4 q.5 c.1 -->
+                <head>(C.4 q.5 c.1)</head>
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
+                  <ab>Non est a co[mmuni]one suspendendus qui die statua ad causam
+                  peruenire non potuit.</ab>
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
+                  <ab>Quisquis episcoporum accusatur ad primates prouince ipsius
+                  causam deferat accusator. Nec a communione suspendatur, cui crimen
+                  intenditur, nisi ad causam suam dicendam, electorum iudicium, die
+                  statua litteris euocatus minime occurrerit. Hoc est infra [infra?]
+                  spatium mensis. ex ea die qua eum litteras accepisse constiterit.
+                  Quod si aliquas ueras necessitatis causas propriau[er?]it quibus
+                  occurrere non potuisse manifestum sit cause sue dicende, intra
+                  alterem mensem integram habeat facultatem. Verum tamdiu post
+                  mensem secundum non communicet, donec purgetur. Si autem ad
+                  uniuersale concilium [anniuersalium?] occurrere uoluit, ut uel ibi
+                  causa eius terminetur, ipse in se dampnationis sentatiam dixisse
+                  iudecitur. Tempore sane quo non communicat, nec in sua ecclesia
+                  uel parocchia communicet. Accusator autem eius si numquam diebus
+                  cause dicende defuerit subtrahens se, restituto in communione
+                  episcopo, remoueater a communione accusator, ita tamen, ut nec
+                  ipsi adimatur facultas cause peragende, si se ad diem non uoluisse
+                  sed non potuisse occurrere probauerit.</ab>
+                </div> <!-- end canon -->
+              </div> <!-- end C.4 q.5 c.1 -->
+            </div> <!-- end C.4 q.5 -->
+            <div type="section"> <!-- start C.4 q.6 -->
+              <head>(C.4 q.6)</head>
+              <div type="textpart" style="font-style:italic"> <!-- start C.4 q.6 d.a.c.1 -->
+                <head>(C.4 q.6 d.a.c.1)</head>
+                <ab>Sexta uero questio eodem capitulo terminatur, in quo
+                sequitur.</ab>
+              </div> <!-- end C.4 q.6 d.a.c.1 -->
+              <div type="section"> <!-- start C.4 q.6 c.1 -->
+                <head>(C.4 q.6 c.1)</head>
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
+                  <ab>Qui in accusatione episcopi culpabilis inuenitur ad arguendum
+                  de cetero non admittatur nisi propriam causam solummodo asserere
+                  uoluerit.</ab>
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
+                  <ab>Illud uero placuit, ut cum agere ceperit in episcoporum iudico
+                  si fuerit accusatoris dampnabilis, de cetero ad arguendum non
+                  admittatur, nisi proprias causas, non tamen ecclesiasticas, uel
+                  criminales asserere uoluerit.</ab>
+                </div> <!-- end canon -->
+              </div> <!-- end C.4 q.6 c.1 -->
+              <div type="section"> <!-- start C.4 q.6 c.2 -->
+                <head>(C.4 q.6 c.2)</head>
+                <div type="textpart" style="font-style:italic"> <!-- start inscription -->
+                  <ab>Item ex concilio cartaginesi viio [i.e., septimo].</ab>
+                </div> <!-- end inscription -->
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
+                  <ab>Non negant audencia in propria causa cui acc[usati?]o
+                  interdicitur.</ab>
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
+                  <ab>Omnibus quibus accusatio denegatur in causis propriis
+                  accusandi licentia non est neganda.</ab>
+                </div> <!-- end canon -->
+              </div> <!-- end C.4 q.6 c.2 -->
+            </div> <!-- end C.4 q.6 -->
+          </div> <!-- end C.4 -->
+        </div>
+      </div>
     </body>
     <back>
     </back>
