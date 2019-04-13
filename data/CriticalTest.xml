@@ -6,7 +6,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt>Critical Edition Test Framework<title></title></titleStmt>
+      <titleStmt><title>Critical Edition Test</title></titleStmt>
       <publicationStmt><ab></ab></publicationStmt>
       <sourceDesc><ab></ab></sourceDesc>
     </fileDesc>
