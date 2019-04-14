@@ -20,26 +20,37 @@
           </licence>
         </availability>
       </publicationStmt>
-      <sourceDesc><p>Born digital.</p></sourceDesc>
+      <sourceDesc>
+        <p>Born digital.</p>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
     <front xml:id="front">
-      <div type="section" xml:id="conspectus">
+      <div type="section">
         <listWit>
-          <witness xml:id="Aa"><abbr type="siglum">Aa</abbr> =
-            Admont, Stiftsbibliothek 23 and 43.</witness>
-          <witness xml:id="Bc"><abbr type="siglum">Bc</abbr> =
-            Barcelona, Archivo de la Corona de Aragon, Ripoll 78.</witness>
-          <witness xml:id="Fd"><abbr type="siglum">Fd</abbr> =
-            Firenze, Biblioteca Nazionale Conv. soppr. A I.402.</witness>
-          <witness xml:id="P"><abbr type="siglum">P</abbr> =
-            Paris, Bibliothèque nationale de France nouv. acq. lat. 1761</witness>
-          <witness xml:id="Sg"><abbr type="siglum">Sg</abbr> =
-            St. Gallen, Stiftsbibliothek 673.</witness>
+          <witness xml:id="Aa">
+            <abbr type="siglum">Aa</abbr>
+            = Admont, Stiftsbibliothek 23 and 43.
+          </witness>
+          <witness xml:id="Bc">
+            <abbr type="siglum">Bc</abbr>
+            = Barcelona, Arxiu de la Corona d'Aragó, Santa Maria de Ripoll 78.
+          </witness>
+          <witness xml:id="Fd">
+            <abbr type="siglum">Fd</abbr>
+            = Florence, Biblioteca Nazionale, Conv. Soppr. A I.402.
+          </witness>
+          <witness xml:id="P">
+            <abbr type="siglum">P</abbr>
+            = Paris, Bibliothèque nationale de France nouvelles acquisitions latines 1761.
+          </witness>
         </listWit>
         <listBibl>
-          <bibl xml:id="Fr"><abbr type="siglum">Fr.</abbr>: Friedberg 1879.</bibl>
+          <bibl xml:id="Fr.">
+            <abbr type="siglum">Fr.</abbr>
+            : Friedberg 1879.
+          </bibl>
         </listBibl>
       </div>
     </front>
@@ -47,41 +58,41 @@
       <div type="edition" xml:id="edition-text" xml:space="preserve">
         <div type="section">
           <div type="section"> <!-- start C.4 -->
-            <head>(Causa 4)</head>
+            <head>(C.4)</head>
             <div type="textpart" style="font-style:italic"> <!-- start C.4 d.init. -->
               <head>(C.4 d.init)</head>
               <ab></ab>
             </div> <!-- end C.4 d.init. -->
             <div type="section"> <!-- start C.4 q.1 -->
-              <head>(Questio 1)</head>
+              <head>(C.4 q.1)</head>
               <div type="textpart" style="font-style:italic"> <!-- start C.4 q.1 d.a.c.1 -->
                 <head>(C.4 q.1 d.a.c.1)</head>
                 <ab></ab>
               </div> <!-- end C.4 q.1 d.a.c.1 -->
               <div type="section"> <!-- start C.4 q.1 c.1 -->
                 <head>(C.4 q.1 c.1)</head>
-                <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.1 c.1 (rubric) -->
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
                   <ab></ab>
-                </div> <!-- end C.4 q.1 c.1 (rubric) -->
-                <div type="textpart"> <!-- start C.4 q.1 c.1 (text) -->
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
                   <ab></ab>
-                </div> <!-- end C.4 q.1 c.1 (text) -->
+                </div> <!-- end canon -->
               </div> <!-- end C.4 q.1 c.1 -->
             </div> <!-- end C.4 q.1 -->
             <div type="section"> <!-- start C.4 q.2-3 -->
-              <head>(Questio 2 et 3)</head>
+              <head>(C.4 q.2-3)</head>
               <div type="textpart" style="font-style:italic"> <!-- start C.4 q.2-3 d.a.c.1 -->
                 <head>(C.4 q.2-3 d.a.c.1)</head>
                 <ab></ab>
               </div> <!-- end C.4 q.2-3 d.a.c.1 -->
               <div type="section"> <!-- start C.4 q.2-3 c.1 -->
                 <head>(C.4 q.2-3 c.1)</head>
-                <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.2-3 c.1 (rubric) -->
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
                   <ab></ab>
-                </div> <!-- end C.4 q.2-3 c.1 (rubric) -->
-                <div type="textpart"> <!-- start C.4 q.2-3 c.1 (text) -->
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
                   <ab></ab>
-                </div> <!-- end C.4 q.2-3 c.1 (text) -->
+                </div> <!-- end canon -->
                 <div type="textpart" style="font-style:italic"> <!-- start C.4 q.2-3 d.p.c.3 -->
                   <head>(C.4 q.2-3 d.p.c.3)</head>
                   <ab></ab>
@@ -89,103 +100,102 @@
               </div> <!-- end C.4 q.2-3 c.1 -->
             </div> <!-- end C.4 q.2-3 -->
             <div type="section"> <!-- start C.4 q.4 -->
-              <head>(Questio 4)</head>
+              <head>(C.4 q.4)</head>
               <div type="textpart" style="font-style:italic"> <!-- start C.4 q.4 d.a.c.1 -->
                 <head>(C.4 q.4 d.a.c.1)</head>
                 <ab></ab>
               </div> <!-- end C.4 q.4 d.a.c.1 -->
               <div type="section"> <!-- start C.4 q.4 c.1 -->
                 <head>(C.4 q.4 c.1)</head>
-                <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.4 c.1 (rubric) -->
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
                   <ab></ab>
-                </div> <!-- end C.4 q.4 c.1 (rubric) -->
-                <div type="textpart"> <!-- start C.4 q.4 c.1 (text) -->
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
                   <ab></ab>
-                </div> <!-- end C.4 q.4 c.1 (text) -->
+                </div> <!-- end canon -->
               </div> <!-- end C.4 q.4 c.1 -->
               <div type="section"> <!-- start C.4 q.4 c.2 -->
                 <head>(C.4 q.4 c.2)</head>
-                <div type="textpart" style="font-style:italic"> <!-- start C.4 q.4 c.2 (inscription) -->
+                <div type="textpart" style="font-style:italic"> <!-- start inscription -->
                   <ab></ab>
-                </div> <!-- end C.4 q.4 c.2 (inscription) -->
-                <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.4 c.2 (rubric) -->
+                </div> <!-- end inscription -->
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
                   <ab></ab>
-                </div> <!-- end C.4 q.4 c.2 (rubric) -->
-                <div type="textpart"> <!-- start C.4 q.4 c.2 (text) -->
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
                   <ab></ab>
-                </div> <!-- end C.4 q.4 c.2 (text) -->
+                </div> <!-- end canon -->
               </div> <!-- end C.4 q.4 c.2 -->
             </div> <!-- end C.4 q.4 -->
             <div type="section"> <!-- start C.4 q.5 -->
-              <head>(Questio 5)</head>
+              <head>(C.4 q.5)</head>
               <div type="textpart" style="font-style:italic"> <!-- start C.4 q.5 d.a.c.1 -->
                 <head>(C.4 q.5 d.a.c.1)</head>
                 <ab></ab>
               </div> <!-- end C.4 q.5 d.a.c.1 -->
               <div type="section"> <!-- start C.4 q.5 c.1 -->
                 <head>(C.4 q.5 c.1)</head>
-                <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.5 c.1 (rubric) -->
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
                   <ab></ab>
-                </div> <!-- end C.4 q.5 c.1 (rubric) -->
-                <div type="textpart"> <!-- start C.4 q.5 c.1 (text) -->
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
                   <ab></ab>
-                </div> <!-- end C.4 q.5 c.1 (text) -->
+                </div> <!-- end canon -->
               </div> <!-- end C.4 q.5 c.1 -->
             </div> <!-- end C.4 q.5 -->
             <div type="section"> <!-- start C.4 q.6 -->
-              <head>(Questio 6)</head>
+              <head>(C.4 q.6)</head>
               <div type="textpart" style="font-style:italic"> <!-- start C.4 q.6 d.a.c.1 -->
                 <head>(C.4 q.6 d.a.c.1)</head>
                 <ab></ab>
               </div> <!-- end C.4 q.6 d.a.c.1 -->
               <div type="section"> <!-- start C.4 q.6 c.1 -->
                 <head>(C.4 q.6 c.1)</head>
-                <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.6 c.1 (rubric) -->
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
                   <ab></ab>
-                </div> <!-- end C.4 q.6 c.1 (rubric) -->
-                <div type="textpart"> <!-- start C.4 q.6 c.1 (text) -->
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
                   <ab></ab>
-                </div> <!-- end C.4 q.6 c.1 (text) -->
+                </div> <!-- end canon -->
               </div> <!-- end C.4 q.6 c.1 -->
               <div type="section"> <!-- start C.4 q.6 c.2 -->
                 <head>(C.4 q.6 c.2)</head>
-                <div type="textpart" style="font-style:italic"> <!-- start C.4 q.6 c.2 (inscription) -->
+                <div type="textpart" style="font-style:italic"> <!-- start inscription -->
                   <ab></ab>
-                </div> <!-- end C.4 q.6 c.2 (inscription) -->
-                <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.6 c.2 (rubric) -->
+                </div> <!-- end inscription -->
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
                   <ab></ab>
-                </div> <!-- end C.4 q.6 c.2 (rubric) -->
-                <div type="textpart"> <!-- start C.4 q.6 c.2 (text) -->
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
                   <ab></ab>
-                </div> <!-- end C.4 q.6 c.2 (text) -->
+                </div> <!-- end canon -->
               </div> <!-- end C.4 q.6 c.2 -->
               <div type="section"> <!-- start C.4 q.6 c.3 -->
                 <head>(C.4 q.6 c.3)</head>
-                <div type="textpart" style="font-style:italic"> <!-- start C.4 q.6 c.3 (inscription) -->
+                <div type="textpart" style="font-style:italic"> <!-- start inscription -->
                   <ab></ab>
-                </div> <!-- end C.4 q.6 c.3 (inscription) -->
-                <div type="textpart" style="color: red; font-style: italic"> <!-- start C.4 q.6 c.3 (rubric) -->
+                </div> <!-- end inscription -->
+                <div type="textpart" style="color: red; font-style: italic"> <!-- start rubric -->
                   <ab></ab>
-                </div> <!-- end C.4 q.6 c.3 (rubric) -->
-                <div type="textpart"> <!-- start C.4 q.6 c.3 (text) -->
+                </div> <!-- end rubric -->
+                <div type="textpart"> <!-- start canon -->
                   <ab></ab>
-                </div> <!-- end C.4 q.6 c.3 (text) -->
+                </div> <!-- end canon -->
               </div> <!-- end C.4 q.6 c.3 -->
               <div type="section"> <!-- start C.4 q.6 c.4 -->
                 <head>(C.4 q.6 c.4)</head>
-                <div type="textpart" style="font-style:italic"> <!-- start C.4 q.6 c.4 (inscription) -->
+                <div type="textpart" style="font-style:italic"> <!-- start inscription -->
                   <ab></ab>
-                </div> <!-- end C.4 q.6 c.4 (inscription) -->
-                <div type="textpart"> <!-- start C.4 q.6 c.4 (text) -->
+                </div> <!-- end inscription -->
+                <div type="textpart"> <!-- start canon -->
                   <ab></ab>
-                </div> <!-- end C.4 q.6 c.4 (text) -->
+                </div> <!-- end canon -->
               </div> <!-- end C.4 q.6 c.4 -->
             </div> <!-- end C.4 q.6 -->
           </div> <!-- end C.4 -->
         </div>
       </div>
     </body>
-    <back>
-    </back>
+    <back></back>
   </text>
 </TEI>
