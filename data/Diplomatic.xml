@@ -43,15 +43,16 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <front></front>
+    <front xml:id="front">
+    </front>
     <body>
       <div type="edition" xml:id="edition-text" xml:space="preserve">
         <div type="section">
           <div type="section"> <!-- start C.4 -->
             <head>(C.4)</head>
-            <div type="textpart" style="font-style:italic"> <!-- start C.4 d.init. -->
+            <div type="textpart" subtype="test" style="font-style:italic"> <!-- start C.4 d.init. -->
               <head>(C.4 d.init)</head>
-              <ab></ab>
+              <ab>This is a test.</ab>
             </div> <!-- end C.4 d.init. -->
             <div type="section"> <!-- start C.4 q.1 -->
               <head>(C.4 q.1)</head>
