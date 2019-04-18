@@ -50,9 +50,9 @@
         <div type="section">
           <div type="section"> <!-- start C.4 -->
             <head>(C.4)</head>
-            <div type="textpart" subtype="test" style="font-style:italic"> <!-- start C.4 d.init. -->
+            <div type="textpart" style="font-style:italic"> <!-- start C.4 d.init. -->
               <head>(C.4 d.init)</head>
-              <ab>This is a test.</ab>
+              <ab></ab>
             </div> <!-- end C.4 d.init. -->
             <div type="section"> <!-- start C.4 q.1 -->
               <head>(C.4 q.1)</head>
