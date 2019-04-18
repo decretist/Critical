@@ -1,3 +1,3 @@
-tei-div[type=textpart][subtype=test] {
-  color: green;
+tei-div[type=textpart][subtype=dictum_init] {
+  font-style: italic;
 }

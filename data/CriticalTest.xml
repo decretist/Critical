@@ -6,7 +6,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><title>Critical Edition Test</title></titleStmt>
+      <titleStmt><title>Critical Apparatus Test</title></titleStmt>
       <publicationStmt><ab></ab></publicationStmt>
       <sourceDesc><ab></ab></sourceDesc>
     </fileDesc>
@@ -25,45 +25,43 @@
     <body>
       <div type="edition" xml:id="edition-text" xml:space="preserve"> <!-- start edition -->
         <div type="section"> <!-- start section -->
-          <div type="textpart"> <!-- start textpart -->
-            <ab>
-            <app><lem>Quidam</lem><rdg wit="#P"/></app>
+          <div type="textpart" subtype="dictum_init" n="C.4 q.1 d.a.c.1"> <!-- start textpart -->
+            <head>(C.4 q.1 d.a.c.1)</head>
+            <ab><app><lem>Quidam</lem><rdg wit="#P"/></app>
             in
             <app><lem>excommunicatione</lem><rdg wit="#P">excomunicatione</rdg></app>
             constitutus episcopum accusare disponit;
             <app><lem>adolescentem</lem><rdg wit="#Bc">adulescentem</rdg></app>
             infra xiiiium
             <app><lem>etatis sue annum</lem><rdg wit="#Aa">annum etatis sue</rdg></app>
-            ad assertionem
-            sue cause adducit. Prohibitus ab accusatione adolescentem
-            accusatorem et se testem facit. Adolescens personam accusatoris et
-            testis gerere cupit;
+            ad assertionem sue cause adducit. Prohibitus ab accusatione
+            adolescentem accusatorem et se testem facit. Adolescens personam
+            accusatoris et testis gerere cupit;
             <app><lem wit="#Bc">die</lem><rdg wit="#P">di</rdg></app>
             statuta ad iuditium electorum
             <app><lem>iudicum</lem><rdg wit="#P">iudicium</rdg></app>
             episcopus minime
             <app><lem>concurrit</lem><rdg wit="#Fr.">occurrit</rdg></app>;
-            a communione 
+            a communione
             <app><lem>suspenditur</lem><rdg wit="#P">suspendere</rdg></app>;
-            tandem renouato iuditio accusator culpabilis
-            in accusatione inuenitur; demum ad assertionem proprie cause
-            procedit. Hic primum queritur, an in excommunicatione constitutus
-            alium accusare ualeat? Secundo, 
+            tandem renouato iuditio accusator culpabilis in accusatione
+            inuenitur; demum ad assertionem proprie cause procedit. Hic primum
+            queritur, an in excommunicatione constitutus alium accusare ualeat?
+            Secundo,
             <app><lem>an</lem><rdg wit="#P">autem</rdg></app>
             infra
             <app><lem wit="#Aa #Bc"/><rdg wit="#P">infra</rdg></app>
-            xiiiium annum in 
+            xiiiium annum in
             <app><lem>criminali</lem><rdg wit="#P">criminari</rdg></app>
-            causa testari quis possit? Tercio, utrum 
+            causa testari quis possit? Tercio, utrum
             <app><lem>ab</lem><rdg wit="#P"/></app>
-            accusatione prohibitus
-            personam testificantis possit assumere? Quarto,
+            accusatione prohibitus personam testificantis possit assumere?
+            Quarto,
             <app><lem>an idem possit esse accusator et testis? Quinto,</lem><rdg wit="#P"/></app>
             <app><lem>an</lem><rdg wit="#P">aut</rdg></app>
-            die constituta non occurrens a
-            communione sit remouendus? Sexto, si in episcoporum iuditio
-            accusatoris persona culpabilis inuenta fuerit, an ad assertionem
-            proprie cause de cetero sit admittenda?</ab>
+            die constituta non occurrens a communione sit remouendus? Sexto, si
+            in episcoporum iuditio accusatoris persona culpabilis inuenta
+            fuerit, an ad assertionem proprie cause de cetero sit admittenda?</ab>
           </div> <!-- end textpart -->
         </div> <!-- end section -->
       </div> <!-- end edition -->
