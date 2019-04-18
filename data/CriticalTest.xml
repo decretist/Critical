@@ -17,10 +17,8 @@
         <listWit>
           <witness xml:id="Aa"><abbr type="siglum">Aa</abbr> = Admont</witness>
           <witness xml:id="Bc"><abbr type="siglum">Bc</abbr> = Barcelona</witness>
-          <witness xml:id="Fd"><abbr type="siglum">Fd</abbr> = Florence</witness>
           <witness xml:id="P"><abbr type="siglum">P</abbr> = Paris</witness>
-          <witness xml:id="Sg"><abbr type="siglum">Sg</abbr> = St. Gall</witness>
-          <witness xml:id="Fr."/>
+          <witness xml:id="Fr."><abbr type="siglum">Fr.</abbr> = Friedberg</witness>
         </listWit>
       </div>
     </front>
@@ -52,13 +50,15 @@
             procedit. Hic primum queritur, an in excommunicatione constitutus
             alium accusare ualeat? Secundo, 
             <app><lem>an</lem><rdg wit="#P">autem</rdg></app>
-            infra xiiiium annum in 
+            infra
+            <app><lem/><rdg wit="#P">infra</rdg></app>
+            xiiiium annum in 
             <app><lem>criminali</lem><rdg wit="#P">criminari</rdg></app>
             causa testari quis possit? Tercio, utrum 
             <app><lem>ab</lem><rdg wit="#P"/></app>
             accusatione prohibitus
             personam testificantis possit assumere? Quarto,
-            <app><lem>an idem possit esse accusator et testis? Quinto</lem><rdg wit="#P"/></app>,
+            <app><lem>an idem possit esse accusator et testis? Quinto,</lem><rdg wit="#P"/></app>
             <app><lem>an</lem><rdg wit="#P">aut</rdg></app>
             die constituta non occurrens a
             communione sit remouendus? Sexto, si in episcoporum iuditio
