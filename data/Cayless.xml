@@ -25,8 +25,8 @@
     <body>
       <div type="edition" xml:id="edition-text" xml:space="preserve"> <!-- start edition -->
         <div type="textpart"> <!-- start section -->
-          <div type="textpart" subtype="dictum_init" n="C.4 q.1 d.a.c.1"> <!-- start textpart -->
-            <head>(C.4 q.1 d.a.c.1)</head>
+          <div type="textpart" subtype="dictum_init" n="C.4 d.init."> <!-- start textpart -->
+            <head>(C.4 d.init.)</head>
             <ab> Quidam in excommunicatione constitutus episcopum
             accusare disponit; adolescentem infra xiiiium etatis
             sue annum ad assertionem sue cause adducit. Prohibitus
