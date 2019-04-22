@@ -25,7 +25,7 @@
     <body>
       <div type="edition" xml:id="edition-text" xml:space="preserve"> <!-- start edition -->
         <div type="section"> <!-- start section -->
-          <div type="textpart" subtype="dictum_init" n="C.4 d.init."> <!-- start textpart -->
+          <div type="textpart" subtype="dictum" n="C.4 d.init."> <!-- start textpart -->
             <head>(C.4 d.init.)</head>
             <ab><app><lem>Quidam</lem><rdg wit="#P"/></app>
             in

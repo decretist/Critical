@@ -1,7 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Cardo');
-tei-div[type=textpart][subtype=dictum_init] {
-  font-style: italic;
-}
 tei-div[type=textpart][subtype=canon] {
   font-family: 'Cardo', serif;
 }
