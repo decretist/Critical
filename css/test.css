@@ -27,6 +27,7 @@ tei-div[type=textpart][subtype=canon] {
 }
 tei-div[type=textpart][subtype=dictum] {
   font-family: 'myfont', serif;
+  font-size: 200%;
   font-style: italic;
 }
 tei-div[type=textpart][subtype=inscription] {
