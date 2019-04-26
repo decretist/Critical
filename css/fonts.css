@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo');
+@import url('https://fonts.googleapis.com/css?family=Cardo');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@font-face {
+    font-family: "Junicode";
+    src: url("fonts/Junicode.woff") format('woff');
+}
+@font-face {
+    font-family: "Junicode";
+    src: url("fonts/Junicode-Bold.woff") format('woff');
+    font-weight: Bold;
+}
+@font-face {
+    font-family: "Junicode";
+    src: url("fonts/Junicode-BoldItalic.woff") format('woff');
+    font-weight: Bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Junicode";
+    src: url("fonts/Junicode-Italic.woff") format('woff');
+    font-style: italic;
+}

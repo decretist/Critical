@@ -1,0 +1,16 @@
+tei-div[type=textpart][subtype=canon] {
+  font-family: 'Junicode', serif;
+}
+tei-div[type=textpart][subtype=dictum] {
+  font-family: 'Junicode', serif;
+  font-style: italic;
+}
+tei-div[type=textpart][subtype=inscription] {
+  font-family: 'Junicode', serif;
+  font-style: italic;
+}
+tei-div[type=textpart][subtype=rubric] {
+  color: red;
+  font-family: 'Junicode', serif;
+  font-style: italic;
+}
