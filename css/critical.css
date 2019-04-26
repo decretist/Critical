@@ -1,0 +1,16 @@
+tei-div[type=textpart][subtype=canon] {
+  font-family: 'Open Sans', serif;
+}
+tei-div[type=textpart][subtype=dictum] {
+  font-family: 'Open Sans', serif;
+  font-style: italic;
+}
+tei-div[type=textpart][subtype=inscription] {
+  font-family: 'Open Sans', serif;
+  font-style: italic;
+}
+tei-div[type=textpart][subtype=rubric] {
+  color: red;
+  font-family: 'Open Sans', serif;
+  font-style: italic;
+}
