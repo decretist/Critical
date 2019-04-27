@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digitallatin.github.io/guidelines/critical-editions.rng"
+            type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digitallatin.github.io/guidelines/critical-editions.rng"
+            type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>Diplomatic Transcription Demo</title></titleStmt>
+      <publicationStmt><ab></ab></publicationStmt>
+      <sourceDesc><ab></ab></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front xml:id="front">
+    </front>
+    <body>
+      <div type="edition" xml:id="edition-text" xml:space="preserve">
+        <div type="section">
+          <div type="textpart" subtype="dictum" n="C.4 d.init.">
+            <head>(C.4 d.init.)</head>
+            <ab><supplied reason="omitted">Quidam</supplied> in
+            excomunicatione c̄ſtitutꝰ ep̄m accuſare diſponit; adoleſcentē Ī
+            xiiiiū ętatiſ ſue annū ad aſſertionē ſuę cauſę adducit. Ꝓhibitus
+            ab accuſatione adoleſcētē accuſatorē, ⁊ se teſtē facit. Adoleſcenſ
+            ꝑersonā accuſatoriſ ⁊ teſtiſ gerere cupit; di ſtatuta ad iudiciū
+            electoꝝ iudiciū ep̄s minime c̄currit, a cōiōe ſuſpender̄; tandē
+            renouato iudicio, accusatoꝛ culpabił in accuſatiōe inuenitur, demū
+            ad aſſertionē ꝓͥe cauſe ꝓcedit. Hic pͥmū querit[ur] an in
+            excōic̄atione c̄ſtitutꝰ, aliū accuſare ualeat.</ab>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
