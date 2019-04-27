@@ -6,7 +6,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><title>TEI Diplomatic Transcription Demo</title></titleStmt>
+      <titleStmt><title>Diplomatic Transcription Demo</title></titleStmt>
       <publicationStmt><ab></ab></publicationStmt>
       <sourceDesc><ab></ab></sourceDesc>
     </fileDesc>
