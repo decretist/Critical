@@ -1,11 +1,11 @@
 tei-titleStmt > tei-author {
   display: block;
-  font-family: 'Open Sans', serif;
+  font-family: 'Open Sans', sans-serif;
   margin-bottom: 1em;
 }
 tei-titleStmt > tei-editor {
   display: block;
-  font-family: 'Open Sans', serif;
+  font-family: 'Open Sans', sans-serif;
   margin-bottom: 1em;
 }
 tei-TEI tei-head {
@@ -14,7 +14,7 @@ tei-TEI tei-head {
   font-weight: normal;
 }
 tei-div {
-  font-family: 'Open Sans', serif;
+  font-family: 'Open Sans', sans-serif;
 }
 tei-div > tei-head {
   font-size: 130%;
