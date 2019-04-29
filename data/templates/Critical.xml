@@ -27,25 +27,6 @@
   </teiHeader>
   <text>
     <front xml:id="front">
-      <div type="section" xml:id="preface">
-        <head>Preface</head>
-        <!-- <p>General introductory remarks about the edition.</p> -->
-        <p>The Barcelona (Bc) ms. of the first (R1) recnsion of Gratian's
-        <em>Decretum</em> has several distinctive features. The quality of
-        scribal workmanship in Bc is considerably more professional than that in
-        the Paris (P) ms. Bc includes two canons -- C.4 q.6 c.3-4 -- not listed
-        in Winroth's appendix and not found in either the Admont (Aa) or P
-        mss.</p>
-        <p>"It is remarkable that in his dicta Gratian refers to sources that
-        are not cited in the Decretum. Many biblical citations, for example, are
-        found only in the dicta. They are often tied to important theological
-        reflections ..." Landau, "Gratian and the Decretum Gratiani", 41.</p>
-        <div type="section"xml:id="preface-section-1">
-          <!--This is a section within the preface. Editors should use sections
-          (distinguished by <div>) to organize the content of the edition's
-          preface.-->
-        </div>
-      </div>
       <div type="section">
         <listWit>
           <witness xml:id="Aa">
@@ -81,41 +62,7 @@
             <head>(C.4)</head>
             <div type="textpart" subtype="dictum" n="C.4 d.init.">
               <head>(C.4 d.init.)</head>
-              <ab><app><lem>Quidam</lem><rdg wit="#P"/></app>
-              in
-              <app><lem>excommunicatione</lem><rdg wit="#P">excomunicatione</rdg></app>
-              constitutus episcopum accusare disponit;
-              <app><lem>adolescentem</lem><rdg wit="#Bc">adulescentem</rdg></app>
-              infra xiiiium
-              <app><lem>etatis sue annum</lem><rdg wit="#Aa">annum etatis sue</rdg></app>
-              ad assertionem sue cause adducit. Prohibitus ab accusatione
-              adolescentem accusatorem et se testem facit. Adolescens personam
-              accusatoris et testis gerere cupit;
-              <app><lem wit="#Bc">die</lem><rdg wit="#P">di</rdg></app>
-              statuta ad iuditium electorum
-              <app><lem>iudicum</lem><rdg wit="#P">iudicium</rdg></app>
-              episcopus minime
-              <app><lem>concurrit</lem><rdg wit="#Fr.">occurrit</rdg></app>;
-              a communione
-              <app><lem>suspenditur</lem><rdg wit="#P">suspendere</rdg></app>;
-              tandem renouato iuditio accusator culpabilis in accusatione
-              inuenitur; demum ad assertionem proprie cause procedit. Hic primum
-              queritur, an in excommunicatione constitutus alium accusare ualeat?
-              Secundo,
-              <app><lem>an</lem><rdg wit="#P">autem</rdg></app>
-              infra
-              <app><lem wit="#Aa #Bc"/><rdg wit="#P">infra</rdg></app>
-              xiiiium annum in
-              <app><lem>criminali</lem><rdg wit="#P">criminari</rdg></app>
-              causa testari quis possit? Tercio, utrum
-              <app><lem>ab</lem><rdg wit="#P"/></app>
-              accusatione prohibitus personam testificantis possit assumere?
-              Quarto,
-              <app><lem>an idem possit esse accusator et testis? Quinto,</lem><rdg wit="#P"/></app>
-              <app><lem>an</lem><rdg wit="#P">aut</rdg></app>
-              die constituta non occurrens a communione sit remouendus? Sexto, si
-              in episcoporum iuditio accusatoris persona culpabilis inuenta
-              fuerit, an ad assertionem proprie cause de cetero sit admittenda?</ab>
+              <ab></ab>
             </div>
             <div type="section" subtype="question" n="C.4 q.1">
               <head>(C.4 q.1)</head>
