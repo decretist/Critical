@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://digitallatin.github.io/guidelines/critical-editions.rng"
+            type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://digitallatin.github.io/guidelines/critical-editions.rng"
+            type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Decretum Gratiani</title>
+        <author>Gratian, active 12th century</author>
+        <editor>Paul Evans</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Stephan Kuttner Institute</publisher>
+        <date>2020</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            Distributed under a Creative Commons Attribution 4.0 International License.
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>St. Gallen</settlement>
+            <repository>Stiftsbibliothek</repository>
+            <idno>Cod. Sang. 673</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <locus></locus>
+              <p></p>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <p></p>
+            </objectDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="translation" xml:id="translation-text" xml:space="preserve">
+        <div subtype="part" type="section">
+          <div type="section" subtype="case" n="C.19">
+            <head>(C.19)</head>
+            <div type="textpart" subtype="dictum" n="C.19 d.init.">
+              <head>(C.19 d.init.)</head>
+              <ab>Two clerics wanted to transfer to a monastery, and each sought
+              permission from his bishop to do so. A question arises as to
+              whether a bishop ought to permit a cleric to leave his own church
+              behind and become a monk. If a bishop presented with such a
+              request does not want to grant permission, a second question
+              arises as to whether a cleric can enter a monastery even if his
+              bishop is unwilling to permit it. Finally, does it make a
+              difference if the clerics seeking permission to transfer to a
+              monastery are canons regular instead of secular clergy? If so, a
+              third question arises as to whether the clerics ought to be
+              granted entry into a monastery even if they are canons
+              regular.</ab>
+            </div>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
