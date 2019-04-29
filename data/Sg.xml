@@ -183,7 +183,13 @@
             <head>(C.19)</head>
             <div type="textpart" subtype="dictum" n="C.19 d.init.">
               <head>(C.19 d.init.)</head>
-              <ab></ab>
+              <ab>Volunt duo clerici ad monasterium transire. Petiit uterque ab
+              episcopo suo licentiam. Unde queritur, an debeat episcopus
+              permittere, ut propria ecclesia relicta, clericus monachus fiat?
+              Secundo, si episcopus dare licentiam noluerit, an eo invito
+              monasterium adire possit? Tertio, si contigerit ipsos regulares
+              canonicos fuisse, utrum monasterii ingressus eis esset
+              concedendus?</ab>
             </div>
           </div>
           <div type="section" subtype="case" n="C.20">
@@ -197,14 +203,35 @@
             <head>(C.21)</head>
             <div type="textpart" subtype="dictum" n="C.21 d.init.">
               <head>(C.21 d.init.)</head>
-              <ab></ab>
+              <ab>Cuiusdam ecclesiae archipresbiter alterius ecclesiae accepit
+              preposituram, priorem tamen relinquere nolens. Efficitur quoque
+              procurator secularium negociorum. Claris vestibus se exornans
+              corrigitur ab episcopo. Relicto proprio offitio ad secularem
+              iudicem confugit. Unde primo queritur, an duabus possit ecclesiis
+              asscribi [ascribi]? Secundo, utrum unam volens relinquere, an
+              alteram transire valeat? Tercio, an negociorum secularium
+              administrationem clericis suscipere liceat? Quarto, an claris et
+              fulgidis vestibus ornari expediat? Quinto, an correcti ab episcopo
+              suum offitium relinquere, ad secularem iudicem transire
+              possint?</ab>
             </div>
           </div>
           <div type="section" subtype="case" n="C.22">
             <head>(C.22)</head>
             <div type="textpart" subtype="dictum" n="C.22 d.init.">
               <head>(C.22 d.init.)</head>
-              <ab></ab>
+              <ab>Episcopus quidam falsum iuravit, quod verum esse putabat, quo
+              cogito iuravit archidiaconus eius quod amplius ei non obediret.
+              Archidiaconus ab episcopo conpellitur, ut de more sibi obediat.
+              Unde episcopus de duplici periurio accusatur, scilicet de eo, quod
+              falsum iuravit, et quod archidiaconum ad periurium conpellit.
+              Queritur ergo, an iuramentum sit praestandum, necnon? Secundo, an
+              periurus sit, iurans falsum quod verum putet? Tercio, an licuerit
+              archidiacono consuetam obedientiam denegare? Quarto, si
+              constiterit esse illicitum quod archidiaconus iuravit, an servari
+              debeat? Quinto, si constiterit illud servandum esse, an episcopus
+              sit reus periurii, qui contra iuramentum archidiaconum suum ire
+              conpellit?</ab>
             </div>
           </div>
           <div type="section" subtype="case" n="C.23">
@@ -275,6 +302,28 @@
             <div type="textpart" subtype="dictum" n="C.36 d.init.">
               <head>(C.36 d.init.)</head>
               <ab></ab>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div type="translation" xml:id="translation-text" xml:space="preserve">
+        <div subtype="part" type="section">
+          <div type="section" subtype="case" n="C.19">
+            <head>(C.19)</head>
+            <div type="textpart" subtype="dictum" n="C.19 d.init.">
+              <head>(C.19 d.init.)</head>
+              <ab>Two clerics wanted to transfer to a monastery, and each sought
+              permission from his bishop to do so. A question arises as to
+              whether a bishop ought to permit a cleric to leave his own church
+              behind and become a monk. If a bishop presented with such a
+              request does not want to grant permission, a second question
+              arises as to whether a cleric can enter a monastery even if his
+              bishop is unwilling to permit it. Finally, does it make a
+              difference if the clerics seeking permission to transfer to a
+              monastery are canons regular instead of secular clergy? If so, a
+              third question arises as to whether the clerics ought to be
+              granted entry into a monastery even if they are canons
+              regular.</ab>
             </div>
           </div>
         </div>
