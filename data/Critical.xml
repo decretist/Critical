@@ -31,16 +31,15 @@
         <head>Preface</head>
         <!-- <p>General introductory remarks about the edition.</p> -->
         <p>The Barcelona (Bc) ms. of the first (R1) recnsion of Gratian's
-        <em>Decretum</em> has several distinctive features. The quality of
-        scribal workmanship in Bc is considerably more professional than that in
-        the Paris (P) ms. Bc includes two canons -- C.4 q.6 c.3-4 -- not listed
-        in Winroth's appendix and not found in either the Admont (Aa) or P
-        mss.</p>
+        Decretum has several distinctive features. The quality of scribal
+        workmanship in Bc is considerably more professional than that in the
+        Paris (P) ms. Bc includes two canons -- C.4 q.6 c.3-4 -- not listed in
+        Winroth's appendix and not found in either the Admont (Aa) or P mss.</p>
         <p>"It is remarkable that in his dicta Gratian refers to sources that
         are not cited in the Decretum. Many biblical citations, for example, are
         found only in the dicta. They are often tied to important theological
         reflections ..." Landau, "Gratian and the Decretum Gratiani", 41.</p>
-        <div type="section"xml:id="preface-section-1">
+        <div type="section" xml:id="preface-section-1">
           <!--This is a section within the preface. Editors should use sections
           (distinguished by <div>) to organize the content of the edition's
           preface.-->
