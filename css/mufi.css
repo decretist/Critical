@@ -2,5 +2,6 @@
     font-family: Junicode;
     font-style: normal;
     src: url(fonts/Junicode.woff) format('woff');
+     font-display: block;
 }
 body { font-family: Junicode; font-size: 200% }
