@@ -18,5 +18,5 @@
     src: url("fonts/Junicode-Italic.woff") format('woff');
     font-style: italic;
 }
-p.local { font-family: Junicode; font-size: 200% }
+p.local { font-family: serif; font-size: 200% }
 p.woff { font-family: medieval; font-size: 200% }
