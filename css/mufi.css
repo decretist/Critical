@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Junicode';
-    src: url('https://home.sandiego.edu/~pevans/fonts/Junicode.woff') format('woff'),
-         url('https://home.sandiego.edu/~pevans/fonts/Junicode.ttf') format('truetype');
+    src: url(https://home.sandiego.edu/~pevans/fonts/Junicode.woff) format('woff'),
+         url(https://home.sandiego.edu/~pevans/fonts/Junicode.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
