@@ -1,8 +1,23 @@
 @font-face {
     font-family: 'Junicode';
-    src: url("https://home.sandiego.edu/~pevans/fonts/Junicode.woff") format('woff'),
-         url("https://home.sandiego.edu/~pevans/fonts/Junicode.ttf") format('truetype');
-    font-weight: normal;
+    src: url('../fonts/Junicode.woff') format('woff');
     font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Junicode';
+    src: url('../fonts/Junicode-Bold.woff') format('woff');
+    font-weight: Bold;
+}
+@font-face {
+    font-family: 'Junicode';
+    src: url('../fonts/Junicode-BoldItalic.woff') format('woff');
+    font-style: italic;
+    font-weight: Bold;
+}
+@font-face {
+    font-family: 'Junicode';
+    src: url('../fonts/Junicode-Italic.woff') format('woff');
+    font-style: italic;
 }
 body { font-family: Junicode, serif; font-size: 200% }
