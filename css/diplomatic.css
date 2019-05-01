@@ -1,16 +1,17 @@
 tei-div[type=textpart][subtype=canon] {
-  font-family: 'medieval', serif;
+  font-family: 'Junicode', serif;
 }
 tei-div[type=textpart][subtype=dictum] {
-  font-family: 'medieval', serif;
+  font-family: 'Junicode', serif;
+  font-size: 150%;
   font-style: italic;
 }
 tei-div[type=textpart][subtype=inscription] {
-  font-family: 'medieval', serif;
+  font-family: 'Junicode', serif;
   font-style: italic;
 }
 tei-div[type=textpart][subtype=rubric] {
   color: red;
-  font-family: 'medieval', serif;
+  font-family: 'Junicode', serif;
   font-style: italic;
 }
