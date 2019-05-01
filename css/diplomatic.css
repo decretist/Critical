@@ -1,17 +1,18 @@
+@import url('fonts.css');
 tei-div[type=textpart][subtype=canon] {
-  font-family: 'Junicode', serif;
+  font-family: Junicode, Cardo, serif;
 }
 tei-div[type=textpart][subtype=dictum] {
-  font-family: 'Junicode', serif;
+  font-family: Junicode, Cardo, serif;
   font-size: 150%;
   font-style: italic;
 }
 tei-div[type=textpart][subtype=inscription] {
-  font-family: 'Junicode', serif;
+  font-family: Junicode, Cardo, serif;
   font-style: italic;
 }
 tei-div[type=textpart][subtype=rubric] {
   color: red;
-  font-family: 'Junicode', serif;
+  font-family: Junicode, Cardo, serif;
   font-style: italic;
 }
