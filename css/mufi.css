@@ -7,17 +7,19 @@
 @font-face {
     font-family: 'Junicode';
     src: url('../fonts/Junicode-Bold.woff') format('woff');
-    font-weight: Bold;
+    font-style: normal;
+    font-weight: bold;
 }
 @font-face {
     font-family: 'Junicode';
     src: url('../fonts/Junicode-BoldItalic.woff') format('woff');
     font-style: italic;
-    font-weight: Bold;
+    font-weight: bold;
 }
 @font-face {
     font-family: 'Junicode';
     src: url('../fonts/Junicode-Italic.woff') format('woff');
     font-style: italic;
+    font-weight: normal;
 }
 body { font-family: Junicode, serif; font-size: 200% }
