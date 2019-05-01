@@ -1,2 +1,2 @@
-@import 'fonts.css';
-body { font-family: Junicode, serif; font-size: 150% }
+@import url('fonts.css');
+body { font-family: Junicode, Cardo, serif; font-size: 200% }
