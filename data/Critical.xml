@@ -30,10 +30,6 @@
       <div type="section" xml:id="preface">
         <head>Preface</head>
         <!-- <p>General introductory remarks about the edition.</p> -->
-        <p>The Barcelona (Bc) ms. of the first (R1) recension of Gratian's
-        Decretum has several distinctive features. The quality of scribal
-        workmanship in Bc is considerably more professional than that in the
-        Paris (P) ms.</p>
         <p> C.4 q.2-3 d.p.c.3 quotes a cryptic statement, not found in Clavis
         Canonum, attributed to St. Brice (†.444), a controversial disciple of
         St. Martin, and his successor as bishop of Tours. ["It is remarkable
@@ -41,18 +37,23 @@
         Decretum. Many biblical citations, for example, are found only in the
         dicta. They are often tied to important theological reflections ..."
         Landau, "Gratian and the Decretum Gratiani", 41.]</p>
+        <!-- Admont (Aa) -->
         <p>There are two marginal glosses in the Admont (Aa) text of C.4 that
         refer to Burchard's Decretum: "B.xvi. Nemo ſimul ſit." (Burchard 16.15)
-        at 4.4.1 and "B.i. Qͥſqͥs." (Burchard 1.160) at 4.6.1. A rubric in
+        at 4.4.1, and "B.i. Qͥſqͥs." (Burchard 1.160) at 4.6.1. A rubric in
         between C.4 and C.5 ("Explicit liber quintus, incipit liber sextus, de
         episcoporum accusationibus") indicates a non-standard division of the Aa
         ms. into books.</p>
+        <!-- Barcelona (Bc) -->
         <p>The order of rubrics in C.4 q.4 is reversed in Bc. The rubric for
         4.4.2 ("Quilibet in causa duas personas gerere non valet") appears
         before 4.4.1, and the rubric for 4.4.1 ("Accusator, testis vel iudex
         aliquis simul esse non potest") appears before 4.4.2. Bc includes two
         canons —  4.6.3 and 4.6.4 — not listed in Winroth's appendix and not
         found in either the Aa or P mss.</p>
+        <!-- Paris (P) -->
+        <p>The quality of scribal workmanship in the Paris (P) ms. is visibly
+        less professional than that in either the Aa or Bc mss.</p>
         <div type="section" xml:id="preface-section-1">
           <!--This is a section within the preface. Editors should use sections
           (distinguished by <div>) to organize the content of the edition's
