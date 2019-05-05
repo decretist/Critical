@@ -30,6 +30,15 @@
       <div type="section" xml:id="preface">
         <head>Preface</head>
         <!-- <p>General introductory remarks about the edition.</p> -->
+        <p>The text of the rubrics for 4.6.1 and 4.6.2 is quite similar in all
+        four first-recension (R1) mss., and substantially different from the
+        readings reported in Fr. 4.6.1: "Qui in accusatione episcopi culpabilis
+        inuenitur ad arguendum de cetero non admittatur nisi propriam causam
+        ciuilem solummodo asserere uoluerit" in Aa Bc Fd P and "In ciuili et
+        proprio dumtaxat negotio ad arguendum admittitur, qui in episcopi
+        accusatione culpabilis inuenitur" in Fr. 4.6.2: "Non negatur audientia
+        in propria causa cuius accusatio interdicitur" in Aa Bc Fd P and
+        "Propriam causam agere ualet cui accusare non licet" in Fr.</p>
         <p> C.4 q.2-3 d.p.c.3 quotes a cryptic statement, not found in Clavis
         Canonum, attributed to St. Brice (†.444), a controversial disciple of
         St. Martin, and his successor as bishop of Tours. ["It is remarkable
@@ -220,6 +229,8 @@
               <div type="section" subtype="chapter" n="C.4 q.6 c.1">
                 <head>(C.4 q.6 c.1)</head>
                 <div type="textpart" subtype="rubric">
+                  <!-- R2: "In ciuili et proprio dumtaxat negotio ad arguendum
+                  admittitur, qui in episcopi accusatione culpabilis inuenitur." -->
                   <ab>Qui in accusatione episcopi culpabilis inuenitur ad
                   arguendum de cetero non admittatur nisi propriam causam
                   <app><lem wit="#Aa #Bc">ciuilem</lem><rdg wit="#P" /></app>
@@ -235,6 +246,7 @@
                   <ab></ab>
                 </div>
                 <div type="textpart" subtype="rubric">
+                  <!-- R2: "Propriam causam agere ualet cui accusare non licet." -->
                   <!-- spelling: "audientia" or "audiencia"? -->
                   <ab>Non
                   <app><lem wit="#Aa #Bc">negatur</lem><rdg wit="#P">negant</rdg></app>
