@@ -220,7 +220,10 @@
               <div type="section" subtype="chapter" n="C.4 q.6 c.1">
                 <head>(C.4 q.6 c.1)</head>
                 <div type="textpart" subtype="rubric">
-                  <ab></ab>
+                  <ab>Qui in accusatione episcopi culpabilis inuenitur ad
+                  arguendum de cetero non admittatur nisi propriam causam
+                  <app><lem wit="#Aa #Bc">ciuilem</lem><rdg wit="#P" /></app>
+                  solummodo asserere uoluerit.</ab>
                 </div>
                 <div type="textpart" subtype="canon">
                   <ab></ab>
@@ -232,7 +235,13 @@
                   <ab></ab>
                 </div>
                 <div type="textpart" subtype="rubric">
-                  <ab></ab>
+                  <!-- spelling: "audientia" or "audiencia"? -->
+                  <ab>Non
+                  <app><lem wit="#Aa #Bc">negatur</lem><rdg wit="#P">negant</rdg></app>
+                  <app><lem wit="#Aa #P">audientia in</lem><rdg wit="#Bc">in audientia</rdg></app>
+                  propria causa
+                  <app><lem wit="#Aa #Bc">cuius</lem><rdg wit="#P">cui</rdg></app>
+                  accusatio interdicitur.</ab>
                 </div>
                 <div type="textpart" subtype="canon">
                   <ab></ab>
