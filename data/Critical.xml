@@ -261,24 +261,37 @@
                 </div>
               </div>
               <div type="section" subtype="chapter" n="C.4 q.6 c.3">
-                <head>(C.4 q.6 c.3)</head>
+                <head>(C.4 q.6 c.3 [Bc only])</head>
                 <div type="textpart" subtype="inscription">
-                  <ab></ab>
+                  <ab>Item Felix episcopus omnibus episcopis</ab>
                 </div>
                 <div type="textpart" subtype="rubric">
-                  <ab></ab>
+                  <ab>In episcoporum accusatione
+                  <app><lem>deficiens</lem><rdg wit="#Bc">defitiens</rdg></app>,
+                  ciuiliter
+                  <app><lem>tantum</lem><rdg wit="#Bc">tatum</rdg></app>
+                  experiri poterit.</ab>
                 </div>
                 <div type="textpart" subtype="canon">
-                  <ab></ab>
+                  <ab>Si accusatorum persone in
+                  <app><lem>iudicio</lem><rdg wit="#Bc">iuditio</rdg></app>
+                  episoporum culpabiles
+                  <app><lem wit="#Bc">apparuerint</lem><rdg wit="Fr.">aparuerint</rdg></app>,
+                  ad arguendum non admittantur, nisi proprias causas asserere,
+                  non tamen criminales uel ecclesiasticas, uoluerint.
+                  </ab>
                 </div>
               </div>
               <div type="section" subtype="chapter" n="C.4 q.6 c.4">
-                <head>(C.4 q.6 c.4)</head>
+                <head>(C.4 q.6 c.4 [Bc only])</head>
                 <div type="textpart" subtype="inscription">
-                  <ab></ab>
+                  <ab>Item Adrianus papa</ab>
                 </div>
                 <div type="textpart" subtype="canon">
-                  <ab></ab>
+                  <ab>Quod si accusatorum persone in
+                  <app><lem>iudicio</lem><rdg wit="#Bc">iuditio</rdg></app>
+                  episoporum et cetera, ut supra eisdem uerbis.
+                  </ab>
                 </div>
               </div>
             </div>
