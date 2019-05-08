@@ -69,6 +69,16 @@
           preface.-->
         </div>
       </div>
+      <div type="section" xml:id="bibliography-modern-editions">
+        <head>Modern Editions</head>
+        <listBibl type="editions-sources">
+          <bibl xml:id="Fr.">
+            <abbr type="siglum">Fr.</abbr>
+            = Friedberg, Emil, ed., Corpus iuris canonici.
+            I, Decretum magistri Gratiani. Leipzig, 1879.
+          </bibl>
+        </listBibl>
+      </div>
       <div type="section" xml:id="conspectus">
         <head>Conspectus</head>
         <listWit>
@@ -89,17 +99,11 @@
             = Paris, Bibliothèque nationale de France, nouvelles acquisitions latines 1761.
           </witness>
         </listWit>
-        <listBibl>
-          <bibl xml:id="Fr.">
-            <abbr type="siglum">Fr.</abbr>
-            = Friedberg, Emil, ed., Corpus iuris canonici.
-            I, Decretum magistri Gratiani. Leipzig, 1879.
-          </bibl>
-        </listBibl>
       </div>
     </front>
     <body>
       <div type="edition" xml:id="edition-text" xml:space="preserve">
+        <head>Edition</head>
         <div type="section" subtype="part">
           <div type="section" subtype="case" n="C.4">
             <head>(C.4)</head>
@@ -299,6 +303,7 @@
         </div>
       </div>
       <div type="translation" xml:id="translation-text" xml:space="preserve">
+        <head>Translation</head>
         <div subtype="part" type="section">
           <div type="section" subtype="case" n="C.4">
             <head>(C.4)</head>
