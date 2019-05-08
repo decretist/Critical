@@ -45,8 +45,9 @@
         <note place="foot">"It is remarkable that in his dicta Gratian refers
         to sources that are not cited in the Decretum. Many biblical citations,
         for example, are found only in the dicta. They are often tied to
-        important theological reflections ..." Landau, "Gratian and the Decretum
-        Gratiani", 41.</note></p>
+        important theological reflections ..."
+        (Landau, "Gratian and the Decretum Gratiani", 41.)</note>
+        </p>
         <!-- Admont (Aa) -->
         <p>There are two marginal glosses in the Admont (Aa) text of C.4 that
         refer to Burchard's Decretum: "B.xvi. Nemo ſimul ſit." (Burchard 16.15)
@@ -64,11 +65,6 @@
         <!-- Paris (P) -->
         <p>The quality of scribal workmanship in the Paris (P) ms. is visibly
         less professional than that in either the Aa or Bc mss.</p>
-        <div type="section" xml:id="preface-section-1">
-          <!--This is a section within the preface. Editors should use sections
-          (distinguished by <div>) to organize the content of the edition's
-          preface.-->
-        </div>
       </div>
       <div type="section" xml:id="bibliography-modern-editions">
         <head>Modern Editions</head>
