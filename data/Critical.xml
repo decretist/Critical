@@ -66,15 +66,18 @@
         <p>The quality of scribal workmanship in the Paris (P) ms. is visibly
         less professional than that in either the Aa or Bc mss.</p>
       </div>
-      <div type="section" xml:id="bibliography-modern-editions">
-        <head>Modern Editions</head>
-        <listBibl type="editions-sources">
-          <bibl xml:id="Fr.">
-            <abbr type="siglum">Fr.</abbr>
-            = Friedberg, Emil, ed., Corpus iuris canonici.
-            I, Decretum magistri Gratiani. Leipzig, 1879.
-          </bibl>
-        </listBibl>
+      <div type="section" xml:id="bibliography">
+        <head>Bibliography</head>
+        <div type="section" xml:id="bibliography-modern-editions">
+          <head>Modern Editions</head>
+          <listBibl type="editions-sources">
+            <bibl xml:id="Fr.">
+              <abbr type="siglum">Fr.</abbr>
+              = Friedberg, Emil, ed., Corpus iuris canonici.
+              I, Decretum magistri Gratiani. Leipzig, 1879.
+            </bibl>
+          </listBibl>
+        </div>
       </div>
       <div type="section" xml:id="conspectus">
         <head>Conspectus</head>
