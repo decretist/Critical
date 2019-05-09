@@ -39,6 +39,17 @@
         <div type="section" xml:id="bibliography-secondary-sources">
           <head>Secondary Sources</head>
           <listBibl type="secondary-sources">
+            <bibl>Landau, Peter. “Gratian and the Decretum Gratiani.” In The
+            History of Medieval Canon Law in the Classical Period, 1140-1234:
+            From Gratian to the Decretals of Pope Gregory IX, edited by Wilfried
+            Hartmann and Kenneth Pennington, 22–54. History of Medieval Canon
+            Law. Washington, D.C: Catholic University of America Press,
+            2008.</bibl>
+            <bibl>Noonan, John T. “Gratian Slept Here: The Changing Identity of
+            the Father of the Systematic Study of Canon Law.” Traditio 35
+            (January 1, 1979): 145–72.</bibl>
+            <bibl>Winroth, Anders. The Making of Gratian’s Decretum. Cambridge:
+            Cambridge University Press, 2000.</bibl>
             <biblStruct type="book" xml:id="Winroth2000">
               <monogr>
                 <title level="m">The Making of Gratian's Decretum</title>
