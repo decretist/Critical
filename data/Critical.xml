@@ -218,17 +218,21 @@
                   <ab></ab>
                 </div>
                 <div type="textpart" subtype="canon">
-                  <ab>Nullus umquam presumat accusator simul esse et iudex uel testis quoniam in omni
+                  <ab>Nullus umquam presumat accusator simul esse et iudex uel testis, quoniam in omni
                   <app><lem wit="#Aa #P">iudicio</lem><rdg wit="#Bc">iuditio</rdg></app>
-                  <app><lem>quatuor</lem><rdg>.iiii.</rdg><rdg>iiiior</rdg></app>
-                  personas semper necesse est esse
-                  <app><lem>id est</lem><rdg>.i.</rdg></app>
-                  iudices electos et
-                  <app><lem wit="#Bc #P">accusatores</lem>
-                       <rdg wit="#Aa"><add place="above">idoneos</add>accusatores</rdg>
-                  </app>
-                  accusatores ac defensores atque testes.
-                  </ab>
+                  quatuor personas semper necesse est esse, id est iudices electos, et
+                  <app>
+                    <lem wit="#Bc #P">accusatores</lem>
+                    <rdg wit="#Aa"><add place="above">idoneos</add>accusatores</rdg>
+                  </app>, ac
+                  <app>
+                    <lem wit="#Bc #P">defensores</lem>
+                    <rdg wit="#Aa">defensores<add place="above">congruos</add></rdg>
+                  </app> atque
+                  <app>
+                    <lem wit="#Bc #P">testes</lem>
+                    <rdg wit="#Aa"><add place="above">legitimos</add>testes</rdg>
+                  <app>.</ab>
                 </div>
               </div>
               <div type="section" subtype="chapter" n="C.4 q.4 c.2">
