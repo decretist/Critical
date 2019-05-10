@@ -192,7 +192,15 @@
                 </div>
                 <div type="textpart" subtype="dictum" n="C.4 q.2-3 d.p.c.3">
                   <head>(C.4 q.2-3 d.p.c.3)</head>
-                  <ab></ab>
+                  <!-- "Set" or "Sed"? -->
+                  <ab>Set obicitur illud beati
+                  <app><lem wit="#Bc #P">Bricii</lem><rdg wit="#Aa">Brichi</rdg></app>
+                  qui uoce pueri .xxx. dies ab
+                  <app><lem wit="#Aa #Bc">ortu</lem><rdg wit="#P">hortu</rdg></app>
+                  habentis innocens probatus est. Set miracula diuina sunt admiranda,
+                  non in exemplum humane
+                  <app><lem wit="#Aa #Bc">actionis</lem><rdg wit="#P">accionis</rdg></app>
+                  trahenda.</ab>
                 </div>
               </div>
             </div>
