@@ -215,7 +215,12 @@
               <div type="section" subtype="chapter" n="C.4 q.4 c.1">
                 <head>(C.4 q.4 c.1)</head>
                 <div type="textpart" subtype="rubric">
-                  <ab></ab>
+                  <ab>
+                  <app>
+                    <lem wit="#Aa #P">Accusator, testis uel iudex aliquis simul esse non potest.</lem>
+                    <rdg wit="#Bc">Quilibet duas personas in causa <sic>gegrere</sic> non ualet.</rdg>
+                  </app>
+                  </ab>
                 </div>
                 <div type="textpart" subtype="canon">
                   <ab>
@@ -254,7 +259,12 @@
                   <ab>Item Damasus papa.</ab>
                 </div>
                 <div type="textpart" subtype="rubric">
-                  <ab></ab>
+                  <ab>
+                  <app>
+                    <lem wit="#Aa #P">Quilibet in causa duas personas gerere non ualet.</lem>
+                    <rdg wit="#Bc">Accusator, testis uel iudex aliquis simul esse non potest.</rdg>
+                  </app>
+                  </ab>
                 </div>
                 <div type="textpart" subtype="canon">
                   <ab></ab>
