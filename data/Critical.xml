@@ -164,12 +164,26 @@
               <head>(C.4 q.1)</head>
               <div type="textpart" subtype="dictum" n="C.4 q.1 d.a.c.1">
                 <head>(C.4 q.1 d.a.c.1)</head>
-                <ab></ab>
+                <ab>
+                  De prima questione sic statutum legitur in
+                  <app>
+                    <lem wit="#Aa #P">concilio</lem>
+                    <rdg wit="#Bc">comcilio</rdg>
+                  </app>
+                  Cartaginensi .vii. cui interfuit Faustinus Romane ecclesie legatus:
+              </ab>
               </div>
               <div type="section" subtype="chapter" n="C.4 q.1 c.1">
                 <head>(C.4 q.1 c.1)</head>
                 <div type="textpart" subtype="rubric">
-                  <ab></ab>
+                  <ab>
+                    Ad accusandum non
+                    <app>
+                      <lem wit="#Aa #Bc">admittitur</lem>
+                      <rdg wit="#P">admittatur</rdg>
+                    </app>
+                    qui in excommunicatione perseuerat.
+                  </ab>
                 </div>
                 <div type="textpart" subtype="canon">
                   <ab></ab>
