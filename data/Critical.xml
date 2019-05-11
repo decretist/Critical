@@ -124,41 +124,85 @@
             <head>(C.4)</head>
             <div type="textpart" subtype="dictum" n="C.4 d.init.">
               <head>(C.4 d.init.)</head>
-              <ab><app><lem>Quidam</lem><rdg wit="#P"/></app>
-              in
-              <app><lem>excommunicatione</lem><rdg wit="#P">excomunicatione</rdg></app>
-              constitutus episcopum accusare disponit;
-              <app><lem>adolescentem</lem><rdg wit="#Bc">adulescentem</rdg></app>
-              infra xiiiium
-              <app><lem>etatis sue annum</lem><rdg wit="#Aa">annum etatis sue</rdg></app>
-              ad assertionem sue cause adducit. Prohibitus ab accusatione
-              adolescentem accusatorem et se testem facit. Adolescens personam
-              accusatoris et testis gerere cupit;
-              <app><lem wit="#Bc">die</lem><rdg wit="#P">di</rdg></app>
-              statuta ad iuditium electorum
-              <app><lem>iudicum</lem><rdg wit="#P">iudicium</rdg></app>
-              episcopus minime
-              <app><lem>concurrit</lem><rdg wit="#Fr.">occurrit</rdg></app>;
-              a communione
-              <app><lem>suspenditur</lem><rdg wit="#P">suspendere</rdg></app>;
-              tandem renouato iuditio accusator culpabilis in accusatione
-              inuenitur; demum ad assertionem proprie cause procedit. Hic primum
-              queritur, an in excommunicatione constitutus alium accusare ualeat?
-              Secundo,
-              <app><lem>an</lem><rdg wit="#P">autem</rdg></app>
-              infra
-              <app><lem wit="#Aa #Bc"/><rdg wit="#P">infra</rdg></app>
-              xiiiium annum in
-              <app><lem>criminali</lem><rdg wit="#P">criminari</rdg></app>
-              causa testari quis possit? Tercio, utrum
-              <app><lem>ab</lem><rdg wit="#P"/></app>
-              accusatione prohibitus personam testificantis possit assumere?
-              Quarto,
-              <app><lem>an idem possit esse accusator et testis? Quinto,</lem><rdg wit="#P"/></app>
-              <app><lem>an</lem><rdg wit="#P">aut</rdg></app>
-              die constituta non occurrens a communione sit remouendus? Sexto, si
-              in episcoporum iuditio accusatoris persona culpabilis inuenta
-              fuerit, an ad assertionem proprie cause de cetero sit admittenda?</ab>
+              <ab>
+                <app>
+                  <lem wit="#Aa #Bc">Quidam</lem>
+                  <rdg wit="#P"/>
+                </app>
+                in
+                <app>
+                  <lem wit="#Aa #Bc">excommunicatione</lem>
+                  <rdg wit="#P">excomunicatione</rdg>
+                </app>
+                constitutus episcopum accusare disponit;
+                <app>
+                  <lem wit="#Aa #P">adolescentem</lem>
+                  <rdg wit="#Bc">adulescentem</rdg>
+                </app>
+                infra xiiiium
+                <app>
+                  <lem wit="#Bc #P">etatis sue annum</lem>
+                  <rdg wit="#Aa">annum etatis sue</rdg>
+                </app>
+                ad assertionem sue cause adducit. Prohibitus ab accusatione
+                adolescentem accusatorem et se testem facit. Adolescens personam
+                accusatoris et testis gerere cupit;
+                <app>
+                  <lem wit="#Aa #Bc">die</lem>
+                  <rdg wit="#P">di</rdg>
+                </app>
+                statuta ad iuditium electorum
+                <app>
+                  <lem wit="#Aa #Bc">iudicum</lem>
+                  <rdg wit="#P">iudicium</rdg>
+                </app>
+                episcopus minime
+                <app>
+                  <lem wit="#Aa #Bc #P">concurrit</lem>
+                  <rdg wit="#Fr.">occurrit</rdg>
+                </app>;
+                a communione
+                <app>
+                  <lem wit="#Aa #Bc">suspenditur</lem>
+                  <rdg wit="#P">suspendere</rdg>
+                </app>;
+                tandem renouato iuditio accusator culpabilis in accusatione
+                inuenitur; demum ad assertionem proprie cause procedit. Hic primum
+                queritur, an in excommunicatione constitutus alium accusare ualeat?
+                Secundo,
+                <app>
+                  <lem wit="#Aa #Bc">an</lem>
+                  <rdg wit="#P">autem</rdg>
+                </app>
+                infra
+                <app>
+                  <lem wit="#Aa #Bc"/>
+                  <rdg wit="#P">infra</rdg>
+                </app>
+                xiiiium annum in
+                <app>
+                  <lem wit="#Aa #Bc">criminali</lem>
+                  <rdg wit="#P">criminari</rdg>
+                </app>
+                causa testari quis possit? Tercio, utrum
+                <app>
+                  <lem wit="#Aa #Bc">ab</lem>
+                  <rdg wit="#P"/>
+                </app>
+                accusatione prohibitus personam testificantis possit assumere?
+                Quarto,
+                <app>
+                  <lem wit="#Aa #Bc">an idem possit esse accusator et testis? Quinto,</lem>
+                  <rdg wit="#P"/>
+                </app>
+                <app>
+                  <lem wit="#Aa #Bc">an</lem>
+                  <rdg wit="#P">aut</rdg>
+                </app>
+                die constituta non occurrens a communione sit remouendus? Sexto, si
+                in episcoporum iuditio accusatoris persona culpabilis inuenta
+                fuerit, an ad assertionem proprie cause de cetero sit admittenda?
+              </ab>
             </div>
             <div type="section" subtype="question" n="C.4 q.1">
               <head>(C.4 q.1)</head>
@@ -171,7 +215,7 @@
                     <rdg wit="#Bc">comcilio</rdg>
                   </app>
                   Cartaginensi .vii. cui interfuit Faustinus Romane ecclesie legatus:
-              </ab>
+                </ab>
               </div>
               <div type="section" subtype="chapter" n="C.4 q.1 c.1">
                 <head>(C.4 q.1 c.1)</head>
@@ -250,7 +294,7 @@
                     <lem wit="#Aa #Bc #P">necesse est esse</lem>
                     <rdg wit="#Fr.">esse necesse est</rdg>
                   </app>, id
-                  <app><lem wit="#Aa #Bc">est</lem><rdg wit="#P" /></app>
+                  <app><lem wit="#Aa #Bc">est</lem><rdg wit="#P"/></app>
                   iudices electos, et
                   <app>
                     <lem wit="#Bc #P">accusatores</lem>
@@ -314,7 +358,7 @@
                   admittitur, qui in episcopi accusatione culpabilis inuenitur." -->
                   <ab>Qui in accusatione episcopi culpabilis inuenitur ad
                   arguendum de cetero non admittatur nisi propriam causam
-                  <app><lem wit="#Aa #Bc">ciuilem</lem><rdg wit="#P" /></app>
+                  <app><lem wit="#Aa #Bc">ciuilem</lem><rdg wit="#P"/></app>
                   solummodo asserere uoluerit.</ab>
                 </div>
                 <div type="textpart" subtype="canon">
