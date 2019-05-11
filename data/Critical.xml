@@ -259,15 +259,48 @@
               <head>(C.4 q.2-3)</head>
               <div type="textpart" subtype="dictum" n="C.4 q.2-3 d.a.c.1">
                 <head>(C.4 q.2-3 d.a.c.1)</head>
-                <ab></ab>
+                <ab>
+                  Secunda autem et tercia questio eodem concilio, uno eodemque capitulo
+                  <app>
+                    <lem wit="#Bc #P">terminatur</lem>
+                    <rdg wit="#Aa">terminatur</rdg>
+                  </app>.
+                  Illud uero est huiusmodi:
+                </ab>
               </div>
               <div type="section" subtype="chapter" n="C.4 q.2-3 c.1">
                 <head>(C.4 q.2-3 c.1)</head>
                 <div type="textpart" subtype="rubric">
-                  <ab></ab>
+                  <ab>
+                    Qui ab accusatione repelluntur,
+                    <app>
+                      <lem wit="#P">aut</lem>
+                      <rdg wit="#Aa">et</rdg>
+                      <rdg wit="#Bc"/>
+                    </app>
+                    ad annum .xiiii. nondum peruenerunt, testes esse non possunt.
+                  </ab>
                 </div>
                 <div type="textpart" subtype="canon">
-                  <ab></ab>
+                  <ab>
+                    Testes autem ad testimonium
+                    <app>
+                      <lem wit="#Aa #Bc">non</lem>
+                      <rdg wit="#P"/>
+                    </app>
+                    <app>
+                      <lem wit="#Aa #P">admittendos</lem>
+                      <rdg wit="#Bc">admttendos</rdg>
+                    </app>
+                    censemus, qui nec ad accusationem admitti iussi sunt, uel
+                    etiam quos ipse accusator de domo sua produxerit. Ad
+                    testimonium autem
+                    <app>
+                      <lem wit="#Aa #P">intra</lem>
+                      <rdg wit="#Bc">infra</rdg>
+                    </app>
+                    annos .xiiii. etatis sue constituti non admittantur.
+                  </ab>
                 </div>
                 <div type="textpart" subtype="dictum" n="C.4 q.2-3 d.p.c.3">
                   <head>(C.4 q.2-3 d.p.c.3)</head>
