@@ -221,17 +221,26 @@
                   <ab>
                   Nullus umquam presumat accusator simul esse et iudex uel testis, quoniam in omni
                   <app><lem wit="#Aa #P">iudicio</lem><rdg wit="#Bc">iuditio</rdg></app>
-                  quatuor personas semper necesse est esse, id est iudices electos, et
+                  <app>
+                    <lem>quatuor</lem>
+                    <rdg wit="#Aa">iiii</rdg>
+                    <rdg wit="#Bc">iiii<add place="above">o</add></rdg>
+                    <rdg wit="#P">iiii<add place="above">or</add></rdg>
+                  </app> personas semper
+                  <app>
+                    <lem wit="#Aa #Bc #P">necesse est esse<lem>
+                    <rdg wit="#Fr.">esse necesse est</rdg>
+                  </app>, id
+                  <app><lem wit="#Aa #Bc">est</lem><rdg wit="#P" /></app>
+                  iudices electos, et
                   <app>
                     <lem wit="#Bc #P">accusatores</lem>
                     <rdg wit="#Aa"><add place="above">idoneos</add>accusatores</rdg>
-                  </app>,
-                  ac
+                  </app>, ac
                   <app>
                     <lem wit="#Bc #P">defensores</lem>
                     <rdg wit="#Aa">defensores<add place="above">congruos</add></rdg>
-                  </app>
-                  atque
+                  </app> atque
                   <app>
                     <lem wit="#Bc #P">testes</lem>
                     <rdg wit="#Aa"><add place="above">legitimos</add>testes</rdg>
