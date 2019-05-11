@@ -230,7 +230,28 @@
                   </ab>
                 </div>
                 <div type="textpart" subtype="canon">
-                  <ab></ab>
+                  <ab>
+                    Diffinimus, eum rite ad accusationem non admitti, qui
+                    posteaquam excommunicatus
+                    <app>
+                      <lem wit="#Aa #Bc">fuerit</lem>
+                      <rdg wit="#P">fuit</rdg>
+                    </app>
+                    , in ipsa adhuc excommunicatione constitutus, siue sit
+                    clericus
+                    <app>
+                      <lem wit="#Aa #Bc">siue laicus</lem>
+                      <rdg wit="#P"/>
+                    </app>
+                    , accusare uoluerit. Omnes etiam infamie maculis aspersi, id
+                    est
+                    <app>
+                      <lem wit="#Bc #P">istriones</lem>
+                      <rdg wit="Aa">hystriones</rdg>
+                    </app>
+                    aut turpitudinibus subiecte persone, heretici etiam, siue
+                    pagani siue Iudei, ab accusatione prohibentur.
+                  </ab>
                 </div>
               </div>
             </div>
