@@ -387,12 +387,28 @@
               <head>(C.4 q.5)</head>
               <div type="textpart" subtype="dictum" n="C.4 q.5 d.a.c.1">
                 <head>(C.4 q.5 d.a.c.1)</head>
-                <ab></ab>
+                <ab>
+                  De .v. uero questione in concilio cartaginensi
+                  <app>
+                    <lem wit="#Bc">tertio</lem>
+                    <rdg wit="#Aa">.iii.</rdg>
+                    <rdg wit="#P">tercio</rdg>
+                  </app>
+                  sic
+                  <app>
+                    <lem wit="#Aa #Bc">inuenitur</lem>
+                    <rdg wit="#P"><sic>inueuenitur</sic></rdg>
+                  </app>
+                  diffinitum.
+                </ab>
               </div>
               <div type="section" subtype="chapter" n="C.4 q.5 c.1">
                 <head>(C.4 q.5 c.1)</head>
                 <div type="textpart" subtype="rubric">
-                  <ab></ab>
+                  <ab>
+                    Non est a communione suspendendus, qui die statuta ad causam
+                    peruenire non potuit.
+                  </ab>
                 </div>
                 <div type="textpart" subtype="canon">
                   <ab></ab>
