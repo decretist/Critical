@@ -379,7 +379,15 @@
                   </ab>
                 </div>
                 <div type="textpart" subtype="canon">
-                  <ab></ab>
+                  <ab>
+                    Nullus introducatur personaliter
+                    <app>
+                      <lem wit="#Aa #Bc">ad causam</lem>
+                      <rdg wit="#P"><expan>a<del>d</del>usa<ex>m</em></expan></rdg>
+                    </app>,
+                    set accusatores et accusati equa audiantur ratione,
+                    iuxta quod ordo exigit.
+                  </ab>
                 </div>
               </div>
             </div>
