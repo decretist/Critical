@@ -386,8 +386,15 @@
                       <rdg wit="#P">adusam</rdg>
                     </app>,
                     <!-- "sed" or "set"? ſ; in Aa and P, ſ⁊ in Bc. -->
-                    set accusatores et accusati equa audiantur ratione,
-                    iuxta quod ordo exigit.
+                    set accusatores et accusati equa audiantur ratione, iuxta
+                    quod ordo exigit. Accusatores uero et iudices non idem sint,
+                    set
+                    <app>
+                      <lem wit="#Aa #Bc">per se accusatores,</lem>
+                      <rdg wit="#P"/>
+                    </app>
+                    per se iudices, per se testes, per se accusati, unusquisque
+                    in suo ordine.
                   </ab>
                 </div>
               </div>
