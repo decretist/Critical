@@ -90,20 +90,20 @@
       })
     </script>
     <style media="screen">
-      *[source=\#DS] {
+      *[source=\#Aa] {
         width: 75%;
         border-left: thin solid black;
         border-right: thin solid black;
       }
-      tei-ab[source=\#Σ] {
+      tei-ab[source=\#Bc] {
         padding-left: 25%;
         width: 75%;
       }
-      tei-seg[source=\#Σ] {
+      tei-seg[source=\#Bc] {
         padding-left: 25%;
         width: 75%;
       }
-      tei-div[source=\#Σ]>tei-ab {
+      tei-div[source=\#Bc]>tei-ab {
         padding-left: 25%;
         width: 75%;
       }
@@ -113,10 +113,10 @@
       tei-choice>tei-seg {
         float: left;
       }
-      tei-choice>tei-seg[source=\#DS] {
+      tei-choice>tei-seg[source=\#Aa] {
         width: 50%;
       }
-      tei-choice>tei-seg[source=\#Σ] {
+      tei-choice>tei-seg[source=\#Bc] {
         padding-left: 0px;
         width: 49%;
       }
@@ -128,10 +128,7 @@
         width: 700px;
       }
       tei-div[type=textpart]>tei-head {
-        display: block;
-        font-family: Arvo, sans-serif;
-        font-size: 115%;
-        font-weight: normal;
+        display: none;
       }
       tei-quote[type=lemma] {
         font-style: normal;
