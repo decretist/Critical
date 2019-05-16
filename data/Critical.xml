@@ -454,7 +454,21 @@
               <div type="section" subtype="chapter" n="C.4 q.6 c.2">
                 <head>(C.4 q.6 c.2)</head>
                 <div type="textpart" subtype="inscription">
-                  <ab></ab>
+                  <ab>
+                    Item ex
+                    <app>
+                      <lem wit="#Aa #P">concilio</lem>
+                      <rdg wit="#Bc">comcilio</rdg>
+                    </app>
+                    <app>
+                      <lem wit="#Aa #Bc">cartaginensi</lem>
+                      <rdg wit="#P">cartaginesi</rdg>
+                    </app>
+                    <app>
+                      <lem wit="#Aa #Bc">.vii.</lem>
+                      <rdg wit="#P">.viio.</rdg>
+                    </app>
+                  </ab>
                 </div>
                 <div type="textpart" subtype="rubric">
                   <!-- R2: "Propriam causam agere ualet cui accusare non licet." -->
@@ -467,7 +481,15 @@
                   accusatio interdicitur.</ab>
                 </div>
                 <div type="textpart" subtype="canon">
-                  <ab></ab>
+                  <ab>
+                    Omnibus quibus accusatio denegatur in causis propriis
+                    accusandi licentia
+                    <app>
+                      <lem wit="#Bc #P">non est</lem>
+                      <rdg wit="#Aa">est non</rdg>
+                    </app>
+                    neganda.
+                  </ab>
                 </div>
               </div>
               <div type="section" subtype="chapter" n="C.4 q.6 c.3">
