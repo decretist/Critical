@@ -337,7 +337,10 @@
                 <div type="textpart" subtype="canon">
                   <ab>
                   Nullus umquam presumat accusator simul esse et iudex uel testis, quoniam in omni
-                  <app><lem wit="#Aa #P">iudicio</lem><rdg wit="#Bc">iuditio</rdg></app>
+                  <app>
+                    <lem wit="#Aa #P">iudicio</lem>
+                    <rdg wit="#Bc">iuditio</rdg>
+                  </app>
                   <app>
                     <lem>quatuor</lem>
                     <rdg wit="#Aa">iiii</rdg>
@@ -461,7 +464,25 @@
                   solummodo asserere uoluerit.</ab>
                 </div>
                 <div type="textpart" subtype="canon">
-                  <ab></ab>
+                  <ab>
+                    Illud uero placuit, ut cum agere ceperit in episcoporum
+                    <app>
+                      <lem wit="#Aa #P">iudicio</lem>
+                      <rdg wit="#Bc">iuditio</rdg>
+                    </app>,
+                    si fuerit
+                    <app>
+                      <lem wit="#Aa #P">accusatoris</lem>
+                      <rdg wit="#Bc">accusator</rdg>
+                    </app>
+                    <app>
+                      <lem wit="#Aa">persona</lem>
+                      <rdg wit="#Bc #P"/>
+                    </app>
+                    dampnabilis de cetero ad arguendum non admittatur, nisi
+                    proprias causas, non tamen ecclesiasticas uel criminales,
+                    asserere uoluerit.
+                  </ab>
                 </div>
               </div>
               <div type="section" subtype="chapter" n="C.4 q.6 c.2">
@@ -519,7 +540,10 @@
                 </div>
                 <div type="textpart" subtype="canon">
                   <ab>Si accusatorum persone in
-                  <app><lem>iudicio</lem><rdg wit="#Bc">iuditio</rdg></app>
+                  <app>
+                    <lem>iudicio</lem>
+                    <rdg wit="#Bc">iuditio</rdg>
+                  </app>
                   episoporum culpabiles
                   <app><lem wit="#Bc">apparuerint</lem><rdg wit="#Fr."><sic>aparuerint</sic></rdg></app>,
                   ad arguendum non admittantur, nisi proprias causas asserere,
@@ -534,7 +558,10 @@
                 </div>
                 <div type="textpart" subtype="canon">
                   <ab>Quod si accusatorum persone in
-                  <app><lem>iudicio</lem><rdg wit="#Bc">iuditio</rdg></app>
+                  <app>
+                    <lem>iudicio</lem>
+                    <rdg wit="#Bc">iuditio</rdg>
+                  </app>
                   episoporum et cetera, ut supra eisdem uerbis.
                   </ab>
                 </div>
