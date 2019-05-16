@@ -394,7 +394,18 @@
                       <rdg wit="#P"/>
                     </app>
                     per se iudices, per se testes, per se accusati, unusquisque
-                    in suo ordine.
+                    in suo ordine. Inscriptio
+                    <app>
+                      <lem wit="#Bc #P"/>
+                      <rdg wit="#Aa">uero</rdg>
+                    </app>
+                    semper fiat ut
+                    <app>
+                      <lem wit="#Bc #P">talionem calumpniator</lem>
+                      <rdg wit="Aa">calumpniator talionem</rdg>
+                    </app>
+                    recipiat, quia ante inscriptionem nemo debet iudicari uel
+                    dampnari, cum et seculi leges hec eadem retineant.
                   </ab>
                 </div>
               </div>
