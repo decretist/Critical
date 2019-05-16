@@ -151,7 +151,12 @@
                   <lem wit="#Aa #Bc">die</lem>
                   <rdg wit="#P">di</rdg>
                 </app>
-                statuta ad iuditium electorum
+                statuta ad
+                <app>
+                  <lem wit="#Aa #P">iudicium</lem>
+                  <rdg wit="#Bc">iuditium</lem>
+                </app>
+                electorum
                 <app>
                   <lem wit="#Aa #Bc">iudicum</lem>
                   <rdg wit="#P">iudicium</rdg>
@@ -166,7 +171,12 @@
                   <lem wit="#Aa #Bc">suspenditur</lem>
                   <rdg wit="#P">suspendere</rdg>
                 </app>;
-                tandem renouato iuditio accusator culpabilis in accusatione
+                tandem renouato
+                <app>
+                  <lem wit="#Aa #P">iudicio</lem>
+                  <rdg wit="#Bc">iuditio</rdg>
+                </app>
+                accusator culpabilis in accusatione
                 inuenitur; demum ad assertionem proprie cause procedit. Hic primum
                 queritur, an in excommunicatione constitutus alium accusare ualeat?
                 Secundo,
@@ -200,7 +210,12 @@
                   <rdg wit="#P">aut</rdg>
                 </app>
                 die constituta non occurrens a communione sit remouendus? Sexto, si
-                in episcoporum iuditio accusatoris persona culpabilis inuenta
+                in episcoporum
+                <app>
+                  <lem wit="#Aa #P">iudicio</lem>
+                  <rdg wit="#Bc">iuditio</rdg>
+                </app>
+                accusatoris persona culpabilis inuenta
                 fuerit, an ad assertionem proprie cause de cetero sit admittenda?
               </ab>
             </div>
