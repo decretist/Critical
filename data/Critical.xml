@@ -617,6 +617,7 @@
           </div>
         </div>
       </div>
+      <!--
       <div type="translation" xml:id="translation-text" xml:space="preserve">
         <head>Translation</head>
         <div subtype="part" type="section">
@@ -647,6 +648,7 @@
           </div>
         </div>
       </div>
+        -->
     </body>
     <back></back>
   </text>
