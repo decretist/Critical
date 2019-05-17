@@ -456,7 +456,32 @@
                   </ab>
                 </div>
                 <div type="textpart" subtype="canon">
-                  <ab></ab>
+                  <ab>
+                    Quisquis episcoporum accusatur, ad primates
+                    <app>
+                      <lem wit="#Aa #P">prouincie</lem>
+                      <rdg wit="#Bc">prouintie</rdg>
+                    </app>
+                    ipsius causam deferat accusator. Nec a communione
+                    suspendatur cui crimen intenditur, nisi ad causam suam
+                    dicendam electorum
+                    <app>
+                      <lem wit="#Aa #Bc">iudicum</lem>
+                      <rdg wit="#P">iudicium</rdg>
+                    </app>,
+                    die statuta,
+                    <app>
+                      <lem wit="#Aa #Bc">litteris</lem>
+                      <rdg wit="#P">litteras</rdg>
+                    </app>
+                    euocatus minime occurrerit, hoc est
+                    <app>
+                      <lem wit="#Bc">infra spatium</lem>
+                      <rdg wit="#Aa">intra spacium</rdg>
+                      <rdg wit="#P">infra infra spatium</rdg>
+                    </app>
+                    mensis ex ea die, qua eum litteras accepisse constiterit.
+                  </ab>
                 </div>
               </div>
             </div>
