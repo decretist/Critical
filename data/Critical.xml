@@ -320,7 +320,8 @@
                 <div type="textpart" subtype="dictum" n="C.4 q.2-3 d.p.c.3">
                   <head>(C.4 q.2-3 d.p.c.3)</head>
                   <!-- "Set" or "Sed"? -->
-                  <ab>Set obicitur illud beati
+                  <ab>
+                    Set obicitur illud beati
                     <app>
                       <lem wit="#Bc #P">Bricii</lem>
                       <rdg wit="#Aa">Brichi</rdg>
@@ -404,9 +405,7 @@
               <div type="section" subtype="chapter" n="C.4 q.4 c.2">
                 <head>(C.4 q.4 c.2)</head>
                 <div type="textpart" subtype="inscription">
-                  <ab>
-                    Item Damasus papa.
-                  </ab>
+                  <ab>Item Damasus papa.</ab>
                 </div>
                 <div type="textpart" subtype="rubric">
                   <ab>
