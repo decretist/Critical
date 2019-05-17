@@ -321,13 +321,23 @@
                   <head>(C.4 q.2-3 d.p.c.3)</head>
                   <!-- "Set" or "Sed"? -->
                   <ab>Set obicitur illud beati
-                  <app><lem wit="#Bc #P">Bricii</lem><rdg wit="#Aa">Brichi</rdg></app>,
-                  qui uoce pueri .xxx. dies ab
-                  <app><lem wit="#Aa #Bc">ortu</lem><rdg wit="#P">hortu</rdg></app>
-                  habentis innocens probatus est. Set miracula diuina sunt
-                  admiranda, non in exemplum humane
-                  <app><lem wit="#Aa #Bc">actionis</lem><rdg wit="#P">accionis</rdg></app>
-                  trahenda.</ab>
+                    <app>
+                      <lem wit="#Bc #P">Bricii</lem>
+                      <rdg wit="#Aa">Brichi</rdg>
+                    </app>,
+                    qui uoce pueri .xxx. dies ab
+                    <app>
+                      <lem wit="#Aa #Bc">ortu</lem>
+                      <rdg wit="#P">hortu</rdg>
+                    </app>
+                    habentis innocens probatus est. Set miracula diuina sunt
+                    admiranda, non in exemplum humane
+                    <app>
+                      <lem wit="#Aa #Bc">actionis</lem>
+                      <rdg wit="#P">accionis</rdg>
+                    </app>
+                    trahenda.
+                  </ab>
                 </div>
               </div>
             </div>
@@ -335,51 +345,59 @@
               <head>(C.4 q.4)</head>
               <div type="textpart" subtype="dictum" n="C.4 q.4 d.a.c.1">
                 <head>(C.4 q.4 d.a.c.1)</head>
-                <ab>De
-                <app><lem wit="#Bc #P">quarta</lem><rdg wit="#Aa">.iiii.</rdg></app>
-                uero questione Fabianus papa constituit, dicens:</ab>
+                <ab>
+                  De
+                  <app>
+                    <lem wit="#Bc #P">quarta</lem>
+                    <rdg wit="#Aa">.iiii.</rdg>
+                  </app>
+                  uero questione Fabianus papa constituit, dicens:
+                </ab>
               </div>
               <div type="section" subtype="chapter" n="C.4 q.4 c.1">
                 <head>(C.4 q.4 c.1)</head>
                 <div type="textpart" subtype="rubric">
                   <ab>
-                  <app>
-                    <lem wit="#Aa #P">Accusator, testis uel iudex aliquis simul esse non potest.</lem>
-                    <rdg wit="#Bc">Quilibet duas personas in causa <sic>gegrere</sic> non ualet.</rdg>
-                  </app>
+                    <app>
+                      <lem wit="#Aa #P">Accusator, testis uel iudex aliquis simul esse non potest.</lem>
+                      <rdg wit="#Bc">Quilibet duas personas in causa <sic>gegrere</sic> non ualet.</rdg>
+                    </app>
                   </ab>
                 </div>
                 <div type="textpart" subtype="canon">
                   <ab>
-                  Nullus umquam presumat accusator simul esse et iudex uel testis, quoniam in omni
-                  <app>
-                    <lem wit="#Aa #P">iudicio</lem>
-                    <rdg wit="#Bc">iuditio</rdg>
-                  </app>
-                  <app>
-                    <lem>quatuor</lem>
-                    <rdg wit="#Aa">iiii</rdg>
-                    <rdg wit="#Bc">iiii<add place="above">o</add></rdg>
-                    <rdg wit="#P">iiii<add place="above">or</add></rdg>
-                  </app> personas semper
-                  <app>
-                    <lem wit="#Aa #Bc #P">necesse est esse</lem>
-                    <rdg wit="#Fr.">esse necesse est</rdg>
-                  </app>, id
-                  <app><lem wit="#Aa #Bc">est</lem><rdg wit="#P"/></app>
-                  iudices electos, et
-                  <app>
-                    <lem wit="#Bc #P">accusatores</lem>
-                    <rdg wit="#Aa"><add place="above">idoneos</add>accusatores</rdg>
-                  </app>, ac
-                  <app>
-                    <lem wit="#Bc #P">defensores</lem>
-                    <rdg wit="#Aa">defensores<add place="above">congruos</add></rdg>
-                  </app> atque
-                  <app>
-                    <lem wit="#Bc #P">testes</lem>
-                    <rdg wit="#Aa"><add place="above">legitimos</add>testes</rdg>
-                  </app>.
+                    Nullus umquam presumat accusator simul esse et iudex uel testis, quoniam in omni
+                    <app>
+                      <lem wit="#Aa #P">iudicio</lem>
+                      <rdg wit="#Bc">iuditio</rdg>
+                    </app>
+                    <app>
+                      <lem>quatuor</lem>
+                      <rdg wit="#Aa">iiii</rdg>
+                      <rdg wit="#Bc">iiii<add place="above">o</add></rdg>
+                      <rdg wit="#P">iiii<add place="above">or</add></rdg>
+                    </app> personas semper
+                    <app>
+                      <lem wit="#Aa #Bc #P">necesse est esse</lem>
+                      <rdg wit="#Fr.">esse necesse est</rdg>
+                    </app>, id
+                    <app>
+                      <lem wit="#Aa #Bc">est</lem>
+                      <rdg wit="#P"/>
+                    </app>
+                    iudices electos, et
+                    <app>
+                      <lem wit="#Bc #P">accusatores</lem>
+                      <rdg wit="#Aa"><add place="above">idoneos</add>accusatores</rdg>
+                    </app>, ac
+                    <app>
+                      <lem wit="#Bc #P">defensores</lem>
+                      <rdg wit="#Aa">defensores<add place="above">congruos</add></rdg>
+                    </app> atque
+                    <app>
+                      <lem wit="#Bc #P">testes</lem>
+                      <rdg wit="#Aa"><add place="above">legitimos</add>testes</rdg>
+                    </app>.
                   </ab>
                 </div>
               </div>
@@ -390,10 +408,10 @@
                 </div>
                 <div type="textpart" subtype="rubric">
                   <ab>
-                  <app>
-                    <lem wit="#Aa #P">Quilibet in causa duas personas gerere non ualet.</lem>
-                    <rdg wit="#Bc">Accusator, testis uel iudex aliquis simul esse non potest.</rdg>
-                  </app>
+                    <app>
+                      <lem wit="#Aa #P">Quilibet in causa duas personas gerere non ualet.</lem>
+                      <rdg wit="#Bc">Accusator, testis uel iudex aliquis simul esse non potest.</rdg>
+                    </app>
                   </ab>
                 </div>
                 <div type="textpart" subtype="canon">
@@ -507,10 +525,15 @@
                 <div type="textpart" subtype="rubric">
                   <!-- R2: "In ciuili et proprio dumtaxat negotio ad arguendum
                   admittitur, qui in episcopi accusatione culpabilis inuenitur." -->
-                  <ab>Qui in accusatione episcopi culpabilis inuenitur ad
-                  arguendum de cetero non admittatur nisi propriam causam
-                  <app><lem wit="#Aa #Bc">ciuilem</lem><rdg wit="#P"/></app>
-                  solummodo asserere uoluerit.</ab>
+                  <ab>
+                    Qui in accusatione episcopi culpabilis inuenitur ad
+                    arguendum de cetero non admittatur nisi propriam causam
+                    <app>
+                      <lem wit="#Aa #Bc">ciuilem</lem>
+                      <rdg wit="#P"/>
+                    </app>
+                    solummodo asserere uoluerit.
+                  </ab>
                 </div>
                 <div type="textpart" subtype="canon">
                   <ab>
@@ -556,12 +579,23 @@
                 <div type="textpart" subtype="rubric">
                   <!-- R2: "Propriam causam agere ualet cui accusare non licet." -->
                   <!-- spelling: "audientia" or "audiencia"? -->
-                  <ab>Non
-                  <app><lem wit="#Aa #Bc">negatur</lem><rdg wit="#P">negant</rdg></app>
-                  <app><lem wit="#Aa #P">audientia in</lem><rdg wit="#Bc">in audientia</rdg></app>
-                  propria causa
-                  <app><lem wit="#Aa #Bc">cuius</lem><rdg wit="#P">cui</rdg></app>
-                  accusatio interdicitur.</ab>
+                  <ab>
+                    Non
+                    <app>
+                      <lem wit="#Aa #Bc">negatur</lem>
+                      <rdg wit="#P">negant</rdg>
+                    </app>
+                    <app>
+                      <lem wit="#Aa #P">audientia in</lem>
+                      <rdg wit="#Bc">in audientia</rdg>
+                    </app>
+                    propria causa
+                    <app>
+                      <lem wit="#Aa #Bc">cuius</lem>
+                      <rdg wit="#P">cui</rdg>
+                    </app>
+                    accusatio interdicitur.
+                  </ab>
                 </div>
                 <div type="textpart" subtype="canon">
                   <ab>
@@ -581,22 +615,34 @@
                   <ab>Item Felix episcopus omnibus episcopis</ab>
                 </div>
                 <div type="textpart" subtype="rubric">
-                  <ab>In episcoporum accusatione
-                  <app><lem>deficiens</lem><rdg wit="#Bc">defitiens</rdg></app>,
-                  ciuiliter
-                  <app><lem>tantum</lem><rdg wit="#Bc">tatum</rdg></app>
-                  experiri poterit.</ab>
+                  <ab>
+                    In episcoporum accusatione
+                    <app>
+                      <lem>deficiens</lem>
+                      <rdg wit="#Bc">defitiens</rdg>
+                    </app>,
+                    ciuiliter
+                    <app>
+                      <lem>tantum</lem>
+                      <rdg wit="#Bc">tatum</rdg>
+                    </app>
+                    experiri poterit.
+                  </ab>
                 </div>
                 <div type="textpart" subtype="canon">
-                  <ab>Si accusatorum persone in
-                  <app>
-                    <lem>iudicio</lem>
-                    <rdg wit="#Bc">iuditio</rdg>
-                  </app>
-                  episcoporum culpabiles
-                  <app><lem wit="#Bc">apparuerint</lem><rdg wit="#Fr."><sic>aparuerint</sic></rdg></app>,
-                  ad arguendum non admittantur, nisi proprias causas asserere,
-                  non tamen criminales uel ecclesiasticas, uoluerint.
+                  <ab>
+                    Si accusatorum persone in
+                    <app>
+                      <lem>iudicio</lem>
+                      <rdg wit="#Bc">iuditio</rdg>
+                    </app>
+                    episcoporum culpabiles
+                    <app>
+                      <lem wit="#Bc">apparuerint</lem>
+                      <rdg wit="#Fr."><sic>aparuerint</sic></rdg>
+                    </app>,
+                    ad arguendum non admittantur, nisi proprias causas asserere,
+                    non tamen criminales uel ecclesiasticas, uoluerint.
                   </ab>
                 </div>
               </div>
@@ -606,12 +652,13 @@
                   <ab>Item Adrianus papa</ab>
                 </div>
                 <div type="textpart" subtype="canon">
-                  <ab>Quod si accusatorum persone in
-                  <app>
-                    <lem>iudicio</lem>
-                    <rdg wit="#Bc">iuditio</rdg>
-                  </app>
-                  episcoporum et cetera, ut supra eisdem uerbis.
+                  <ab>
+                    Quod si accusatorum persone in
+                    <app>
+                      <lem>iudicio</lem>
+                      <rdg wit="#Bc">iuditio</rdg>
+                    </app>
+                    episcoporum et cetera, ut supra eisdem uerbis.
                   </ab>
                 </div>
               </div>
