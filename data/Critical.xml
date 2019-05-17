@@ -430,7 +430,12 @@
                       <lem wit="#Aa #Bc">per se accusatores,</lem>
                       <rdg wit="#P"/>
                     </app>
-                    per se iudices, per se testes, per se accusati, unusquisque
+                    per se iudices, per
+                    <app>
+                      <lem wit="#Aa #Bc">se</lem>
+                      <rdg wit="#P">re</rdg>
+                    </app>
+                    testes, per se accusati, unusquisque
                     in suo ordine. Inscriptio
                     <app>
                       <lem wit="#Bc #P"/>
@@ -522,6 +527,27 @@
                     in se dampnationis sententiam dixisse iudicetur. Tempore
                     sane, quo non communicat, nec in sua ecclesia uel parrochia
                     communicet.
+                  </ab>
+                  <ab>
+                    Accusator autem eius, si numquam diebus cause dicende
+                    <app>
+                      <lem wit="#Aa #P">defuerit</lem>
+                      <rdg wit="#Bc">affuerit</rdg>
+                    </app>
+                    <app>
+                      <rdg wit="#Bc #P"/>
+                      <rdg wit="#Aa">
+                        non remoueatur a communione. Si uero aliquando defuerit 
+                      </rdg>
+                    </app>
+                    subtrahens se, restituto in
+                    <app>
+                      <lem wit="#Bc #P">communione</lem>
+                      <rdg wit="#Aa">communionem<rdg>
+                    </app>
+                    episcopo,
+                    remoueatur a communione accusator, ita tamen, ut nec ipsi
+                    adimatur facultas cause peragende,
                   </ab>
                 </div>
               </div>
@@ -623,8 +649,9 @@
                   </ab>
                 </div>
               </div>
+              <!-- 4.6.3 Bc only -->
               <div type="section" subtype="chapter" n="C.4 q.6 c.3">
-                <head>(C.4 q.6 c.3 [Bc only])</head>
+                <head>(C.4 q.6 c.3)</head>
                 <div type="textpart" subtype="inscription">
                   <ab>Item Felix episcopus omnibus episcopis</ab>
                 </div>
@@ -660,8 +687,9 @@
                   </ab>
                 </div>
               </div>
+              <!-- 4.6.4 Bc only -->
               <div type="section" subtype="chapter" n="C.4 q.6 c.4">
-                <head>(C.4 q.6 c.4 [Bc only])</head>
+                <head>(C.4 q.6 c.4)</head>
                 <div type="textpart" subtype="inscription">
                   <ab>Item Adrianus papa</ab>
                 </div>
