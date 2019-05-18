@@ -29,7 +29,6 @@
     <front xml:id="front">
       <div type="section" xml:id="preface">
         <head>Preface</head>
-        <!-- <p>General introductory remarks about the edition.</p> -->
         <p>The text of the rubrics for 4.6.1 and 4.6.2 is quite similar in all
         four first-recension (R1) mss., and substantially different from the
         readings reported in Fr. 4.6.1: "Qui in accusatione episcopi culpabilis
@@ -400,7 +399,7 @@
                       <rdg wit="#Aa"><add place="above">legitimos</add>testes</rdg>
                     </app>.
                   </ab>
-                  <!-- only in Aa, possible later addition at foot of f.149v -->
+                  <!-- Aa only, possible later addition at foot of f.149v -->
                   <ab>
                     <app>
                       <lem wit="#Aa">
@@ -606,8 +605,10 @@
               <div type="section" subtype="chapter" n="C.4 q.6 c.1">
                 <head>(C.4 q.6 c.1)</head>
                 <div type="textpart" subtype="rubric">
-                  <!-- R2: "In ciuili et proprio dumtaxat negotio ad arguendum
-                  admittitur, qui in episcopi accusatione culpabilis inuenitur." -->
+                  <!--
+                    R2: "In ciuili et proprio dumtaxat negotio ad arguendum
+                    admittitur, qui in episcopi accusatione culpabilis inuenitur."
+                  -->
                   <ab>
                     Qui in accusatione episcopi culpabilis inuenitur ad
                     arguendum de cetero non admittatur nisi propriam causam
