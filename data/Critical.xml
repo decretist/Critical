@@ -552,8 +552,10 @@
                     </app>
                     non
                     <app>
-                      <rdg wit="#Aa">uoluisse</rdg> <!-- a.c. -->
-                      <rdg wit="#Aa">noluisse</rdg> <!-- p.c. -->
+                      <rdg wit="#Aa" xml:id="rdg-uoluisse">uoluisse</rdg> <!-- a.c. -->
+                      <witDetail wit="#Aa" target="#rdg-uoluisse" type="correction-original"/>
+                      <rdg wit="#Aa" xml:id="rdg-noluisse">noluisse</rdg> <!-- p.c. -->
+                      <witDetail wit="#Aa" target="#rdg-noluisse" type="correction-altered"/>
                       <rdg wit="#Bc">noluisse</rdg>
                       <rdg wit="#P">uoluisse</rdg>
                     </app>
