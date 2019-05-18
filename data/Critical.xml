@@ -319,7 +319,7 @@
                 </div>
                 <div type="textpart" subtype="dictum" n="C.4 q.2-3 d.p.c.3">
                   <head>(C.4 q.2-3 d.p.c.3)</head>
-                  <!-- "Set" or "Sed"? -->
+                  <!-- "Set" or "Sed"? S; in Aa and P, S⁊ in Bc. -->
                   <ab>
                     Set obicitur illud beati
                     <app>
@@ -543,6 +543,9 @@
                     </app>
                     episcopo, remoueatur a communione accusator, ita tamen, ut
                     nec ipsi adimatur facultas cause peragende,
+                    <!-- fix "potusse" in P -->
+                    <!-- "set" or "sed"? ſ; in Aa and P, ſet in Bc. -->
+                    si se ad diem ... set non potuisse occurrere probauerit.
                   </ab>
                 </div>
               </div>
