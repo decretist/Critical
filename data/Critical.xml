@@ -552,14 +552,11 @@
                     </app>
                     non
                     <app>
-                      <rdg wit="#Aa #P" xml:id="rdg-uoluisse">uoluisse</rdg>
+                      <!-- lemma doubtful, check Fd -->
+                      <lem wit="#Aa #P" xml:id="rdg-uoluisse">uoluisse</lem>
                       <witDetail wit="#Aa" target="#rdg-uoluisse" type="correction-original"/>
                       <rdg wit="#Aa #Bc" xml:id="rdg-noluisse">noluisse</rdg>
                       <witDetail wit="#Aa" target="#rdg-noluisse" type="correction-altered"/>
-                      <!--
-                      <rdg wit="#Bc">noluisse</rdg>
-                      <rdg wit="#P">uoluisse</rdg>
-                        -->
                     </app>
                     set non potuisse occurrere probauerit.
                   </ab>
