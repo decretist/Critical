@@ -400,7 +400,7 @@
                       <rdg wit="#Aa"><add place="above">legitimos</add>testes</rdg>
                     </app>.
                   </ab>
-                  <!-- Only in Aa, possible later addition at foot of page -->
+                  <!-- only in Aa, possible later addition at foot of f.149v -->
                   <ab>
                     <app>
                       <lem wit="#Aa">
@@ -411,6 +411,7 @@
                       testes
                       <expan>u<ex>er</ex>itate</expan>,
                       accusatores
+                      <!-- nested <app> element -->
                       <app>
                         <lem wit="#Aa" xml:id="lem-intentione">intentione</lem>
                         <witDetail wit="#Aa" target="#lem-intentione" type="correction-original"/>
@@ -558,8 +559,12 @@
                       <lem wit="#Aa #P">defuerit</lem>
                       <rdg wit="#Bc">affuerit</rdg>
                     </app>
+                    <!--
+                      '^' after "defuerti" in Aa, indicating addition
+                      "ſubt[ra]hens ſe" in right margin of f.150r.
+                    -->
                     <app>
-                      <!-- lemma doubtful, check Fd -->
+                      <!-- lemma uncertain, check Fd -->
                       <rdg wit="#Aa">non remoueatur a communione. Si uero aliquando defuerit</rdg>
                       <rdg wit="#Bc #P"/>
                     </app>
@@ -579,7 +584,7 @@
                     </app>
                     non
                     <app>
-                      <!-- lemma doubtful, check Fd -->
+                      <!-- lemma uncertain, check Fd -->
                       <lem wit="#Aa #P" xml:id="rdg-uoluisse">uoluisse</lem>
                       <witDetail wit="#Aa" target="#rdg-uoluisse" type="correction-original"/>
                       <rdg wit="#Aa #Bc" xml:id="rdg-noluisse">noluisse</rdg>
