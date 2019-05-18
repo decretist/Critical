@@ -400,6 +400,33 @@
                       <rdg wit="#Aa"><add place="above">legitimos</add>testes</rdg>
                     </app>.
                   </ab>
+                  <!-- Only in Aa, possible later addition at foot of page -->
+                  <ab>
+                    <app>
+                      <lem wit="#Aa">
+                      Iudices
+                      <expan>aut<ex>em</ex></expan>
+                      debent uti
+                      <expan>eq<ex>ui</ex>tate</expan>,
+                      testes
+                      <expan>u<ex>er</ex>itate</expan>,
+                      accusatores
+                      <app>
+                        <lem wit="#Aa" xml:id="lem-intentione">intentione</lem>
+                        <witDetail wit="#Aa" target="#lem-intentione" type="correction-original"/>
+                        <rdg wit="#Aa" xml:id="rdg-intensione">intensione</rdg>
+                        <witDetail wit="#Aa" target="#lem-intensione" type="correction-altered"/>
+                      </app>
+                      ad
+                      <expan>amplificanda<ex>m</ex></expan>
+                      <expan>causa<ex>m</ex></expan>,
+                      defensores extenuatione ad
+                      <expan>minuenda<ex>m</ex></expan>
+                      <expan>causa<ex>m</ex></expan>.
+                      </lem>
+                      <rdg wit="#Bc #P"/>
+                    </app>
+                  </ab>
                 </div>
               </div>
               <div type="section" subtype="chapter" n="C.4 q.4 c.2">
@@ -726,31 +753,33 @@
           <div type="section" subtype="case" n="C.4">
             <head>(C.4)</head>
             <div type="textpart" subtype="dictum" n="C.4 d.init.">
-              <head>(SC translation of C.4 d.init.)</head>
-              <ab>An excommunicate undertook to accuse a bishop. He brought a
-              person under the age of 14 to support his case. [assertio was
-              originally used to mean the defense of a person’s character. In
-              the middle ages the word took on a modern meaning of assertion.
-              It retained its positive meaning—i.e. it was a statement in favor
-              of something. Here, I think it means that the accuser brought the
-              young person in to support his accusation against the bishop.]
-              Prohibited from making the accusation [because he was an
-              excommunicate], he made [introduced, assigned] the adolescent the
-              accuser and himself the witness. [In other words, the
-              excommunicate switched roles with the youth, but the next sentence
-              raises a question about the meaning of se here.] The adolescent
-              began to act as accuser and witness. On the appointed day, the
-              bishop did not agree [minime concurrit] to come before the
-              electors’ [those chosen to be judges] court. He was suspended from
-              communion. Finally, the court having been reconvened, the accuser
-              [I believe this refers to the youth] was found culpable in making
-              the accusation. In the end, he [I believe this person is the
-              original accuser, the excommunicate] proceeded to make his case.</ab>
+              <head>(C.4 d.init.)</head>
+              <ab>
+                An excommunicate undertook to accuse a bishop. He brought a
+                person under the age of 14 to support his case. [assertio was
+                originally used to mean the defense of a person’s character. In
+                the middle ages the word took on a modern meaning of assertion.
+                It retained its positive meaning—i.e. it was a statement in favor
+                of something. Here, I think it means that the accuser brought the
+                young person in to support his accusation against the bishop.]
+                Prohibited from making the accusation [because he was an
+                excommunicate], he made [introduced, assigned] the adolescent the
+                accuser and himself the witness. [In other words, the
+                excommunicate switched roles with the youth, but the next sentence
+                raises a question about the meaning of se here.] The adolescent
+                began to act as accuser and witness. On the appointed day, the
+                bishop did not agree [minime concurrit] to come before the
+                electors’ [those chosen to be judges] court. He was suspended from
+                communion. Finally, the court having been reconvened, the accuser
+                [I believe this refers to the youth] was found culpable in making
+                the accusation. In the end, he [I believe this person is the
+                original accuser, the excommunicate] proceeded to make his case.
+              </ab>
             </div>
           </div>
         </div>
       </div>
-        -->
+      -->
     </body>
     <back></back>
   </text>
