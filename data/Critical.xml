@@ -532,10 +532,9 @@
                       <rdg wit="#Bc">affuerit</rdg>
                     </app>
                     <app>
+                      <!-- lemma doubtful, check Fd -->
+                      <rdg wit="#Aa">non remoueatur a communione. Si uero aliquando defuerit</rdg>
                       <rdg wit="#Bc #P"/>
-                      <rdg wit="#Aa">
-                        non remoueatur a communione. Si uero aliquando defuerit
-                      </rdg>
                     </app>
                     subtrahens se, restituto in
                     <app>
