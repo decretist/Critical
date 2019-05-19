@@ -574,7 +574,6 @@
                     </app>
                     episcopo, remoueatur a communione accusator, ita tamen, ut
                     nec ipsi adimatur facultas cause peragende,
-                    <!-- fix "potusse" in P -->
                     <!-- "set" or "sed"? ſ; in Aa and P, ſet in Bc. -->
                     si se ad diem
                     <app>
@@ -662,7 +661,6 @@
                 </div>
                 <div type="textpart" subtype="rubric">
                   <!-- R2: "Propriam causam agere ualet cui accusare non licet." -->
-                  <!-- spelling: "audientia" or "audiencia"? -->
                   <ab>
                     Non
                     <app>
@@ -670,7 +668,18 @@
                       <rdg wit="#P">negant</rdg>
                     </app>
                     <app>
-                      <lem wit="#Aa #P">audientia in</lem>
+                      <!-- spelling: "audientia" in Aa, "audiencia" in P -->
+                      <!--
+                      <lem wit="#Aa">audientia in</lem>
+                      <rdg wit="#P">audiencia in</rdg>
+                      -->
+                      <lem wit="#Aa #P">
+                        <app>
+                          <lem wit="#Aa">audientia</lem>
+                          <rdg wit="#P">audiencia</rdg>
+                        </app>
+                      in
+                      </lem>
                       <rdg wit="#Bc">in audientia</rdg>
                     </app>
                     propria causa
@@ -752,7 +761,7 @@
           </div>
         </div>
       </div>
-      <!--
+      <!-- translation by Stanley Chodorow, 2 March 2019
       <div type="translation" xml:id="translation-text" xml:space="preserve">
         <head>Translation</head>
         <div subtype="part" type="section">
