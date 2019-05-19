@@ -30,14 +30,14 @@
       <div type="section" xml:id="preface">
         <head>Preface</head>
         <p>The text of the rubrics for 4.6.1 and 4.6.2 is quite similar in all
-        four first-recension (R1) mss., and substantially different from the
-        readings reported in Fr. 4.6.1: "Qui in accusatione episcopi culpabilis
-        inuenitur ad arguendum de cetero non admittatur nisi propriam causam
-        ciuilem solummodo asserere uoluerit" in Aa Bc Fd P and "In ciuili et
-        proprio dumtaxat negotio ad arguendum admittitur, qui in episcopi
-        accusatione culpabilis inuenitur" in Fr. 4.6.2: "Non negatur audientia
-        in propria causa cuius accusatio interdicitur" in Aa Bc Fd P and
-        "Propriam causam agere ualet cui accusare non licet" in Fr.</p>
+        four R1 mss., and substantially different from the readings reported in
+        Fr. 4.6.1: "Qui in accusatione episcopi culpabilis inuenitur ad
+        arguendum de cetero non admittatur nisi propriam causam ciuilem
+        solummodo asserere uoluerit" in Aa Bc Fd P, and "In ciuili et proprio
+        dumtaxat negotio ad arguendum admittitur, qui in episcopi accusatione
+        culpabilis inuenitur" in Fr. 4.6.2: "Non negatur audientia in propria
+        causa cuius accusatio interdicitur" in Aa Bc Fd P, and "Propriam causam
+        agere ualet cui accusare non licet" in Fr.</p>
         <p> C.4 q.2-3 d.p.c.3 quotes a cryptic statement, not found in Clavis
         Canonum, attributed to St. Brice (†.444), a controversial disciple of
         St. Martin, and his successor as bishop of Tours.
@@ -48,22 +48,27 @@
         (Landau, "Gratian and the Decretum Gratiani", 41.)</note>
         </p>
         <!-- Admont (Aa) -->
-        <p>There are two marginal glosses in the Admont (Aa) text of C.4 that
-        refer to Burchard's Decretum: "B.xvi. Nemo ſimul ſit." (Burchard 16.15)
-        at 4.4.1, and "B.i. Qͥſqͥs." (Burchard 1.160) at 4.6.1. A rubric in
-        between C.4 and C.5 ("Explicit liber quintus, incipit liber sextus, de
-        episcoporum accusationibus") indicates a non-standard division of the Aa
-        ms. into books.</p>
+        <p>There are two marginal glosses in the Aa text of C.4 that refer to
+        Burchard's <title level="m">Decretum</title>: "B.xvi. Nemo ſimul ſit."
+        (Burchard 16.15) at 4.4.1, and "B.i. Qͥſqͥs." (Burchard 1.160) at 4.6.1.
+        A rubric in between C.4 and C.5 ("Explicit liber quintus, incipit liber
+        sextus, de episcoporum accusationibus") indicates a non-standard
+        division of Aa into books.</p>
         <!-- Barcelona (Bc) -->
         <p>The order of rubrics in C.4 q.4 is reversed in Bc. The rubric for
         4.4.2 ("Quilibet in causa duas personas gerere non valet") appears
         before 4.4.1, and the rubric for 4.4.1 ("Accusator, testis vel iudex
         aliquis simul esse non potest") appears before 4.4.2. Bc includes two
         canons —  4.6.3 and 4.6.4 — not listed in Winroth's appendix and not
-        found in either the Aa or P mss.</p>
+        found in either Aa or P.</p>
         <!-- Paris (P) -->
         <p>The quality of scribal workmanship in the Paris (P) ms. is visibly
-        less professional than that in either the Aa or Bc mss.</p>
+        less professional than that in either Aa or Bc.</p>
+        <!-- cf. Mantello and Rigg -->
+        <p>In addition to scribal errors, the Aa, Bc, and P mss. reflect
+        variation (in both directions) of the orthographic representation of
+        ci=ti: Aa: spacium; Bc: defitiens, iuditio and iuditium, and prouintie;
+        and P: accionis, audiencia, and tercio.</p>
       </div>
       <div type="section" xml:id="bibliography">
         <head>Bibliography</head>
@@ -451,8 +456,12 @@
                     </app>,
                     <!-- "sed" or "set"? ſ; in Aa and P, ſ⁊ in Bc. -->
                     set accusatores et accusati equa audiantur ratione, iuxta
-                    quod ordo exigit. Accusatores uero et iudices non idem sint,
-                    set
+                    quod ordo exigit. Accusatores uero et iudices non
+                    <app>
+                      <lem wit="#Aa #Bc #P">idem</lem>
+                      <rdg wit="#Fr.">iidem</rdg>
+                    </app>
+                    sint, set
                     <app>
                       <lem wit="#Aa #Bc">per se accusatores,</lem>
                       <rdg wit="#P"/>
@@ -734,6 +743,7 @@
                     episcoporum culpabiles
                     <app>
                       <lem wit="#Bc">apparuerint</lem>
+                      <!-- Friedberg typo -->
                       <rdg wit="#Fr."><sic>aparuerint</sic></rdg>
                     </app>,
                     ad arguendum non admittantur, nisi proprias causas asserere,
