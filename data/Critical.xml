@@ -670,10 +670,11 @@
                     <app>
                       <!-- spelling: "audientia" in Aa, "audiencia" in P -->
                       <!--
-                      <lem wit="#Aa">audientia in</lem>
-                      <rdg wit="#P">audiencia in</rdg>
+                        <lem wit="#Aa">audientia in</lem>
+                        <rdg wit="#P">audiencia in</rdg>
                       -->
                       <lem wit="#Aa #P">
+                        <!-- nested <app> element -->
                         <app>
                           <lem wit="#Aa">audientia</lem>
                           <rdg wit="#P">audiencia</rdg>
