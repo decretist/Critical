@@ -27,50 +27,6 @@
   </teiHeader>
   <text>
     <front xml:id="front">
-      <div type="section" xml:id="preface">
-        <head>Preface</head>
-        <p>The text of the rubrics for 4.6.1 and 4.6.2 is quite similar in all
-        four R1 mss., and substantially different from the readings reported in
-        Fr. 4.6.1: "Qui in accusatione episcopi culpabilis inuenitur ad
-        arguendum de cetero non admittatur nisi propriam causam ciuilem
-        solummodo asserere uoluerit" in Aa Bc Fd P, and "In ciuili et proprio
-        dumtaxat negotio ad arguendum admittitur, qui in episcopi accusatione
-        culpabilis inuenitur" in Fr. 4.6.2: "Non negatur audientia in propria
-        causa cuius accusatio interdicitur" in Aa Bc Fd P, and "Propriam causam
-        agere ualet cui accusare non licet" in Fr.</p>
-        <p> C.4 q.2-3 d.p.c.3 quotes a cryptic statement, not found in Clavis
-        Canonum, attributed to St. Brice (†.444), a controversial disciple of
-        St. Martin, and his successor as bishop of Tours.
-        <note place="foot">"It is remarkable that in his dicta Gratian refers
-        to sources that are not cited in the Decretum. Many biblical citations,
-        for example, are found only in the dicta. They are often tied to
-        important theological reflections ..."
-        (Landau, "Gratian and the Decretum Gratiani", 41.)</note>
-        </p>
-        <!-- Admont (Aa) -->
-        <p>There are two marginal glosses in the Aa text of C.4 that refer to
-        Burchard's <title level="m">Decretum</title>: "B.xvi. Nemo ſimul ſit."
-        (Burchard 16.15) at 4.4.1, and "B.i. Qͥſqͥs." (Burchard 1.160) at 4.6.1.
-        A rubric in between C.4 and C.5 ("Explicit liber quintus, incipit liber
-        sextus, de episcoporum accusationibus") indicates a non-standard
-        division of Aa into books.</p>
-        <!-- Barcelona (Bc) -->
-        <p>The order of rubrics in C.4 q.4 is reversed in Bc. The rubric for
-        4.4.2 ("Quilibet in causa duas personas gerere non valet") appears
-        before 4.4.1, and the rubric for 4.4.1 ("Accusator, testis vel iudex
-        aliquis simul esse non potest") appears before 4.4.2. Bc includes two
-        canons —  4.6.3 and 4.6.4 — not listed in Winroth's appendix and not
-        found in either Aa or P.</p>
-        <!-- Paris (P) -->
-        <p>The quality of scribal workmanship in P is visibly less professional
-        than that in either Aa or Bc.</p>
-        <!-- cf. Mantello and Rigg -->
-        <p>In addition to scribal errors, Aa, Bc, and P reflect divergence from
-        Classical Latin orthography for
-        <hi rend="italic">ci</hi> and <hi rend="italic">ti</hi>. Aa: spacium;
-        Bc: defitiens, iuditio and iuditium, and prouintie; and P: accionis,
-        audiencia, and tercio.</p>
-      </div>
       <div type="section" xml:id="bibliography">
         <head>Bibliography</head>
         <div type="section" xml:id="bibliography-modern-editions">
@@ -773,40 +729,6 @@
           </div>
         </div>
       </div>
-      <!-- translation by Stanley Chodorow, 2 March 2019
-      <div type="translation" xml:id="translation-text" xml:space="preserve">
-        <head>Translation</head>
-        <div subtype="part" type="section">
-          <div type="section" subtype="case" n="C.4">
-            <head>(C.4)</head>
-            <div type="textpart" subtype="dictum" n="C.4 d.init.">
-              <head>(C.4 d.init.)</head>
-              <ab>
-                An excommunicate undertook to accuse a bishop. He brought a
-                person under the age of 14 to support his case. [assertio was
-                originally used to mean the defense of a person’s character. In
-                the middle ages the word took on a modern meaning of assertion.
-                It retained its positive meaning—i.e. it was a statement in favor
-                of something. Here, I think it means that the accuser brought the
-                young person in to support his accusation against the bishop.]
-                Prohibited from making the accusation [because he was an
-                excommunicate], he made [introduced, assigned] the adolescent the
-                accuser and himself the witness. [In other words, the
-                excommunicate switched roles with the youth, but the next sentence
-                raises a question about the meaning of se here.] The adolescent
-                began to act as accuser and witness. On the appointed day, the
-                bishop did not agree [minime concurrit] to come before the
-                electors’ [those chosen to be judges] court. He was suspended from
-                communion. Finally, the court having been reconvened, the accuser
-                [I believe this refers to the youth] was found culpable in making
-                the accusation. In the end, he [I believe this person is the
-                original accuser, the excommunicate] proceeded to make his case.
-              </ab>
-            </div>
-          </div>
-        </div>
-      </div>
-      -->
     </body>
     <back></back>
   </text>
