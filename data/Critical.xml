@@ -9,7 +9,9 @@
       <titleStmt>
         <title>Decretum Gratiani</title>
         <author>Gratian, active 12th century</author>
-        <editor>Paul Evans</editor>
+        <editor role="Editor">Paul Evans</editor>
+        <editor role="Associate Editor">Emily Bolender</editor>
+        <editor role="Associate Editor">Paige Ferguson</editor>
       </titleStmt>
       <publicationStmt>
         <publisher>Stephan Kuttner Institute</publisher>
@@ -554,7 +556,7 @@
                     </app>
                     <!--
                       '^' after "defuerti" in Aa, indicating addition
-                      "ſubt[ra]hens ſe" in right margin of f.150r.
+                      "ſubt[ra]hens ſe" in right margin of 150r.
                     -->
                     <app>
                       <!-- lemma uncertain, check Fd -->
@@ -662,7 +664,6 @@
                       <rdg wit="#P">negant</rdg>
                     </app>
                     <app>
-                      <!-- spelling: "audientia" in Aa, "audiencia" in P -->
                       <!--
                         <lem wit="#Aa">audientia in</lem>
                         <rdg wit="#P">audiencia in</rdg>
