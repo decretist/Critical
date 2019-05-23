@@ -34,8 +34,11 @@
           <listBibl type="editions-sources">
             <bibl xml:id="Fr.">
               <abbr type="siglum">Fr.</abbr>
-              = Friedberg, Emil, ed., Corpus iuris canonici.
-              I, Decretum magistri Gratiani. Leipzig, 1879.
+              = Friedberg, Emil, ed.,
+              <title level="m">Corpus iuris canonici</title>.
+              I,
+              <title level="m">Decretum magistri Gratiani</title>.
+              Leipzig, 1879.
               <!-- 536-544 -->
             </bibl>
           </listBibl>
@@ -526,7 +529,7 @@
                     quibus occurrere non potuisse manifestum sit,
                     <app>
                       <lem wit="#Aa #Bc #P">cause sue</lem>
-                      <rdg wit="#Fr." type="transposition">sue cause</rdg>
+                      <rdg wit="#Fr.">sue cause</rdg>
                     </app>
                     dicende intra alterum mensem integram habeat facultatem.
                     Verum tamdiu post mensem secundum non communicet, donec
