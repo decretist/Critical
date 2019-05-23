@@ -36,6 +36,7 @@
               <abbr type="siglum">Fr.</abbr>
               = Friedberg, Emil, ed., Corpus iuris canonici.
               I, Decretum magistri Gratiani. Leipzig, 1879.
+              <!-- 536-544 -->
             </bibl>
           </listBibl>
         </div>
@@ -61,10 +62,12 @@
           <witness xml:id="Aa">
             <abbr type="siglum">Aa</abbr>
             = Admont, Stiftsbibliothek 23 and 43.
+            <!-- 149r-150r -->
           </witness>
           <witness xml:id="Bc">
             <abbr type="siglum">Bc</abbr>
             = Barcelona, Arxiu de la Corona d'Aragó, Santa Maria de Ripoll 78.
+            <!-- 142v-143v -->
           </witness>
           <witness xml:id="Fd">
             <abbr type="siglum">Fd</abbr>
@@ -224,6 +227,7 @@
                     <app>
                       <lem wit="#Bc #P">istriones</lem>
                       <rdg wit="#Aa">hystriones</rdg>
+                      <rdg wit="#Fr.">histriones</rdg>
                     </app>
                     aut turpitudinibus subiecte persone, heretici etiam, siue
                     pagani siue Iudei, ab accusatione prohibentur.
@@ -236,10 +240,15 @@
               <div type="textpart" subtype="dictum" n="C.4 q.2-3 d.a.c.1">
                 <head>(C.4 q.2-3 d.a.c.1)</head>
                 <ab>
-                  Secunda autem et tercia questio eodem concilio, uno eodemque capitulo
+                  Secunda autem et
+                  <app>
+                    <lem wit="#Aa #Bc #P">tercia</lem>
+                    <rdg wit="#Fr.">tertia</rdg>
+                  </app>
+                  questio eodem concilio, uno eodemque capitulo
                   <app>
                     <lem wit="#Bc #P">terminatur</lem>
-                    <rdg wit="#Aa">terminatur</rdg>
+                    <rdg wit="#Aa">terminantur</rdg>
                   </app>.
                   Illud uero est huiusmodi:
                 </ab>
@@ -250,7 +259,7 @@
                   <ab>
                     Qui ab accusatione repelluntur,
                     <app>
-                      <lem wit="#P">aut</lem>
+                      <lem wit="#P #Fr.">aut</lem>
                       <rdg wit="#Aa">et</rdg>
                       <rdg wit="#Bc"/>
                     </app>
@@ -267,7 +276,14 @@
                     <app>
                       <lem wit="#Aa #P">admittendos</lem>
                       <rdg wit="#Bc">admttendos</rdg>
+                      <rdg wit="#Fr.">admittendos esse</rdg>
                     </app>
+                    <!-- esse add. Fr.
+                      <app>
+                        <lem wit="#Aa #Bc #P"/>
+                        <rdg wit="#Fr.">esse</rdg>
+                      </app>
+                    -->
                     censemus, qui nec ad accusationem admitti iussi sunt, uel
                     etiam quos ipse accusator de domo sua produxerit. Ad
                     testimonium autem
@@ -361,7 +377,7 @@
                       <rdg wit="#Aa"><add place="above">legitimos</add>testes</rdg>
                     </app>.
                   </ab>
-                  <!-- Aa only, possible later addition at foot of f.149v -->
+                  <!-- Aa only, possible later addition, foot of 149v -->
                   <ab>
                     <app>
                       <lem wit="#Aa">
@@ -416,6 +432,10 @@
                     quod ordo exigit. Accusatores uero et iudices non
                     <app>
                       <lem wit="#Aa #Bc #P">idem</lem>
+                      <!--
+                        "iidem" Fr. 541
+                        "idem" Ka 112rb and Kb 115rb
+                      -->
                       <rdg wit="#Fr.">iidem</rdg>
                     </app>
                     sint, set
@@ -503,13 +523,18 @@
                       <lem wit="#Aa #Bc">probauerit</lem>
                       <rdg wit="#P">propriauerit</rdg>
                     </app>,
-                    quibus occurrere non potuisse manifestum sit, cause sue
+                    quibus occurrere non potuisse manifestum sit,
+                    <app>
+                      <lem wit="#Aa #Bc #P">cause sue</lem>
+                      <rdg wit="#Fr." type="transposition">sue cause</rdg>
+                    </app>
                     dicende intra alterum mensem integram habeat facultatem.
                     Verum tamdiu post mensem secundum non communicet, donec
                     purgetur. Si autem ad uniuersale concilium
                     <app>
                       <lem wit="#Aa #Bc">anniuersarium</lem>
                       <rdg wit="#P">anniuersalium</rdg>
+                      <rdg wit="#Fr."/>
                     </app>
                     occurrere
                     <app>
