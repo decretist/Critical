@@ -22,7 +22,7 @@
             <cb n="126vb"/>
             <lb n="19"/>in excomunicatione c̄ſtitutꝰ.
             <lb n="20"/>ep̄m accuſare diſponit. ado-
-            <lb n="21"/>leſcentē.Ī.xiiiiū.ętatiſ ſue annū
+            <lb n="21"/>leſcentē. Ī. xiiiiū. ętatiſ ſue annū
             <lb n="22"/>ad aſſertionē ſuę cauſę adducit.
             <lb n="23"/>Ꝓhibitus ab accuſatione adoleſcētē
             <lb n="24"/>accuſatorē. ⁊ se teſtē facit. Ado-
@@ -44,15 +44,16 @@
             <lb n="8"/>Sexto. ſi in epōꝝ iudicio accuſatoriſ
             <lb n="9"/>ꝑſona culpabił inuenta fuit̄. ā ad aſ-
             <lb n="10"/>ſertionē ꝓͥe cauſe. de cęt̄o ſit admittn̄da.
-            <ab><supplied reason="omitted">Quidam</supplied>
+            <ab>
+            <choice><abbr/><expan><ex>Quidam</ex></expan></choice>
             in excomunicatione
-            <choice><abbr>c̄ſtitutꝰ</abbr><expan><ex>con</ex><ex>s</ex>titut<ex>us</ex></expan></choice>
+            <choice><abbr>c̄ſtitutꝰ</abbr><expan><ex>con</ex><ex>s</ex>titut<ex>us</ex></expan></choice>.
             <choice><abbr>ep̄m</abbr><expan>ep<ex>iscopu</ex>m</expan></choice>
             <choice><abbr>accuſare</abbr><expan>accu<ex>s</ex>are</expan></choice>
             <choice><abbr>diſponit</abbr><expan>di<ex>s</ex>ponit</expan></choice>.
-            <choice><abbr>adoleſcentē</abbr><expan>adole<ex>s</ex>cente<ex>m</ex></expan></choice>
-            <choice><abbr>Ī</abbr><expan><ex>infra</ex></expan></choice>
-            <choice><abbr>xiiiiū</abbr><expan><ex>decimum et quartum</ex></expan></choice>
+            <choice><abbr>adoleſcentē</abbr><expan>adole<ex>s</ex>cente<ex>m</ex></expan></choice>.
+            <choice><abbr>Ī.</abbr><expan><ex>infra</ex></expan></choice>
+            <choice><abbr>xiiiiū.</abbr><expan><ex>decimum et quartum</ex></expan></choice>
             <choice><abbr>ętatiſ</abbr><expan><ex>e</ex>tati<ex>s</ex></expan></choice>
             <choice><abbr>ſue</abbr><expan><ex>s</ex>ue</expan></choice>
             <choice><abbr>annū</abbr><expan>annu<ex>m</ex></expan></choice>
