@@ -29,6 +29,69 @@
     <front xml:id="front">
       <div type="section" xml:id="preface">
         <head>Preface</head>
+        <p>
+        The most interesting text in the case is Gratian's one and
+        only <hi rend="italic">dictum</hi>, C.4 q.2-3 d.p.c.3. "Set
+        obicitur illud beati Bricii, qui uoce pueri xxx dies ab
+        ortu habentis innocens probatus est. Set miracula diuina
+        sunt admiranda, non in exemplum humane actionis trahenda."
+        The Latin of the first sentence is somewhat opaque. Taking
+        the accusative plural <hi rend="italic">dies</hi> as the
+        object of <hi rend="italic">habentis</hi>, and supplying
+        <hi rend="italic">exemplum</hi> because it is neuter and
+        can be construed with <hi rend="italic">illud</hi>, the
+        sentence can be literally translated as "But that [example]
+        of blessed Brice is objected, who was proved innocent by
+        the voice of the child having thirty days from its birth
+        or origin." The dictum can be translated into more idiomatic
+        English as "But a counter-example is that of St. Brice, who
+        was proved innocent by the word of a thirty-day-old child.
+        But divine miracles are to be wondered at, not to be taken
+        as a pattern for human action."
+        </p>
+        <p>
+        Gratian is referring to a story from Gregory of Tours,
+        <title level="m">History of the Franks</title>, II.1, about
+        St. Brice (†.444), St. Martin's controversial immediate
+        successor as bishop of Tours. This is the only mention of
+        Brice in the <title level="m">Decretum</title>, and
+        <title level="m">History of the Franks</title> falls outside
+        what we normally consider to be the boundaries of Gratian's
+        formal or material sources. (Friedberg attributes the story
+        to the <title level="m">Life of St. Martin</title> by
+        Sulpicius Severus, although he really seems to have had in
+        mind an unrelated story from the third book of Sulpicius's
+        <title level="m">Dialogues</title> in which Marin compares
+        Brice to Judas. In any event Friedberg was wrong, the proper
+        attribution is to Gregory.) Gregory relates the story of a
+        nun or consecrated virgin serving as a laundress for Brice's
+        episcopal household who became pregnant and delivered a
+        child. The people of Tours, with whom Brice was already
+        quite unpopular, suspected that he was the father. Brice
+        had the thirty-day-old infant brought to him, and questioned
+        the child publicly concerning his paternity. Through the
+        saint's miraculous intervention, the child spoke plainly,
+        answering that Brice was not its father.
+        </p>
+        <p>
+        The <hi rend="italic">dictum</hi> is relevant in its immediate
+        context, since Gratian is concluding his treatment of the
+        second question, whether someone under the age of fourteen
+        is able to testify in a criminal case. But Gratian's reference
+        to this obscure story also seems intended to caution against
+        depending on miracles as a regular part of criminal procedure,
+        and by extension implies a negative judgement on the validity
+        of trial by ordeal.
+        </p>
+        <p>
+        <note place="foot">"It is remarkable that in his dicta
+        Gratian refers to sources that are not cited in the Decretum.
+        Many biblical citations, for example, are found only in the
+        dicta. They are often tied to important theological reflections
+        ..." (Landau, "Gratian and the Decretum Gratiani", 41.)</note>
+        </p>
+        <!-- 4.4.1 -->
+        <!-- 4.6.1 and 4.6.2 rubrics -->
         <p>The text of the rubrics for 4.6.1 and 4.6.2 is quite similar in all
         four R1 mss., and substantially different from the readings reported in
         Fr. 4.6.1: "Qui in accusatione episcopi culpabilis inuenitur ad
@@ -38,58 +101,6 @@
         culpabilis inuenitur" in Fr. 4.6.2: "Non negatur audientia in propria
         causa cuius accusatio interdicitur" in Aa Bc Fd P, and "Propriam causam
         agere ualet cui accusare non licet" in Fr.</p>
-        <p>C.4 q.2-3 d.p.c.3 quotes a cryptic statement, not found in Clavis
-        Canonum, attributed to St. Brice (†.444), a controversial disciple of
-        St. Martin, and his successor as bishop of Tours.</p>
-        <p>The most interesting text in the case is Gratian's one and
-        only dictum, C.4 q.2-3 d.p.c.3. "Set obicitur illud beati
-        Bricii, qui uoce pueri xxx dies ab ortu habentis innocens
-        probatus est. Set miracula diuina sunt admiranda, non in
-        exemplum humane actionis trahenda." The Latin of the first
-        sentence is somewhat opaque. Taking the accusative plural
-        dies as the object of habentis, and supplying exemplum
-        because it is neuter and can be construed with illud, the
-        sentence can be literally translated as "But that [example]
-        of blessed Brice is objected, who was proved innocent by
-        the voice of the child having thirty days from its birth
-        or origin." The dictum can be translated into more idiomatic
-        English as "But a counter-example is that of St. Brice, who
-        was proved innocent by the word of a thirty-day-old child.
-        But divine miracles are to be wondered at, not to be taken
-        as a pattern for human action."</p>
-        <p>Gratian is referring to a story from Gregory of Tours,
-        History of the Franks, II.1, about St. Brice (†.444), St.
-        Martin's controversial immediate successor as bishop of
-        Tours. This is the only mention of Brice in the Decretum,
-        and History of the Franks falls outside what we normally
-        consider to be the boundaries of Gratian's formal or material
-        sources. (Friedberg attributes the story to the Life of St.
-        Martin by Sulpicius Severus, although he really seems to
-        have had in mind an unrelated story from the third book of
-        Sulpicius's Dialogues in which Marin compares Brice to
-        Judas. In any event Friedberg was wrong, the proper attribution
-        is to Gregory.) Gregory relates the story of a nun or
-        consecrated virgin serving as a laundress for Brice's
-        episcopal household who became pregnant and delivered a
-        child. The people of Tours, with whom Brice was already
-        quite unpopular, suspected that he was the father. Brice
-        had the thirty-day-old infant brought to him, and questioned
-        the child publicly concerning his paternity. Through the
-        saint's miraculous intervention, the child spoke plainly,
-        answering that Brice was not its father.</p>
-        <p>The dictum is relevant in its immediate context, since
-        Gratian is concluding his treatment of the second question,
-        whether someone under the age of fourteen is able to testify
-        in a criminal case. But Gratian's reference to this obscure
-        story also seems intended to caution against depending on
-        miracles as a regular part of criminal procedure, and by
-        extension implies a negative judgement on the validity of
-        trial by ordeal.</p>
-        <p><note place="foot">"It is remarkable that in his dicta
-        Gratian refers to sources that are not cited in the Decretum.
-        Many biblical citations, for example, are found only in the
-        dicta. They are often tied to important theological reflections
-        ..." (Landau, "Gratian and the Decretum Gratiani", 41.)</note></p>
         <!-- Admont (Aa) -->
         <p>There are two marginal glosses in the Aa text of C.4 that refer to
         Burchard's <title level="m">Decretum</title>: "B.xvi. Nemo ſimul ſit."
