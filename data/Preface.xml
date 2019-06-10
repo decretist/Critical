@@ -29,6 +29,8 @@
     <front xml:id="front">
       <div type="section" xml:id="preface">
         <head>Preface</head>
+        <!-- C.4 d.init. -->
+        <!-- C.4 q.2-3 d.p.c.3 -->
         <p>
         Perhaps the most interesting text in the case is Gratian's
         one and only <hi rend="italic">dictum</hi>, C.4 q.2-3
@@ -119,12 +121,27 @@
         <!-- Paris (P) -->
         <p>The quality of scribal workmanship in P is visibly less professional
         than that in either Aa or Bc.</p>
-        <!-- cf. Mantello and Rigg -->
-        <p>In addition to scribal errors, Aa, Bc, and P reflect divergence from
+        <!--
+        cf. Mantello and Rigg
+        A.G. Rigg, CB "Orthography and Punctuation", 79
+        "Before a vowel, -<hi rend="italic">ti</hi>- is usually spelled -<hi rend="italic">ci</hi>-,
+        e.g., <hi rend="italic">racio</hi> = <hi rend="italic">ratio</hi>,
+        except after <hi rend="italic">s</hi> and <hi rend="italic">x</hi>,
+        e.g. <hi rend="italic">mixtio</hi>."
+        -->
+        <p>
+        In addition to scribal errors, Aa, Bc, and P reflect divergence from
         Classical Latin orthography for
-        <hi rend="italic">ci</hi> and <hi rend="italic">ti</hi>. Aa: spacium;
-        Bc: defitiens, iuditio and iuditium, and prouintie; and P: accionis,
-        audiencia, and tercio.</p>
+        <hi rend="italic">ci</hi> and <hi rend="italic">ti</hi>.
+        Aa: <hi rend="italic">spacium</hi>;
+        Bc: <hi rend="italic">defitiens</hi>,
+        <hi rend="italic">iuditio</hi> and
+        <hi rend="italic">iuditium</hi>, and
+        <hi rend="italic">prouintie</hi>; and
+        P: <hi rend="italic">accionis</hi>,
+        <hi rend="italic">audiencia</hi>, and
+        <hi rend="italic">tercio</hi>.
+        </p>
       </div>
     </front>
     <body>
