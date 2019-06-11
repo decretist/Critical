@@ -29,6 +29,122 @@
   </teiHeader>
   <text>
     <front xml:id="front">
+      <div type="section" xml:id="preface">
+        <head>Preface</head>
+        <!-- C.4 d.init. -->
+        <!-- C.4 q.2-3 d.p.c.3 -->
+        <p>
+        Perhaps the most interesting text in the case is Gratian's
+        one and only <hi rend="italic">dictum</hi>, C.4 q.2-3
+        d.p.c.3. "Set obicitur illud beati Bricii, qui uoce pueri
+        xxx dies ab ortu habentis innocens probatus est. Set miracula
+        diuina sunt admiranda, non in exemplum humane actionis
+        trahenda." The Latin of the first sentence is somewhat
+        opaque. Taking the accusative plural <hi rend="italic">dies</hi>
+        as the object of <hi rend="italic">habentis</hi>, and
+        supplying <hi rend="italic">exemplum</hi> because it is
+        neuter and can be construed with <hi rend="italic">illud</hi>,
+        the sentence can be literally translated as "But that
+        [example] of blessed Brice is objected, who was proved
+        innocent by the voice of the child having thirty days from
+        its birth or origin." The <hi rend="italic">dictum</hi> can
+        be translated into more idiomatic English as "But a
+        counter-example is that of St. Brice, who was proved innocent
+        by the word of a thirty-day-old child. But divine miracles
+        are to be wondered at, not to be taken as a pattern for
+        human action."
+        </p>
+        <p>
+        Gratian is referring to a story from Gregory of Tours,
+        <title level="m">History of the Franks</title>, II.1, about
+        St. Brice (†.444), St. Martin's controversial immediate
+        successor as bishop of Tours. This is the only mention of
+        Brice in the <title level="m">Decretum</title>, and
+        <title level="m">History of the Franks</title> falls outside
+        what we normally consider to be the boundaries of Gratian's
+        formal or material sources. (Friedberg attributes the story
+        to the <title level="m">Life of St. Martin</title> by
+        Sulpicius Severus, although he really seems to have had in
+        mind an unrelated story from the third book of Sulpicius's
+        <title level="m">Dialogues</title> in which Marin compares
+        Brice to Judas. In any event Friedberg was wrong, the proper
+        attribution is to Gregory.) Gregory relates the story of a
+        nun or consecrated virgin serving as a laundress for Brice's
+        episcopal household who became pregnant and delivered a
+        child. The people of Tours, with whom Brice was already
+        quite unpopular, suspected that he was the father. Brice
+        had the thirty-day-old infant brought to him, and questioned
+        the child publicly concerning his paternity. Through the
+        saint's miraculous intervention, the child spoke plainly,
+        answering that Brice was not its father.
+        </p>
+        <p>
+        The <hi rend="italic">dictum</hi> is relevant in its immediate
+        context, since Gratian is concluding his treatment of the
+        second question, whether someone under the age of fourteen
+        is able to testify in a criminal case. But Gratian's reference
+        to this obscure story also seems intended to caution against
+        depending on miracles as a regular part of criminal procedure,
+        and by extension implies a negative judgement on the validity
+        of trial by ordeal.
+        </p>
+        <p>
+        <note place="foot">"It is remarkable that in his dicta
+        Gratian refers to sources that are not cited in the Decretum.
+        Many biblical citations, for example, are found only in the
+        dicta. They are often tied to important theological reflections
+        ..." (Landau, "Gratian and the Decretum Gratiani", 41.)</note>
+        </p>
+        <!-- 4.4.1 -->
+        <!-- 4.6.1 and 4.6.2 rubrics -->
+        <p>The text of the rubrics for 4.6.1 and 4.6.2 is quite similar in all
+        four R1 mss., and substantially different from the readings reported in
+        Fr. 4.6.1: "Qui in accusatione episcopi culpabilis inuenitur ad
+        arguendum de cetero non admittatur nisi propriam causam ciuilem
+        solummodo asserere uoluerit" in Aa Bc Fd P, and "In ciuili et proprio
+        dumtaxat negotio ad arguendum admittitur, qui in episcopi accusatione
+        culpabilis inuenitur" in Fr. 4.6.2: "Non negatur audientia in propria
+        causa cuius accusatio interdicitur" in Aa Bc Fd P, and "Propriam causam
+        agere ualet cui accusare non licet" in Fr.</p>
+        <!-- Admont (Aa) -->
+        <p>There are two marginal glosses in the Aa text of C.4 that refer to
+        Burchard's <title level="m">Decretum</title>: "B.xvi. Nemo ſimul ſit."
+        (Burchard 16.15) at 4.4.1, and "B.i. Qͥſqͥs." (Burchard 1.160) at 4.6.1.
+        A rubric in between C.4 and C.5 ("Explicit liber quintus, incipit liber
+        sextus, de episcoporum accusationibus") indicates a non-standard
+        division of Aa into books.</p>
+        <!-- Barcelona (Bc) -->
+        <p>The order of rubrics in C.4 q.4 is reversed in Bc. The rubric for
+        4.4.2 ("Quilibet in causa duas personas gerere non valet") appears
+        before 4.4.1, and the rubric for 4.4.1 ("Accusator, testis vel iudex
+        aliquis simul esse non potest") appears before 4.4.2. Bc includes two
+        canons — 4.6.3 and 4.6.4 — not listed in Winroth's appendix and not
+        found in either Aa or P.</p>
+        <!-- Paris (P) -->
+        <p>The quality of scribal workmanship in P is visibly less professional
+        than that in either Aa or Bc.</p>
+        <!--
+        cf. Mantello and Rigg
+        A.G. Rigg, CB "Orthography and Punctuation", 79
+        "Before a vowel, -<hi rend="italic">ti</hi>- is usually spelled -<hi rend="italic">ci</hi>-,
+        e.g., <hi rend="italic">racio</hi> = <hi rend="italic">ratio</hi>,
+        except after <hi rend="italic">s</hi> and <hi rend="italic">x</hi>,
+        e.g. <hi rend="italic">mixtio</hi>."
+        -->
+        <p>
+        In addition to scribal errors, Aa, Bc, and P reflect divergence from
+        Classical Latin orthography for
+        <hi rend="italic">ci</hi> and <hi rend="italic">ti</hi>.
+        Aa: <hi rend="italic">spacium</hi>;
+        Bc: <hi rend="italic">defitiens</hi>,
+        <hi rend="italic">iuditio</hi> and
+        <hi rend="italic">iuditium</hi>, and
+        <hi rend="italic">prouintie</hi>; and
+        P: <hi rend="italic">accionis</hi>,
+        <hi rend="italic">audiencia</hi>, and
+        <hi rend="italic">tercio</hi>.
+        </p>
+      </div>
       <div type="section" xml:id="bibliography">
         <head>Bibliography</head>
         <div type="section" xml:id="bibliography-modern-editions">
