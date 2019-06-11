@@ -6,7 +6,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><title>TEI Diplomatic Transcription Demo</title></titleStmt>
+      <titleStmt><title>TEI Paleographic Transcription Demo</title></titleStmt>
       <publicationStmt><ab></ab></publicationStmt>
       <sourceDesc><ab></ab></sourceDesc>
     </fileDesc>
@@ -19,6 +19,7 @@
         <div type="section">
           <div type="textpart" n="C.4 d.init.">
             <head>(C.4 d.init.)</head>
+            <ab>
             <cb n="126vb"/>
             <lb n="19"/>in excomunicatione c̄ſtitutꝰ.
             <lb n="20"/>ep̄m accuſare diſponit. ado-
@@ -44,6 +45,7 @@
             <lb n="8"/>Sexto. ſi in epōꝝ iudicio accuſatoriſ
             <lb n="9"/>ꝑſona culpabił inuenta fuit̄. ā ad aſ-
             <lb n="10"/>ſertionē ꝓͥe cauſe. de cęt̄o ſit admittn̄da.
+            </ab>
             <ab>
             <choice><abbr/><expan><ex>Quidam</ex></expan></choice>
             in excomunicatione
@@ -110,6 +112,18 @@
             <choice><abbr>aliū</abbr><expan>ali<ex>um</ex></expan></choice>
             <choice><abbr>accuſare</abbr><expan>accu<ex>s</ex>are</expan></choice>
             ualeat.
+            <choice><abbr>Scđo</abbr><expan>S<ex>e</ex>c<ex>und</ex>o</expan></choice>
+            <choice><abbr>aut̄</abbr><expan>au<ex>tem</ex></expan></choice>
+            infra.
+            <choice><abbr>Ī</abbr><expan><ex>infra</ex></expan></choice>.
+            <choice><abbr>xiiiiū</abbr><expan><ex>decimum quartum</ex></expan></choice>.
+            <choice><abbr>annū</abbr><expan>ann<ex>um</ex></expan></choice>
+            in
+            <choice><abbr>cͥminari</abbr><expan><ex>cri</ex>minari</expan></choice>
+            <choice><abbr>cauſa</abbr><expan>cau<ex>s</ex>a</expan></choice>
+            <choice><abbr>teſtari</abbr><expan>te<ex>s</ex>tari</expan></choice>.
+            <choice><abbr>qͥſ</abbr><expan><ex>qui</ex><ex>s</ex></expan></choice>
+            <choice><abbr>poſſit</abbr><expan>po<ex>s</ex><ex>s</ex>it</expan></choice>.
             </ab>
           </div>
         </div>
