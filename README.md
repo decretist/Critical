@@ -4,5 +4,5 @@
 
 ## Critical
 
-Critical edition of first-recension (Aa, Bc, Fd, and P) text of C.4.
+Critical edition of first-recension (Aa Bc Fd P) text of C.4.
 
