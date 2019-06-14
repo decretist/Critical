@@ -106,7 +106,11 @@
         culpabilis inuenitur" in Fr. 4.6.2: "Non negatur audientia in propria
         causa cuius accusatio interdicitur" in Aa Bc Fd P, and "Propriam causam
         agere ualet cui accusare non licet" in Fr.</p>
-        <!-- Admont (Aa) -->
+        <!--
+          "(Admont) Aa contains the same text (as Bc Fd P) with interpolations
+          from the second recension in the main section of its two volumes."
+          Winroth, The Making of Gratian's Decretum, 122.
+        -->
         <p>There are two marginal glosses in the Aa text of C.4 that refer to
         Burchard's <title level="m">Decretum</title>: "B.xvi. Nemo ſimul ſit."
         (Burchard 16.15) at 4.4.1, and "B.i. Qͥſqͥs." (Burchard 1.160) at 4.6.1.
@@ -330,6 +334,20 @@
                   </ab>
                 </div>
                 <div type="textpart" subtype="canon">
+                  <!--
+                    Clavis Canonum search for
+                    Incipit = 'definimus eum rite ad accusationem non' and
+                    Explicit = 'voluerit accusare laicus'
+                    (matches Aa, Bc) returns 7 results:
+                    AE03.117, CA05.077, DR02.32.126, ID14.069,
+                    LP0647, PX05.01.51, and RM222.
+
+                    Clavis Canonum search for
+                    Incipit = 'definimus eum rite ad accusationem non' and
+                    Explicit = 'voluerit accusare clericus'
+                    (matches P) returns 1 result:
+                    DS06.01.080
+                  -->
                   <ab>
                     Diffinimus, eum rite ad accusationem non admitti, qui
                     posteaquam excommunicatus
