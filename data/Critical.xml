@@ -273,9 +273,8 @@
                   <lem wit="#Aa #Bc">an</lem>
                   <rdg wit="#P">autem</rdg>
                 </app>
-                infra
                 <app>
-                  <lem wit="#Aa #Bc"/>
+                  <lem wit="#Aa #Bc">infra</lem>
                   <rdg wit="#P">
                     <add>infra</add>
                   </rdg>
