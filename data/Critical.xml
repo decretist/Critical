@@ -276,7 +276,9 @@
                 infra
                 <app>
                   <lem wit="#Aa #Bc"/>
-                  <rdg wit="#P">infra</rdg>
+                  <rdg wit="#P">
+                    <add>infra</add>
+                  </rdg>
                 </app>
                 xiiiium annum in
                 <app>
